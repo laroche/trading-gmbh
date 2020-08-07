@@ -11,7 +11,8 @@ Die neuste Version dieses Dokuments ist
 - als pdf-Dokument hier zu finden: [Trading-GmbH.pdf](https://laroche.github.io/trading-gmbh/Trading-GmbH.pdf)
 - als Webseite hier zu finden: <https://laroche.github.io/trading-gmbh/>
 
-Weitere Änderungen bitte an <Florian.LaRoche@gmail.com> schicken.
+Weitere Änderungen bitte an <Florian.LaRoche@gmail.com> schicken oder
+bei <https://github.com/laroche/trading-gmbh/issues> eintragen.
 
 
 Motivation
@@ -26,7 +27,8 @@ zu beachten.
 Disclamer
 ---------
 
-TODO
+Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuerberatung.
+Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
 
 
 Übersicht
