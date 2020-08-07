@@ -3,33 +3,6 @@ title: Gründung einer GmbH
 ---
 
 
-Neuste Version
---------------
-
-Die neuste Version dieses Dokuments ist
-
-- als pdf-Dokument hier zu finden: [Trading-GmbH.pdf](https://knorke2.homedns.org/download/Trading-GmbH.pdf)
-- als Webseite hier zu finden: <https://knorke2.homedns.org/finanzen/>
-
-Weitere Änderungen bitte an <Florian.LaRoche@gmail.com> schicken.
-
-
-Motivation
-----------
-
-Sammlung von Informationen, um in einer vermögensverwaltenden GmbH oder UG seine Börsengeschäfte
-zu verwalten. Was gehört zur Gründung und was fällt an Verwaltung für den laufenden Betrieb an,
-welche steuerlichen Vorschriften gibt es und was ist für einen Firmenaccount an der Börse
-zu beachten.
-
-
-Disclaimer
-----------
-
-Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuerberatung.
-Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
-
-
 Links zur GmbH
 --------------
 
