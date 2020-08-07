@@ -354,6 +354,7 @@ Holding
 - <https://www.companies24.com/6-fragen-zur-ug-als-holding-und-steuersparmodell/>
 
 Beteiligung an einer GmbH:
+
 - Dauerüberzahlerbescheinigung bei Kapitalertragsteuer (ähnlich einer Nichtveranlagungsbescheinigung):
   Wenn Kapitalerträge Betriebseinnahmen sind und die Kapitalertragsteuer dauerhaft höher ist als die gesamte
   festzusetzende Einkommen- oder Körperschaftsteuer, dann muss kein Steuerabzug vorgenommen werden.
