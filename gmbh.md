@@ -263,7 +263,7 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
    - Aktiengewinne werden nur zu 5 % versteuert: Dort fällt KSt+SolZ und GewSt an. Also werden 5 % mit 15,825 % und GewSt versteuert.
       - Das entspricht 0,79125 % Steuer ohne GewSt oder ca. 1.6 % bei üblicher GewSt. (5 % * 15,825 % + 5 % * 14 % = 1,5 %).
 - Termingeschäfte haben einen eigenen Verlustverrechnungstopf: Verluste von Termingeschäften lassen
-  sich nur mit Gewinnen aus Termingeschäften verrechnen.
+  sich nur mit Gewinnen aus Termingeschäften verrechnen. (Nicht belegt, vermutlich eine falsche Behauptung.)
 - Dividenden und alle anderen Wertpapiere: KSt+SolZ+GewSt, Verluste werden voll angerechnet.
 - Vorabpauschale für Fonds
    - <https://www.ebnerstolz.de/de/investmentsteuerreformgesetz-stolpersteine-bei-betrieblichen-anlegern-261044.html>

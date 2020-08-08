@@ -144,9 +144,9 @@ Kosten einer GmbH
    - Miete für den Sitz/Geschäftsräume
    - 2700 € Erstellung des Jahresabschlusses (Bilanz, GuV) und Buchhaltung vom Steuerberater
    - 700 € Lohnbuchhaltung vom Steuerberater
-   - Ab 2021 kommt dann wohl noch die Rentenversicherungspflicht für den Geschäftsführer.
+   - Ab 2021 kommt dann wohl noch die Rentenversicherungspflicht für den Geschäftsführer. (Bisher nicht in Sicht. Kann entfernt werden?)
    - höhere Kosten beim Broker für einen GmbH-Kunden
-      - Börsenhandel der GmbH: "professional" Marktdatenabo bei Interactive Brokers: $120/Monat
+      - Börsenhandel der GmbH: "professional" [Marktdatenabo bei Interactive Brokers](https://www.interactivebrokers.eu/de/index.php?f=15537): $125/Monat
    - GEZ-Gebühr: <https://www.rundfunkbeitrag.de/unternehmen_und_institutionen/informationen/betriebsstaette/>
       - Es wird kein Rundfunkbeitrag erhoben für ein Büro in einer beitragspflichtigen privaten Wohnung,
         wenn diese bereits beim Beitragsservice angemeldet ist.
