@@ -27,9 +27,13 @@ in Deutschland zu verwalten. Was gehört zur Gründung und was fällt an Verwalt
 Betrieb an, welche steuerlichen Vorschriften gibt es und was ist für einen Firmenaccount an der
 Börse zu beachten.
 
+- Möglichst gute Trennung von den allgemeinen Regelungen für alle GmbHs und den speziellen Besonderheiten
+  für eine Trading GmbH.
+- Direkter Verweis auf Gesetzestexte, damit die Regelungen dort im Detail nachgelesen werden können.
 
-Disclamer
----------
+
+Disclaimer
+----------
 
 Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuerberatung.
 Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
@@ -43,4 +47,5 @@ Die Informationen, die hier bereitgestellt werden, dienen lediglich der Informat
 - [Steuern](steuern.md)
 - [Buchhaltung](buchungen.md)
 - [Arbeitszimmer](arbeitszimmer.md)
+- [TODO](todo.md)
 
