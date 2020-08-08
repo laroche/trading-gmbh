@@ -295,6 +295,9 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - Bei einer reinen Holding ohne operatives Geschäft: passive NFFE = passive non financial foreign entity,
   wenn die GmbH auch Consulting oder anderes anbietet ist active NFFE richtig.
 - Doppelbesteuerungsabkommen: company that meets the derivative benefit test
+- Von einem "Friends und Family Gruppen Konto" bei Interactive Brokers kann man bis zu 15 Konten betreuen.
+  Wenn man dieses als Privatperson eröffnet und eine Einladung zur Verwaltung an das GmbH-Konto verschickt,
+  kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben.
 
 
 Stille Gesellschaft
