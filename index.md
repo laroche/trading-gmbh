@@ -13,6 +13,8 @@ Die neuste Version dieses Dokuments ist
 - als pdf-Dokument hier zu finden: [Trading-GmbH.pdf](https://laroche.github.io/trading-gmbh/Trading-GmbH.pdf)
 - als Webseite hier zu finden: <https://laroche.github.io/trading-gmbh/>
 
+Änderungen kann man als RSS-Feed über <https://github.com/laroche/trading-gmbh/commits/master> mitverfolgen.
+
 Weitere Änderungen bitte an <Florian.LaRoche@gmail.com> schicken oder
 bei <https://github.com/laroche/trading-gmbh/issues> eintragen.
 Dieses Dokument soll als Community-Projekt weiter ausgebaut und
