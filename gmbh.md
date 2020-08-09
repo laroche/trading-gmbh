@@ -94,7 +94,7 @@ Informationen zur GmbH
       - ELSTER-Schnittstelle zum Finanzamt
          - Umsatzsteuervoranmeldungen
       - Export nach GDPdU für eine digitale Betriebsprüfung vom Finanzamt
-      - Lässt sich ein Jahresabschluss selbständig erstellen/übertragen? Bzw zusammen mit <https://www.myebilanz.de/> erstellen?
+      - Lässt sich ein Jahresabschluss selbständig erstellen/übertragen? Bzw. zusammen mit <https://www.myebilanz.de/> erstellen?
          - Selbst bei Unterstützung von doppelter Buchhaltung gehen die meisten Software-Programme davon aus, dass alle
            Buchungen nur vorbereitend erfasst werden und ein Jahresabschluss vom Steuerberater mit anderer Software erstellt wird.
       - Veröffentlichung im eBundesanzeiger wird unterstützt?
@@ -226,7 +226,7 @@ Herausnahme von Kapital aus der GmbH
 - Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € zu, sondern
   auch der Grundfreibetrag von 8.130 € sowie der Sonderausgabenpauschbetrag von 36 €. Damit kann jedes Kind
   mindestens 8.967 € Zinsen steuerfrei kassieren.
-- Kapitalherabsetzung: benötigt einen Gesellschafterbeschluß + Notar
+- Kapitalherabsetzung: benötigt einen Gesellschafterbeschluss + Notar
 - Als Mini-Jobber für die Gesellschaft anstellen, damit man krankenversichert ist. (?)
 - Kostenerstattung, Honorartätigkeiten
 - Dienstleistungen (Kleinunternehmer bis 22.500 €)
@@ -235,7 +235,7 @@ Herausnahme von Kapital aus der GmbH
    - <http://www.daswirtschaftslexikon.com/d/r%C3%BCcklagen/r%C3%BCcklagen.htm>
 - Altersversorgungszusage, für die in der Bilanz eine Pensionsrückstellung gebildet wird. Rücklagen für Rentenzahlungen.
    - [Wikipedia. Pensionsrückstellung](https://de.wikipedia.org/wiki/Pensionsr%C3%BCckstellung)
-   - Eine bAV (betriebliche Altersvorsorge) ist nur nach Probezeit5 (5 Jahre GmBH und 3 Jahre GGF) möglich.
+   - Eine bAV (betriebliche Altersvorsorge) ist nur nach Probezeit5 (5 Jahre GmbH und 3 Jahre GGF) möglich.
      Pensionszusagen ohne Aktiv Bezüge sind nicht möglich. Mit Bezügen muss die Angemessenheit (max 75%) jederzeit gewährleistet sein.
      Auch die Erdienbarkeit und das Höchsteintrittsalter sind zu beachten.
 - Rückstellungen für:
@@ -263,7 +263,7 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
 - Termingeschäfte haben einen eigenen Verlustverrechnungstopf: Verluste von Termingeschäften lassen
   sich nur mit Gewinnen aus Termingeschäften verrechnen. (Nicht belegt, vermutlich eine falsche Behauptung.)
 - Dividenden und alle anderen Wertpapiere: KSt+SolZ+GewSt, Verluste werden voll angerechnet. Dies gilt für die KSt bei Streubesitz von
-  weniger als 10% und für die GewSt bei Streubesitz von weniger als 15%.
+  weniger als 10 % und für die GewSt bei Streubesitz von weniger als 15 %.
 - Vorabpauschale für Fonds
    - <https://www.ebnerstolz.de/de/investmentsteuerreformgesetz-stolpersteine-bei-betrieblichen-anlegern-261044.html>
 - Teilfreistellungen nach [§ 20 1 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__20.html):
@@ -322,7 +322,7 @@ Stille Gesellschaft
 - [BMF: Übermittlungspflicht atypisch stiller Gesellschaften](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2017-11-24-e-bilanz-uebermittlungspflicht-in-faellen-atypisch-stiller-gesellschaften-gemaess-paragraf-5b-EStG.pdf?__blob=publicationFile&v=1)
 - <https://www.wista-ag.de/angemessenheit-der-gewinnverteilung-bei-gmbh-mit-atypisch-stiller-beteiligung/>
 - <https://www.gk-law.de/Stille-Beteiligungen/Stille-Beteiligungen-0317333755.html>
-- Wir haben nun zwei Möglichkeiten für die Feststellungserklärung für die UG atypisch still durchzuführen: 
+- Wir haben nun zwei Möglichkeiten für die Feststellungserklärung für die UG atypisch still durchzuführen:
    - richtig: Gesonderte und einheitliche Feststellung von Grundlagen für die Einkommensbesteuerung (ESt 1 B)
    - falsch: Gesonderte Feststellung von Grundlagen für die Einkommensbesteuerung (ESt 1 D)
 - zu erstellende Unterlagen für eine atypisch stille Gesellschaft:
@@ -361,7 +361,7 @@ Beteiligung an einer GmbH:
   Wenn Kapitalerträge Betriebseinnahmen sind und die Kapitalertragsteuer dauerhaft höher ist als die gesamte
   festzusetzende Einkommen- oder Körperschaftsteuer, dann muss kein Steuerabzug vorgenommen werden.
    - Nach § 44a Abs. 5 EStG kann eine Bescheinigung vom Finanzamt an die operative GmbH gegeben werden,
-     falls weniger als 25% Abgeltungssteuer anfallen und damit nicht zu viel Steuern einbehalten werden.
+     falls weniger als 25 % Abgeltungssteuer anfallen und damit nicht zu viel Steuern einbehalten werden.
    - Beispiel: Bei einer Holding müssen 25 % Steuern gezahlt werden, es fallen tatsächlich aber nur 1,5 % Steuern
      an. Die 23,5 % werden dann erst über eine Steuererklärung vom Finanzamt erstattet.
    - Um die Privilegierung zu nutzen, muss beim zuständigen Finanzamt eine Freistellungsbescheinigung gemäß

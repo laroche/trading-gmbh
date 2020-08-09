@@ -81,7 +81,7 @@ Infosammlung:
 - Eintragung ins [Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) (150 €) über das Amtsgericht (wird vom Notar gemacht) und Erhalt der HBR-Nummer
    - Handelsregisterauszug nochmal der Bank abgeben (GmbH fertig gegründet, Zusatz "in Gründung"/"i.G." fällt weg)
    - Erst nachdem die Eintragung in das Handelsregister erfolgt ist, entfaltet die GmbH ihren Haftungsschutz.
-   - Gründungskosten übernimmt die GmbH, alles weitere auf nach der Gründung verschieben.
+   - Gründungskosten übernimmt die GmbH, alles Weitere auf nach der Gründung verschieben.
 - Das Finanzamt vergibt eine Steuernummer (für Rechnungen) und eine Umsatzsteuer-ID und fordert den Geschäftsführer auf,
   die GmbH steuerlich erfassen zu lassen und eine Eröffnungsbilanz abzugeben. (Dies sollte einem Steuerberater übertragen werden.)
    - <https://www.formulare-bfinv.de/ffw/> "Steuerformulare" "020 - Fragebogen zur steuerlichen Erfassung/Gründung einer Kapitalgesellschaft"
@@ -102,7 +102,7 @@ Infosammlung:
    - Der GF kann ohne gesonderte Vergütung tätig sein.
    - Die unentgeltliche Geschäftsführung kann bei Gründung durch Gesellschafterbeschluss dokumentiert werden.
 - Bei mehr als einem Gesellschafter ist die Sozialversicherungspflicht über einen Statusfeststellungsverfahren zu klären:
-   - Geschäftsführer mit 50 % oder mehr der Anteile ist nicht sozialverischerungspflichtig, weil er dann selbständig unternehmerisch tätig ist
+   - Geschäftsführer mit 50 % oder mehr der Anteile ist nicht sozialversicherungspflichtig, weil er dann selbständig unternehmerisch tätig ist
      bzw. bei 50 % keine Entscheidungen gegen Ihn durchgesetzt werden können.
 
 
@@ -117,7 +117,7 @@ Unternehmergesellschaft UG
 - Wenn möglich sollte eigentlich immer direkt eine GmbH gegründet werden.
 - Stammkapital/Gründungskapital ist mindestens 1 € und sollte alle laufenden Kosten decken. Für das erste Jahr ist mit 1.000 € zu rechnen.
 - Ab 25.000 € wird die UG zur GmbH. Das ist aber keine Pflicht.
-   - Wirtschaftsprüfer und Notar wieder nötig oder man gründet dann eine neue unabhänige GmbH, um Kosten zu sparen.
+   - Wirtschaftsprüfer und Notar wieder nötig oder man gründet dann eine neue unabhängige GmbH, um Kosten zu sparen.
 - Gesetzliche Rücklageverpflichtung von 25 % vom Gewinn. Diese endet erst, wenn eine Kapitalerhöhung auf 25.000 € beschlossen und im Handelsregister eingetragen wird.
 - Freibeträge (bei der Gewerbesteuer?)
 - keine Sacheinlagen möglich

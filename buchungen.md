@@ -174,23 +174,26 @@ Weitere Grundsätze für die Buchführung
    - Eine monatliche Bearbeitung ergibt sich spätestens mit monatlichen Vorauszahlungen der Umsatzsteuer.
 
 
-Niederwertsprinzip für die Buchführung, Buchung von Wertpapieren
-----------------------------------------------------------------
+Niederstwertprinzip für die Buchführung, Buchung von Wertpapieren
+-----------------------------------------------------------------
 
-- Gem. § 253 (3) HGB sind Wertpapiere des Umlaufvermögens nach dem strengen Niederwertprinzip zu bewerten.
+Siehe [Wikipedia: Niederstwertprinzip](https://de.wikipedia.org/wiki/Niederstwertprinzip)
+oder [sevdesk: Niederstwertprinzip](https://sevdesk.de/lexikon/niederstwertprinzip/).
+
+- Gem. § 253 (3) HGB sind Wertpapiere des Umlaufvermögens nach dem strengen Niederstwertprinzip zu bewerten.
   Das bedeutet, dass zur kurzfristigen Anlage erworbene Wertpapiere immer zum niedrigsten Wert zu bilanzieren
   sind, auch wenn die Kursminderung am Abschlussstichtag nur vorübergehend ist.
-- Für Wertpapiere des Anlagevermögens (Finanzanlagen) gilt dagegen das gemilderte (erweiterte) Niederwertprinzip.
+- Für Wertpapiere des Anlagevermögens (Finanzanlagen) gilt dagegen das gemilderte (erweiterte) Niederstwertprinzip.
   Das bedeutet, dass sie bei nur vorübergehender Kursminderung mit dem niedrigeren Wert angesetzt werden können
-  (Wahlmöglichkeit). Gem. §253 (2) wird aus "Kann-" eine "Mussbestimmung", wenn die Kurse dieser Analgepapiere
+  (Wahlmöglichkeit). Gem. §253 (2) wird aus "Kann-" eine "Mussbestimmung", wenn die Kurse dieser Anlagepapiere
   am Abschlussstichtag nachhaltig gesunken sind und von einer voraussichtlich dauernden Kursminderung auszugehen
-  ist (strenges Niederswertprinzip).
+  ist (strenges Niederstwertprinzip).
 
 Mit dem Niederstwertprinzip wird aus Gründen der Vorsicht und zum Schutz der Gläubiger sichergestellt, das keine Gewinne
 (Buchgewinne) ausgewiesen werden, die noch nicht durch Wertpapierverkäufe entstanden (realisiert) sind.
 
 Aktien können sowohl im Umlaufvermögen (UV) wie auch im Anlagevermögen (AV) gebucht werden. Es ändert sich nur die
-Abschreibung nach dem strengen oder gemilderten Niederwertprinzips.
+Abschreibung nach dem strengen oder gemilderten Niederstwertprinzip.
 
 Ein Kursverlust aus dem Verkauf von Wertpapieren des Umlaufvermögens wird über das Konto "Verluste aus dem Abgang von
 Wertpapieren des Umlaufvermögens" gebucht, ein Kursgewinn über das Konto "Erträge aus Wertpapieren des Umlaufvermögens".
