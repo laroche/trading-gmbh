@@ -27,7 +27,7 @@ Informationen zur GmbH
 - Ist die UG Umsatzsteuerlicher Unternehmer i.S.v. § 2 UStG? Nachhaltige Tätigkeiten außerhalb der Aktienanlage mit Einnahmeerzielungsabsicht.
   -> Umsatzsteuerliche Einstufung als Kleinunternehmer oder nicht.
    - <https://www.gruenderlexikon.de/checkliste/informieren/ihr-recht/kleinunternehmerregelung/>
-- Mein Finanzamt hat mir mit Verweis auf Umsatzsteueranwendungserlass (UStAE) Abschnitt 2.3 Absatz (1) Satz /1a)  erklärt,
+- Mein Finanzamt hat mir mit Verweis auf Umsatzsteueranwendungserlass (UStAE) Abschnitt 2.3 Abs. 1a erklärt,
    dass das bloße Erwerben, Halten und Veräußern von gesellschaftsrechtlichen Beteiligungen keine unternehmerische Tätigkeit im Sinne des Umsatzsteuergesetzes ist.
    Für deine Spardosen GmbH brauchst du daher keine Umsatzsteuervoranmeldungen oder Umsatzsteuererklärungen abzugeben, kannst aber auch im Umkehrschluss keine Vorsteuer abziehen.
    - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2019-12-31-umsatzsteuer-anwendungserlass-konsolidierte-fassung-31-12-2019.pdf?__blob=publicationFile&v=4>
@@ -39,7 +39,7 @@ Informationen zur GmbH
    - Lohnsteuer, <https://www.ilohngehalt.de/> <https://www.gruenderlexikon.de/checkliste/fuehren/lohnabrechnung/>
    - Gesellschafter-Geschäftsführer GGF
    - Lohnsteuer an den GGF fällt nur an, wenn mehr als 950 € Brutto-Gehalt ausgezahlt wird. In der Einkommensteuererklärung
-     wird dies als Einünfte aus selbständiger Arbeit eingetragen.
+     wird dies als Einkünfte aus selbständiger Arbeit eingetragen.
       - <https://www.lohn-info.de/lohnsteuersteuertabellen_2019.html>
    - Beim Gehalt muss darauf geachtet werden, dass es einem Fremdvergleich standhält, nicht, dass das
      Finanzamt eine verdeckte Gewinnausschüttung (VGA) daraus macht.
@@ -71,8 +71,6 @@ Informationen zur GmbH
    - Nicht alle Broker erlauben eine GmbH als Kunden.
    - Für Broker in Deutschland: Erlaubt der Broker sich von der Kapitalertragssteuer befreien zu lassen?
    - Gebühren für Professionals bei IB: <https://www.interactivebrokers.eu/de/index.php?f=15537>
-- "Ende der Spardosen-GmbH": Braucht man neben dem Trading auch noch weitere Geschäftsfelder?
-   - <http://www.contax-hannover.de/ende-der-spardosen-kapitalgesellschaft/>
 - Geschäftskonto:
    - [Fyrst](https://www.fyrst.de/konten/), [Fidor Bank](https://fidor.de/), [PENTA](https://getpenta.com/de/firmenkonto/), [Holvi](https://www.holvi.com/),
      N26 (?), [Deutsche Bank](https://www.deutsche-bank.de/gk/zahlungsverkehr/zahlungsverkehr-im-ueberblick/geschaeftskonto.html),
@@ -257,14 +255,15 @@ Besteuerung von Börsen-Gewinnen und -Verlusten
 Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behandelt?
 
 - Aktien
-   - Gem. [§ 8b Abs. 3 Satz 1 KStG](https://dejure.org/gesetze/KStG/8b.html) werden 5 % vom Veräußerungsgewinn als nicht abziehbare
-     Betriebsausgaben dem Gewinn hinzugerechnet. Aktienverluste bleiben unberücksichtigt.
-   - Aktiengewinne sind zu 95 % von der Steuer befreit (§ 8b Abs. 2 KStG).
+   - 5 % vom Veräußerungsgewinn werden als nicht abziehbare Betriebsausgaben dem Gewinn
+     hinzugerechnet. Aktienverluste bleiben unberücksichtigt. Damit sind Aktiengewinne zu 95 %
+     von der Steuer befreit ([§ 8b Abs. 2 KStG](https://dejure.org/gesetze/KStG/8b.html)).
    - Aktiengewinne werden nur zu 5 % versteuert: Dort fällt KSt+SolZ und GewSt an. Also werden 5 % mit 15,825 % und GewSt versteuert.
       - Das entspricht 0,79125 % Steuer ohne GewSt oder ca. 1.6 % bei üblicher GewSt. (5 % * 15,825 % + 5 % * 14 % = 1,5 %).
 - Termingeschäfte haben einen eigenen Verlustverrechnungstopf: Verluste von Termingeschäften lassen
   sich nur mit Gewinnen aus Termingeschäften verrechnen. (Nicht belegt, vermutlich eine falsche Behauptung.)
-- Dividenden und alle anderen Wertpapiere: KSt+SolZ+GewSt, Verluste werden voll angerechnet.
+- Dividenden und alle anderen Wertpapiere: KSt+SolZ+GewSt, Verluste werden voll angerechnet. Dies gilt für die KSt bei Streubesitz von
+  weniger als 10% und für die GewSt bei Streubesitz von weniger als 15%.
 - Vorabpauschale für Fonds
    - <https://www.ebnerstolz.de/de/investmentsteuerreformgesetz-stolpersteine-bei-betrieblichen-anlegern-261044.html>
 - Teilfreistellungen nach [§ 20 1 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__20.html):

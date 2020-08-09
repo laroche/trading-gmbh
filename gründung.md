@@ -63,7 +63,7 @@ Infosammlung:
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
          - Firmenname und Unternehmensgegenstand sollte mit der IHK besprochen werden. Stellungnahme der IHK kann beim Notar mitgebracht werden.
       - Stammeinlage/Startkapital
-         - mind. 25.000 €, die Hälfte muss eingezahlt werden
+         - mind. 25.000 € für eine GmbH, die Hälfte muss eingezahlt werden
          - Für eine UG langt 1 €, sollte mindestens alle laufenden Kosten tragen. Also ca. 1.000 € im ersten Jahr.
          - Sachgründung: Schätzung der Gegenstände (kostet auch Geld), sonst Bareinlage (sehr zu empfehlen)
       - Gesellschafter, Verteilung der Kapitalanteile
@@ -90,7 +90,7 @@ Infosammlung:
    - [YouTube Fragebogen zur steuerlichen Erfassung](https://www.youtube.com/watch?v=26aao3WwnW4)
    - <https://www.gruenderlexikon.de/checkliste/informieren/ihr-recht/steuerlicher-erfassungsbogen/#c10445>
    - <https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/fragebogen-zur-steuerlichen-erfassung/>
-- Anmeldung beim Gewerbeamt (kostet ca. 50 €): Gewerbeschein ausfüllen
+- Anmeldung beim Gewerbeamt (kostet ca. 60 €): Gewerbeschein ausfüllen
 - Anmeldung bei der IHK
    - IHK Mindestbeitrag sind ca. 200 €
 - Geschäftspapiere erstellen mit: Name, Rechtsform, Sitz, Registergericht, Handelsregisternummer, alle Geschäftsführer mit Titel, Vor- und Zunamen
@@ -106,7 +106,6 @@ Infosammlung:
      bzw. bei 50 % keine Entscheidungen gegen Ihn durchgesetzt werden können.
 
 
-
 Unternehmergesellschaft UG
 --------------------------
 
@@ -114,6 +113,7 @@ Unternehmergesellschaft UG
 - § 5a GmbHG
    - <https://www.gesetze-im-internet.de/gmbhg/__5a.html>
    - <https://gmbhg.kommentar.de/Abschnitt-1/Unternehmergesellschaft>
+- Bis auf das Stammkapital haben die UG und die GmbH weitgehend gleiche Vorschriften.
 - Wenn möglich sollte eigentlich immer direkt eine GmbH gegründet werden.
 - Stammkapital/Gründungskapital ist mindestens 1 € und sollte alle laufenden Kosten decken. Für das erste Jahr ist mit 1.000 € zu rechnen.
 - Ab 25.000 € wird die UG zur GmbH. Das ist aber keine Pflicht.
