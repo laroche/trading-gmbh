@@ -18,20 +18,13 @@ cat index2.md gründung.md gmbh.md steuern.md buchungen.md todo2.md > Trading-Gm
 
 rm -f index2.md todo2.md
 
-  # Festes Leerzeichen einfügen, an dem kein Zeilenumbruch erfolgt:
-  for i in Trading-GmbH.md ; do
-    sed -i -e 's/ %/\\ %/g' $i
-    sed -i -e 's/ €/\\ €/g' $i
-    sed -i -e 's/§ /§\\ /g' $i
-  done
+# Festes Leerzeichen einfügen, an dem kein Zeilenumbruch erfolgt:
+sed -i -e 's/ %/\\ %/g' -e 's/ €/\\ €/g' -e 's/§ /§\\ /g' Trading-GmbH.md
 
 #sed -i -e 's/≤/<=/g' buchungen.md
 
-pandoc -o Trading-GmbH.pdf -f markdown -t latex \
-    --template eisvogel \
-    --top-level-division=chapter \
-    --pdf-engine=xelatex \
-    Trading-GmbH.md
+pandoc -o Trading-GmbH.pdf -f markdown -t latex --template eisvogel \
+    --top-level-division=chapter --pdf-engine=xelatex Trading-GmbH.md
 
 rm -f Trading-GmbH.md
 
