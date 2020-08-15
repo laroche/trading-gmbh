@@ -1,7 +1,17 @@
 ---
 title: Trading-GmbH
+subject: Trading-GmbH
 subtitle: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
+#abstract: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 keywords: [GmbH, Trading, vermögensverwaltende GmbH, Steuern, Buchhaltung, Bilanz]
+author: Florian La Roche
+date: 2020-08-15
+titlepage: true
+toc: true
+toc-own-page: true
+lang: de
+linkcolor: blue
+book: true
 ---
 
 

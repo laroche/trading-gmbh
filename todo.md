@@ -12,4 +12,5 @@ TODO
 - IB Report als Minimalfassung für die Steuer?
 - schönere Webseiten
 - alte Webseiten zurückbauen
+- pandoc: wie als Report anstelle von einem Buch generieren?
 
