@@ -204,6 +204,18 @@ Schlussbestandes erhält man also als Saldo den Erfolg des Wertpapierkontos. Wer
 Bilanzstichtag sind als außerordentliche abzuschreiben. Abschreibungen auf einen niedrigeren Tageswert im Rahmen des
 Jahresabschlusses erfolgen auf das Konto "Abschreibungen auf Wertpapiere des Umlaufvermögens".
 
+Siehe auch SKR04 Konten 72xxx: Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens:
+
+- Anlagevermögen:
+   - 7200 Abschreibungen auf Finanzanlagen (dauerhaft)
+   - 7201 Abschreibungen auf Finanzanlagen (nicht dauerhaft)
+   - 7204 Abschreibungen auf Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG (dauerhaft)
+- Umlaufvermögen:
+   - 7210 Abschreibungen auf Wertpapiere des Umlaufvermögens
+   - 7214 Abschreibungen auf Wertpapiere des Umlaufvermögens § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG
+   - 7250 Abschreibungen auf Finanzanlagen auf Grund § 6b EStG-Rücklage
+   - 7255 Abschreibungen auf Finanzanlagen auf Grund § 6b EStG-Rücklage, § 3 Nr. 40 EStG bzw.  § 8b Abs. 3 KStG
+
 
 Übertragung der E-Bilanz an das Finanzamt
 -----------------------------------------
@@ -478,6 +490,22 @@ Beispielbuchungen:
 - Geschäftsführergehalt:
    - Soll 6024: Nettogehalt Geschäftsführer
    - Haben 1700: Nettogehalt Geschäftsführer
+
+- TODO
+   - Für Dividenden könnte Konto 7014 besser passen:
+      - 7014 Erträge aus Anteilen an Kapitalgesellschaften (Finanzanlagevermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 und 4 KStG
+         - An der Schnittstelle zu GewSt werden ab VAZ 2009 die Erträge zu 40 % als steuerfrei und die Aufwendungen zu 40 % als nicht
+           abziehbar behandelt. An der Schnittstelle zur KSt werden die Erträge zu 100 % als steuerfrei und die Aufwendungen zu 100 %
+           als nicht abziehbar behandelt. Siehe §§ 3 Nr. 40 und 3c EStG bzw. § 8b KStG.
+      - 7020 Zins- und Dividendenerträge
+      - 7030 Erhaltene Ausgleichszahlungen (als außenstehender Aktionär)
+      - 7103 Erträge aus Anteilen an Kapitalgesellschaften (Umlaufvermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 und 4 KStG
+         - An der Schnittstelle zu GewSt werden ab VAZ 2009 die Erträge zu 40 % als steuerfrei und die Aufwendungen zu 40 % als nicht
+           abziehbar behandelt. An der Schnittstelle zur KSt werden die Erträge zu 100 % als steuerfrei und die Aufwendungen zu 100 %
+           als nicht abziehbar behandelt. Siehe §§ 3 Nr. 40 und 3c EStG bzw. § 8b KStG.
+      - 7110 Sonstige Zinserträge
+      - 7115 Erträge aus anderen Wertpapieren und Ausleihungen des Umlaufvermögens
+      - 7120 Zinsähnliche Erträge
 
 
 Beispiel 2 SKR04 Buchungen
