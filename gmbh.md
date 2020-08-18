@@ -50,6 +50,7 @@ Informationen zur GmbH
   die Veränderung des Geschäftszwecks oder Änderungen der Gesellschafter sind dem Handelsregister mitzuteilen.
 - Wird mehr als 25.000 € Stammkapital eingezahlt, wird dies als Kapitalrücklage gebucht. Besser ist eine Einbringung als Darlehen.
    - Darlehen kann jederzeit zurückgezahlt werden. Braucht keinen Gesellschafterbeschluss. Darlehen muss übliche Verzinsung aufweisen.
+   - Gesellschafter Rahmen-Darlehen
 - Gesellschafterversammlung einmal im Jahr
 - LEI-Nummer muss jährlich bezahlt werden (130 € am Anfang, dann 70 € pro Jahr)
    - <https://lei.info/portal/faqs/>
