@@ -382,6 +382,8 @@ Laut Wegzugsbesteuerung nach § 6 AStG § 17 EStG werden alle Gewinne fiktiv an 
 Die Besteuerung beim Gesellschafter erfolgt unter Anwendung des Teileinkünfteverfahrens, wobei
 40 % steuerfrei sind und 60 % nach dem persönlichen Steuersatz besteuert werden.
 
+- <https://www.staatenlos.ch/>
+
 
 Firma im Ausland gründen
 ------------------------

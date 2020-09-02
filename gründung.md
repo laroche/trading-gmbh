@@ -28,6 +28,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - <https://www.finanzgefluester.de/nachteile-der-vermoegensverwaltenden-gmbh/>
       - <https://www.finanzgefluester.de/lohnt-sich-die-vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/steuerfallen-bei-der-vermoegensverwaltenden-gmbh/>
+   - <https://www.ride.capital/trader-gmbh>
 
 
 Gründung einer GmbH oder UG
