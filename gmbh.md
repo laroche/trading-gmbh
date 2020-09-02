@@ -124,6 +124,7 @@ Informationen zur GmbH
          - Bilanz- und GuV-Auswertung entsprechen nicht dem aktuellen HGB-Stand.
          - [Bilanzrichtlinie-Umsetzungsgesetz (BilRUG)](https://de.wikipedia.org/wiki/Bilanzrichtlinie-Umsetzungsgesetz) in der GuV-Gliederung wird nicht umgesetzt.
          - "Buchhaltung Start" hat kein DATEV-Export
+         - Sage ist ein ERP, Sage Business Cloud liefert nur Buchhaltung.
       - [Banana Buchhaltung](https://www.banana.ch/)
       - [Textbuch doppelte Buchführung](http://www.textbuch.de/)
       - [DATEV Faktura](https://www.datev.de/web/de/datev-shop/komplettloesungen/datev-mittelstand-faktura-pro/)
@@ -265,6 +266,7 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
   sich nur mit Gewinnen aus Termingeschäften verrechnen. (Nicht belegt, vermutlich eine falsche Behauptung.)
 - Dividenden und alle anderen Wertpapiere: KSt+SolZ+GewSt, Verluste werden voll angerechnet. Dies gilt für die KSt bei Streubesitz von
   weniger als 10 % und für die GewSt bei Streubesitz von weniger als 15 %.
+   - Gezahlte Quellensteuer wird bis 15% auf die Körperschaftsteuer angerechnet. Hängt vom jeweiligen Land ab.
 - Vorabpauschale für Fonds
    - <https://www.ebnerstolz.de/de/investmentsteuerreformgesetz-stolpersteine-bei-betrieblichen-anlegern-261044.html>
 - Teilfreistellungen nach [§ 20 1 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__20.html):
@@ -343,9 +345,12 @@ würden sie ggf. zu Sonderbetriebsvermögen werden beim Erben.
 Stiftungen
 ----------
 
+- <https://mein-geldspeicher.de/>
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
 - [Familien- und gemeinnützige Stiftungen](https://www.youtube.com/watch?v=q4O4j2a_YAk)
 - keine Gewerbesteuer, nur Körperschaftsteuer
+- keine gewerbesteuerliche Infektion
+- Immobilien können nach 10 Jahren steuerfrei veräußert werden (ähnlich zum Immobilienbesitz im Privatvermögen)
 - einfache Einkommenüberschussrechnung statt Bilanz
 - Steuerfreibetrag von 5.000 € im Jahr
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
