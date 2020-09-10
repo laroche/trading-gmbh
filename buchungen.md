@@ -588,6 +588,12 @@ Beispielbuchungen:
    - Erhaltene Zinsen: 181x an 7110
    - Gezahlte Zinsen: 7310 an 181x
 
+- TODO:
+   - Verkaufte Optionen erfasse ich bei Eröffnung als Sonstige Verbindlichkeit (#3501).
+     Dann ggf. zum Jahreswechsel eine Bewertung und Bildung einer Drohverlustrückstellung (#3092).
+     Das Closing der Option kann je nach Entwicklung über #4905 oder #6905 abgebildet werden.
+     Bei Ausübung kommen noch weitere Konten ins Spiel.
+
 
 Beispiel 3 SKR04 Buchungen
 -----------------------
