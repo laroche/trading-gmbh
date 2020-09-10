@@ -332,6 +332,7 @@ Stille Gesellschaft
    - Handelsbilanz GmbH/UG & atypisch still
    - Steuerbilanz GmbH/UG & atypisch still
    - Steuerbilanz GmbH/UG -> für die Körperschaftssteuererklärung
+- Sowohl die atypisch stille Gesellschaft als auch das Unternehmen, an dem die Beteiligung besteht, sind getrennt IHK-Mitglied und beitragspflichtig.
 
 Vorsicht bei der Wahl des atypisch stillen Gesellschafters. Bloß nicht sich selber wählen, außer man weiß
 ganz genau was man tut. Die Stille Beteiligung wird zu Sonderbetriebsvermögen, wenn der Stille auch
