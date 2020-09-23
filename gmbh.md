@@ -68,6 +68,8 @@ Informationen zur GmbH
 - Gründungszuschuss von der Arbeitsagentur prüfen
    - Gründerzuschüsse sind steuerfrei nach § 3 Nr. 2 EStG und sie unterliegen nicht dem Progressionsvorbehalt und auch
      keinen anderen Einkunftsarten. Sie werden bei der Einkommensteuererklärung nicht berücksichtigt.
+- aktuell bestehende Arbeitsverträge prüfen, ob dort Klauseln bestehen, die einer Gründung entgegen stehen (sollte selten der Fall sein)
+   - eventuell bestehende Arbeitgeber über Neugründung informieren
 - Welche Gebühren werden von Brokern für GmbHs erhoben?
    - Nicht alle Broker erlauben eine GmbH als Kunden.
    - Für Broker in Deutschland: Erlaubt der Broker sich von der Kapitalertragssteuer befreien zu lassen?
@@ -91,7 +93,7 @@ Informationen zur GmbH
    - Anforderungen an die Buchhaltung:
       - doppelte Buchführung, SKR04
       - Buchbare Konten für Aktien, Dividenden und Quellensteuern, atypisch stille Einlagen, individuell konfigurierbare Konten
-      - DATEV-Schnittstelle für eine Übertragung zum Steuerberater
+      - DATEV-Schnittstelle für eine Übertragung zum Steuerberater (DATEV Connect Online)
       - ELSTER-Schnittstelle zum Finanzamt
          - Umsatzsteuervoranmeldungen
       - Export nach GDPdU für eine digitale Betriebsprüfung vom Finanzamt
@@ -406,4 +408,6 @@ Spezielle Links für alle, die in Stuttgart eine GmbH gründen wollen:
       - Ausgenommen davon sind: die ausschließliche Verwaltung eigenen Vermögens
    - <https://www.stuttgart.de/img/mdb/item/320509/80032.pdf>
    - Gewerbeanmeldung kostet 57,50 € (Stand 2020/07)
+- Abfallgebühren: Abfallwirtschaftssatzung der Landeshauptstadt Stuttgart (AfS) zuletzt geändert am 5.12.2019 (Amtsblatt der Landeshauptstadt Stuttgart Nr. 50 vom 12.12.2019)
+   - Abfallgebühren noch nicht nachgeschaut, online scheinen die nicht zu sein.
 

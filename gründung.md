@@ -148,6 +148,7 @@ Kosten einer GmbH
    - Ab 2021 kommt dann wohl noch die Rentenversicherungspflicht für den Geschäftsführer. (Bisher nicht in Sicht. Kann entfernt werden?)
    - höhere Kosten beim Broker für einen GmbH-Kunden
       - Börsenhandel der GmbH: "professional" [Marktdatenabo bei Interactive Brokers](https://www.interactivebrokers.eu/de/index.php?f=15537): $125/Monat
+   - Abfallgebühren für Gewerbetreibende (siehe auch Abfallwirtschaftsatzung) in den verschiedenen Städten
    - GEZ-Gebühr: <https://www.rundfunkbeitrag.de/unternehmen_und_institutionen/informationen/betriebsstaette/>
       - Es wird kein Rundfunkbeitrag erhoben für ein Büro in einer beitragspflichtigen privaten Wohnung,
         wenn diese bereits beim Beitragsservice angemeldet ist.

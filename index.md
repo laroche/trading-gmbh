@@ -5,7 +5,7 @@ subtitle: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 #abstract: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 keywords: [GmbH, Trading, vermögensverwaltende GmbH, Steuern, Buchhaltung, Bilanz]
 author: Florian La Roche
-date: 2020-09-10
+date: 2020-09-23
 titlepage: true
 toc: true
 toc-own-page: true
