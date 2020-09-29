@@ -593,6 +593,7 @@ Beispielbuchungen:
      Dann ggf. zum Jahreswechsel eine Bewertung und Bildung einer Drohverlustrückstellung (#3092).
      Das Closing der Option kann je nach Entwicklung über #4905 oder #6905 abgebildet werden.
      Bei Ausübung kommen noch weitere Konten ins Spiel.
+   - Quellensteuer Konten sollten pro Land angelegt werden.
 
 
 Beispiel 3 SKR04 Buchungen
