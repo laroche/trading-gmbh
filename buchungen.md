@@ -590,8 +590,8 @@ Beispielbuchungen:
 
 - TODO:
    - Verkaufte Optionen erfasse ich bei Eröffnung als Sonstige Verbindlichkeit (#3501).
-     Dann ggf. zum Jahreswechsel eine Bewertung und Bildung einer Drohverlustrückstellung (#3092).
-     Das Closing der Option kann je nach Entwicklung über #4905 oder #6905 abgebildet werden.
+     Dann ggf. zum Jahreswechsel eine Bewertung und Bildung einer Drohverlustrückstellung (#6300 an #3092).
+     Das Closing der Option kann je nach Entwicklung über #4905(Gewinn) oder #6905(Verlust) abgebildet werden.
      Bei Ausübung kommen noch weitere Konten ins Spiel.
    - Quellensteuer Konten sollten pro Land angelegt werden.
 
