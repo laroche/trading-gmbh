@@ -104,6 +104,7 @@ Informationen zur GmbH
       - Zusammenarbeit Bank und Buchhaltung:
          - [finAPI](https://www.finapi.io/) ist ein Dienstleister der DATEV, <https://www.pleo.io/>
          - Eingesetzte Technik: CSV, [MT940-Format](https://de.wikipedia.org/wiki/MT940), [SWIFT-Nachricht](https://de.wikipedia.org/wiki/SWIFT-Nachricht), [ISO 20022](https://de.wikipedia.org/wiki/UNIFI_(ISO_20022)), [FinTS](https://de.wikipedia.org/wiki/Financial_Transaction_Services), [HBCI](https://de.wikipedia.org/wiki/Homebanking_Computer_Interface), [EBICS](https://www.ebics.de/) bzw. [Wikipedia: EBICS](https://de.wikipedia.org/wiki/Electronic_Banking_Internet_Communication_Standard)
+            - [Banken-APIs](https://www.heise.de/hintergrund/Neue-und-alte-Banken-APIs-eine-Uebersicht-4907369.html)
          - Werden Umsätze der Bank/Kreditkarte in die Buchhaltung übernommen?
          - Können Banküberweisungen in Auftrag gegeben werden? (SEPA)
       - Online-Zugang und per App (iOS und Android)
@@ -230,6 +231,9 @@ Herausnahme von Kapital aus der GmbH
 - Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € zu, sondern
   auch der Grundfreibetrag von 8.130 € sowie der Sonderausgabenpauschbetrag von 36 €. Damit kann jedes Kind
   mindestens 8.967 € Zinsen steuerfrei kassieren.
+   - Sind die Kinder nicht in einer PKV (Privaten Krankenversicherung) sondern in der gesetzlichen
+     Krankenversicherung bei den Etern mitversichert, dann dürfen die Familienmitglieder maximal 450 € / Monat
+     verdienen. Über den 450 € * 12 = 5400 € / Jahr müssen sich die Kinder selber freiwillig versichern.
 - Kapitalherabsetzung: benötigt einen Gesellschafterbeschluss + Notar
 - Als Mini-Jobber für die Gesellschaft anstellen, damit man krankenversichert ist. (?)
 - Kostenerstattung, Honorartätigkeiten
