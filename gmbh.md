@@ -415,3 +415,11 @@ Spezielle Links für alle, die in Stuttgart eine GmbH gründen wollen:
 - Abfallgebühren: Abfallwirtschaftssatzung der Landeshauptstadt Stuttgart (AfS) zuletzt geändert am 5.12.2019 (Amtsblatt der Landeshauptstadt Stuttgart Nr. 50 vom 12.12.2019)
    - Abfallgebühren noch nicht nachgeschaut, online scheinen die nicht zu sein.
 
+
+München
+-------
+
+Spezielle Links für alle, die in München eine GmbH gründen wollen:
+
+- IHK Beitrag für aus atypisch stiller Beteiligung resultierender Personengesellschaft:
+  laut <https://www.ihk-muenchen.de/beitrag/> wohl nur sofern Erträge (Zinsen, Ausschüttungen, ...) von mehr als 5.200 EUR anfallen.

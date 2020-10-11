@@ -54,6 +54,7 @@ Infosammlung:
       - <https://www.gesetze-im-internet.de/gmbhg/anlage.html>
       - Erlaubt nur Ausgaben bis 300 € für die Gründung. Wenn man hier die Notarkosten auf die neue
         Gesellschaft nimmt, kann man die gezahlte Umsatzsteuer wiederbekommen.
+      - Ohne Musterprotokoll kann man üblicherweise eine Übernahme bis 2.500 EUR (10% des Stammkapitals) im Gesellschaftsvertrag festhalten.
    - Für den Gesellschaftsvertrag (Satzung) wird mindestens Folgendes benötigt:
       - Firmenname und Firmensitz
          - Bei Mietwohnung: Erlaubt der Vermieter eine Firma?
