@@ -18,6 +18,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.northdata.de/>
    - <https://www.handelsregister.de/> und <https://www.unternehmensregister.de/>
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
+   - <https://www.transparenzregister.de/>
 - ähnliche Internetseiten zu einer Trading-GmbH
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
@@ -95,6 +96,7 @@ Infosammlung:
 - Anmeldung beim Gewerbeamt (kostet ca. 60 €): Gewerbeschein ausfüllen
 - Anmeldung bei der IHK
    - IHK Mindestbeitrag sind ca. 200 €
+- Anmeldung beim Transparenzregister: <https://www.transparenzregister.de/>
 - Geschäftspapiere erstellen mit: Name, Rechtsform, Sitz, Registergericht, Handelsregisternummer, alle Geschäftsführer mit Titel, Vor- und Zunamen
    - [Musterbriefbögen der IHK Stuttgart](https://www.stuttgart.ihk24.de/blueprint/servlet/resource/blob/665704/fa13a8b908ac48e3805c68e6bbaf54d1/musterbriefboegen-data.pdf)
 - Für den Internetauftritt nach einem Impressum schauen
