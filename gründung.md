@@ -13,6 +13,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsgesetzbuch](https://de.wikipedia.org/wiki/Handelsgesetzbuch)
       - [Wikipedia: Bilanzrichtlinie-Umsetzungsgesetz](https://de.wikipedia.org/wiki/Bilanzrichtlinie-Umsetzungsgesetz) (BilRUG)
    - [GmbH-Gesetz](https://dejure.org/gesetze/GmbHG) (GmbHG)
+   - [GmbH-Recht von Michael Beurskens](https://www.youtube.com/watch?v=YKYmnVC-JTE&list=PLo0fFF7gLND0BRhKU7Drpzar9Df8HvYDw)
 - Datenabruf zu bestehenden Unternehmen
    - <https://www.bundesanzeiger.de/>
    - <https://www.northdata.de/>
@@ -24,12 +25,15 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - <https://www.facebook.com/groups/2388434054531622/>
    - <http://mit-rueckenwind.info/>
    - <https://www.fuer-gruender.de/>
+   - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/steuervorteil-vermoegensverwaltende-gmbh-aktien-und-immobilien-handel/>
+   - <https://de.allianzgi.com/de-de/service/steuern>
    - <https://www.finanzgefluester.de/vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/vorteile-der-vermoegensverwaltenden-gmbh/>
       - <https://www.finanzgefluester.de/nachteile-der-vermoegensverwaltenden-gmbh/>
       - <https://www.finanzgefluester.de/lohnt-sich-die-vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/steuerfallen-bei-der-vermoegensverwaltenden-gmbh/>
    - <https://www.ride.capital/trader-gmbh>
+      - [YouTube: RIDE Capital](https://www.youtube.com/channel/UC-GJBvk0hkIGRBPnBj2--9g)
 
 
 Gründung einer GmbH oder UG
@@ -61,6 +65,7 @@ Infosammlung:
          - Bei Mietwohnung: Erlaubt der Vermieter eine Firma?
          - Soll der Firmensitz gemietet werden wie z.B. bei [Clevver](https://www.clevver.io/), [Regus](https://www.regus.de/) oder [ebuero](https://www.ebuero.de/)?
          - Ist eine Betriebsaufspaltung bei eigens vermieteten Räumen ein mögliches Problem?
+            - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/betriebsaufspaltung-gmbh/>
       - Geschäftstätigkeitsfeld, Unternehmensgegenstand
          - "Verwaltung eigenen Vermögens", "Erwerb und Halten von Beteiligungen an Unternehmen", "Handel mit Wertpapieren"
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"

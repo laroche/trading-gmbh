@@ -505,7 +505,11 @@ Beispielbuchungen:
            als nicht abziehbar behandelt. Siehe §§ 3 Nr. 40 und 3c EStG bzw. § 8b KStG.
       - 7110 Sonstige Zinserträge
       - 7115 Erträge aus anderen Wertpapieren und Ausleihungen des Umlaufvermögens
+   - Zinsen für Kapital
       - 7120 Zinsähnliche Erträge
+      - 7330 Zinsähnliche Aufwendungen
+   - Überweisung zwischen verschiedenen Konten
+      - 1460 Geldtransit
 
 
 Beispiel 2 SKR04 Buchungen
@@ -544,12 +548,18 @@ beteiligte SKR04 Konten:
       - 7010: Erträge aus anderen Wertpapieren
       - 6300: Sonstige betriebliche Aufwendungen
       - 4830: Sonstige betriebliche Erträge
+   - andere Gebühren
+      - 6300: Sonstige betriebliche Aufwendungen
    - Zinsen
       - 7110: Sonstige Zinserträge
       - 7310: Sonstige Zinsaufwendungen
+      - 7120: Zinsähnliche Erträge
+      - 7330: Zinsähnliche Aufwendungen
 
 Beispielbuchungen:
 
+- Ein- und Auszahlungen
+   - Einzahlung: 181x an 1460
 - Aktien: werden als Wertpapiere im Umlaufvermögen gekauft oder verkauft. Keine Leerverkäufe.
    - Kauf: 1510 an 181x
    - Verkauf: 6905 an 1510, 181x an 4906
@@ -566,7 +576,7 @@ Beispielbuchungen:
    - aktiver Kauf einer Fremdwährung: 181x an 1810
    - aktive Veräußerung einer Fremdwährung: 1810 an 181x
    - Währungsgewinn: 1810 an 4840
-   - Währungsverlust: 6880 an 1810
+   - Währungsverlust und Gebühren Währungsumwandlung: 6880 an 1810
 - Optionen
    - gekaufte Optionen werden wie Aktien gebucht:
       - Kauf: 1510 an 181x
@@ -594,6 +604,10 @@ Beispielbuchungen:
      Das Closing der Option kann je nach Entwicklung über #4905(Gewinn) oder #6905(Verlust) abgebildet werden.
      Bei Ausübung kommen noch weitere Konten ins Spiel.
    - Quellensteuer Konten sollten pro Land angelegt werden.
+   - Aktienverkauf:
+      - 1371 an 1510: Anschaffungskosten
+      - 181x an 1371: Erlös
+      - 1371 an 4906: Realisierter Gewinn
 
 
 Beispiel 3 SKR04 Buchungen

@@ -51,6 +51,7 @@ Informationen zur GmbH
 - Wird mehr als 25.000 € Stammkapital eingezahlt, wird dies als Kapitalrücklage gebucht. Besser ist eine Einbringung als Darlehen.
    - Darlehen kann jederzeit zurückgezahlt werden. Braucht keinen Gesellschafterbeschluss. Darlehen muss übliche Verzinsung aufweisen.
    - Gesellschafter Rahmen-Darlehen
+   - Darlehen als "nachranig" vereinbaren: <https://mit-rueckenwind.info/vermoegensverwaltende-gmbh-finanzierung/#comment-495>
 - Gesellschafterversammlung einmal im Jahr
 - LEI-Nummer muss jährlich bezahlt werden (130 € am Anfang, dann 70 € pro Jahr)
    - <https://lei.info/portal/faqs/>
@@ -79,7 +80,8 @@ Informationen zur GmbH
      N26 (?), [Deutsche Bank](https://www.deutsche-bank.de/gk/zahlungsverkehr/zahlungsverkehr-im-ueberblick/geschaeftskonto.html),
      [Kontist](https://kontist.com/), [Skatbank](https://www.skatbank.de/geschaeftskunden/geschaeftskonto/kontomodelle/trumpfkonto_business.html),
      [Grenke](https://www.grenke.de/produkte/konten/business),
-     [Revolut](https://www.revolut.com/de-DE/business/firmenkonten-leicht-gemacht)
+     [Revolut](https://business.revolut.com/), [FINOM](https://finom.de/),
+     [VWFS](https://www.vwfs.de/geschaeftskunden/geldanlage.html)
    - Kreditkarte für das Geschäftskonto? Mastercard bei Interactive Brokers?
       - In Deutschland sind vor allem die Santander 1plus VISA-Card, die Barclaycard Visa und die DKB Cash Visa sehr beliebt.
       - <https://www.gebuhrenfrei.com/>
@@ -132,7 +134,8 @@ Informationen zur GmbH
       - [Textbuch doppelte Buchführung](http://www.textbuch.de/)
       - [DATEV Faktura](https://www.datev.de/web/de/datev-shop/komplettloesungen/datev-mittelstand-faktura-pro/)
       - [lexoffice](https://www.lexoffice.de/)
-      - Lexware buchhaltung
+      - Lexware buchhaltung: Financial Office Premium
+         - https://www.lexware-financial-office.de/
       - [Reviso](https://www.reviso.com/)
       - WISO Buchhaltung 365
       - [WISO Mein Geld](https://update2.buhl-data.com/documents/Leistungsuebersicht_Mein_Geld_2020.pdf)
@@ -227,7 +230,7 @@ Herausnahme von Kapital aus der GmbH
   Teileinkünfteverfahren optieren, bei dem nur 60 % der Einkünfte zu versteuern sind.
   9.000 € pro Jahr / 60 % = 15.000 € pro Jahr = 1.250 € pro Monat pro Person.
   Wenn man als Ehepaar und die Kinder eingetragen ist, kann hier die Ausschüttungsquote erhöht werden.
-  2019 ist der Freibetrag 9.168 € und 2020 9.408 €.
+  2019 ist der Freibetrag 9.168 €, 2020 9.408 € und 2021 9.744 €.
 - Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € zu, sondern
   auch der Grundfreibetrag von 8.130 € sowie der Sonderausgabenpauschbetrag von 36 €. Damit kann jedes Kind
   mindestens 8.967 € Zinsen steuerfrei kassieren.
@@ -265,13 +268,15 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
 - Aktien
    - 5 % vom Veräußerungsgewinn werden als nicht abziehbare Betriebsausgaben dem Gewinn
      hinzugerechnet. Aktienverluste bleiben unberücksichtigt. Damit sind Aktiengewinne zu 95 %
-     von der Steuer befreit ([§ 8b Abs. 2 KStG](https://dejure.org/gesetze/KStG/8b.html)).
+     von der Steuer befreit ([§ 8b Abs. 2 Satz 1 KStG](https://dejure.org/gesetze/KStG/8b.html)).
    - Aktiengewinne werden nur zu 5 % versteuert: Dort fällt KSt+SolZ und GewSt an. Also werden 5 % mit 15,825 % und GewSt versteuert.
       - Das entspricht 0,79125 % Steuer ohne GewSt oder ca. 1.6 % bei üblicher GewSt. (5 % * 15,825 % + 5 % * 14 % = 1,5 %).
 - Termingeschäfte haben einen eigenen Verlustverrechnungstopf: Verluste von Termingeschäften lassen
-  sich nur mit Gewinnen aus Termingeschäften verrechnen. (Nicht belegt, vermutlich eine falsche Behauptung.)
+  sich nur mit Gewinnen aus Termingeschäften verrechnen.
+   - § 15 Abs. 4 S. 3 EStG: Verluste sind nicht abzugsfähig
 - Dividenden und alle anderen Wertpapiere: KSt+SolZ+GewSt, Verluste werden voll angerechnet. Dies gilt für die KSt bei Streubesitz von
-  weniger als 10 % und für die GewSt bei Streubesitz von weniger als 15 %.
+  weniger als 10 % und für die GewSt bei Streubesitz von weniger als 15 %. (§ 8b Abs. 4 KStG.)
+   - Dividenden nicht aus dem Streubesitz werden wie Aktien versteuert.
    - Gezahlte Quellensteuer wird bis 15% auf die Körperschaftsteuer angerechnet. Hängt vom jeweiligen Land ab.
 - Vorabpauschale für Fonds
    - <https://www.ebnerstolz.de/de/investmentsteuerreformgesetz-stolpersteine-bei-betrieblichen-anlegern-261044.html>
@@ -279,6 +284,11 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
    - Steuerfrei sind bei Aktienfonds 80 % der Erträge. Bei der Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes
      sind die Freistellungen nur zur Hälfte zu berücksichtigen.
       - Beispiel: 20 % * 15,825 % = 3,165 % Körperschaftssteuer und ca. 60 % * 15 % = 9 % Gewerbesteuer. Zusammen macht das ca. 12,165 % Ertragssteuern.
+      - Teilfreistellungen für KSt und GewSt für:
+         - Aktienfonds (> 51% Aktien): 80%, 40%
+         - Mischfonds (25-50% Aktien): 40%, 20%
+         - Renenfonds: 0%, 0%
+         - Immobilienfonds: 60%, 30%
 
 Links:
 
@@ -380,6 +390,8 @@ Beteiligung an einer GmbH:
    - Um die Privilegierung zu nutzen, muss beim zuständigen Finanzamt eine Freistellungsbescheinigung gemäß
      § 44a Abs. 5 S. 4 EStG beantragt werden. Soweit die Kapitalertragsteuer schon einbehalten wurde, kann
      ein entsprechender Erstattungsanspruch geltend gemacht werden.
+   - <https://www.youtube.com/watch?v=jkcLOYR4Xpg>
+   - <https://www.juhn.com/content/uploads/2021/01/Antrag-auf-Nichtveranlagungs-Bescheinigung.pdf>
 
 
 Wegzugsbesteuerung
