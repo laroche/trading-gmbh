@@ -94,7 +94,8 @@ Informationen zur GmbH
 - Buchhaltung:
    - Anforderungen an die Buchhaltung:
       - doppelte Buchführung, SKR04
-      - Buchbare Konten für Aktien, Dividenden und Quellensteuern, atypisch stille Einlagen, individuell konfigurierbare Konten
+      - Buchbare Konten für Aktien, Dividenden und Quellensteuern, Termingeschäfte, Zinsen, Währungsgewinne,
+        atypisch stille Einlagen, individuell konfigurierbare Konten
       - DATEV-Schnittstelle für eine Übertragung zum Steuerberater (DATEV Connect Online)
       - ELSTER-Schnittstelle zum Finanzamt
          - Umsatzsteuervoranmeldungen
@@ -315,7 +316,8 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - Doppelbesteuerungsabkommen: company that meets the derivative benefit test
 - Von einem "Friends und Family Gruppen Konto" bei Interactive Brokers kann man bis zu 15 Konten betreuen.
   Wenn man dieses als Privatperson eröffnet und eine Einladung zur Verwaltung an das GmbH-Konto verschickt,
-  kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben.
+  kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben. (Funktioniert
+  eventuell bei neuen Konten nicht mehr.)
 
 
 Stille Gesellschaft

@@ -1,4 +1,5 @@
 #!/bin/bash
+# apt install pandoc texlive-latex-extra texlive-xetex texlive-fonts-extra texlive-lang-german
 
 # Aktuelles Datum in index.md eintragen:
 sed -i -e "s/^date: .*/date: $(date +%Y-%m-%d)/g" index.md

@@ -26,6 +26,10 @@ Börse zu beachten.
   für eine Trading GmbH.
 - Direkter Verweis auf Gesetzestexte, damit die Regelungen dort im Detail nachgelesen werden können.
 
+Neben den vielen allgemeinen Regelungen zur GmbH sollte man schauen, dass alle
+Transaktionen an der Börse möglichst automatisch, einfach und kostengünstig in
+die Buchhaltung übernommen werden.
+
 
 Disclaimer
 ----------

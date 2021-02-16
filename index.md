@@ -5,7 +5,7 @@ subtitle: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 #abstract: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 keywords: [GmbH, Trading, vermögensverwaltende GmbH, Steuern, Buchhaltung, Bilanz]
 author: Florian La Roche
-date: 2021-02-07
+date: 2021-02-16
 titlepage: true
 toc: true
 toc-own-page: true
@@ -42,6 +42,10 @@ Börse zu beachten.
 - Möglichst gute Trennung von den allgemeinen Regelungen für alle GmbHs und den speziellen Besonderheiten
   für eine Trading GmbH.
 - Direkter Verweis auf Gesetzestexte, damit die Regelungen dort im Detail nachgelesen werden können.
+
+Neben den vielen allgemeinen Regelungen zur GmbH sollte man schauen, dass alle
+Transaktionen an der Börse möglichst automatisch, einfach und kostengünstig in
+die Buchhaltung übernommen werden.
 
 
 Disclaimer

@@ -21,6 +21,8 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
    - <https://www.transparenzregister.de/>
 - ähnliche Internetseiten zu einer Trading-GmbH
+   - <https://www.ride.capital/trader-gmbh>
+      - [YouTube: RIDE Capital](https://www.youtube.com/channel/UC-GJBvk0hkIGRBPnBj2--9g)
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
    - <http://mit-rueckenwind.info/>
@@ -32,8 +34,6 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - <https://www.finanzgefluester.de/nachteile-der-vermoegensverwaltenden-gmbh/>
       - <https://www.finanzgefluester.de/lohnt-sich-die-vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/steuerfallen-bei-der-vermoegensverwaltenden-gmbh/>
-   - <https://www.ride.capital/trader-gmbh>
-      - [YouTube: RIDE Capital](https://www.youtube.com/channel/UC-GJBvk0hkIGRBPnBj2--9g)
 
 
 Gründung einer GmbH oder UG
@@ -99,6 +99,7 @@ Infosammlung:
    - <https://www.gruenderlexikon.de/checkliste/informieren/ihr-recht/steuerlicher-erfassungsbogen/#c10445>
    - <https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/fragebogen-zur-steuerlichen-erfassung/>
 - Anmeldung beim Gewerbeamt (kostet ca. 60 €): Gewerbeschein ausfüllen
+   - Ist für operative GmbHs notwendig oder wenn man sonst einen Gewerbeschein braucht.
 - Anmeldung bei der IHK
    - IHK Mindestbeitrag sind ca. 200 €
 - Anmeldung beim Transparenzregister: <https://www.transparenzregister.de/>
@@ -123,7 +124,7 @@ Unternehmergesellschaft UG
    - <https://www.gesetze-im-internet.de/gmbhg/__5a.html>
    - <https://gmbhg.kommentar.de/Abschnitt-1/Unternehmergesellschaft>
 - Bis auf das Stammkapital haben die UG und die GmbH weitgehend gleiche Vorschriften.
-- Wenn möglich sollte eigentlich immer direkt eine GmbH gegründet werden.
+- Wenn möglich sollte immer direkt eine GmbH gegründet werden.
 - Stammkapital/Gründungskapital ist mindestens 1 € und sollte alle laufenden Kosten decken. Für das erste Jahr ist mit 1.000 € zu rechnen.
 - Ab 25.000 € wird die UG zur GmbH. Das ist aber keine Pflicht.
    - Wirtschaftsprüfer und Notar wieder nötig oder man gründet dann eine neue unabhängige GmbH, um Kosten zu sparen.
