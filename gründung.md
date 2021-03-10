@@ -13,7 +13,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsgesetzbuch](https://de.wikipedia.org/wiki/Handelsgesetzbuch)
       - [Wikipedia: Bilanzrichtlinie-Umsetzungsgesetz](https://de.wikipedia.org/wiki/Bilanzrichtlinie-Umsetzungsgesetz) (BilRUG)
    - [GmbH-Gesetz](https://dejure.org/gesetze/GmbHG) (GmbHG)
-   - [GmbH-Recht von Michael Beurskens](https://www.youtube.com/watch?v=YKYmnVC-JTE&list=PLo0fFF7gLND0BRhKU7Drpzar9Df8HvYDw)
+   - [YouTube: GmbH-Recht von Michael Beurskens](https://www.youtube.com/watch?v=YKYmnVC-JTE&list=PLo0fFF7gLND0BRhKU7Drpzar9Df8HvYDw)
 - Datenabruf zu bestehenden Unternehmen
    - <https://www.bundesanzeiger.de/>
    - <https://www.northdata.de/>
@@ -59,11 +59,12 @@ Infosammlung:
       - <https://www.gesetze-im-internet.de/gmbhg/anlage.html>
       - Erlaubt nur Ausgaben bis 300 € für die Gründung. Wenn man hier die Notarkosten auf die neue
         Gesellschaft nimmt, kann man die gezahlte Umsatzsteuer wiederbekommen.
-      - Ohne Musterprotokoll kann man üblicherweise eine Übernahme bis 2.500 EUR (10% des Stammkapitals) im Gesellschaftsvertrag festhalten.
+      - Ohne Musterprotokoll kann man üblicherweise eine Übernahme bis 2.500 Euro (10% des Stammkapitals) im Gesellschaftsvertrag festhalten.
    - Für den Gesellschaftsvertrag (Satzung) wird mindestens Folgendes benötigt:
       - Firmenname und Firmensitz
          - Bei Mietwohnung: Erlaubt der Vermieter eine Firma?
          - Soll der Firmensitz gemietet werden wie z.B. bei [Clevver](https://www.clevver.io/), [Regus](https://www.regus.de/) oder [ebuero](https://www.ebuero.de/)?
+            - handelsregisterfähige Adresse für den Briefkasten
          - Ist eine Betriebsaufspaltung bei eigens vermieteten Räumen ein mögliches Problem?
             - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/betriebsaufspaltung-gmbh/>
       - Geschäftstätigkeitsfeld, Unternehmensgegenstand
@@ -157,7 +158,7 @@ Kosten einer GmbH
    - In Zukunft kann eine Rentenversicherungspflicht für den Geschäftsführer kommen. (Bisher nicht in Sicht.)
       - <https://www.finanzkueche.de/blog/rentenversicherungspflicht-fuer-selbstaendige>
    - höhere Kosten beim Broker für einen GmbH-Kunden
-      - Börsenhandel der GmbH: "professional" [Marktdatenabo bei Interactive Brokers](https://www.interactivebrokers.eu/de/index.php?f=15537): $125/Monat
+      - Börsenhandel der GmbH: "professional" [Marktdatenabo bei Interactive Brokers](https://www.interactivebrokers.eu/de/index.php?f=15537): ab $125/Monat
    - Abfallgebühren für Gewerbetreibende (siehe auch Abfallwirtschaftsatzung) in den verschiedenen Städten
    - GEZ-Gebühr: <https://www.rundfunkbeitrag.de/unternehmen_und_institutionen/informationen/betriebsstaette/>
       - Es wird kein Rundfunkbeitrag erhoben für ein Büro in einer beitragspflichtigen privaten Wohnung,

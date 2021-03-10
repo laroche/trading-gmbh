@@ -336,11 +336,11 @@ ausstehende eingeforderte Einlage (Stammeinlage).
 
 Die Eröffnungsbilanz einer Kleinstkapitalgesellschaft könnte damit so aussehen:
 
-| __Eröffnungsbilanz GmbH__ |            |                 |            |
-| :-----                    | -----:     | :-----          | -----:     |
-| __Aktiva__                |            | __Passiva__     |            |
-| B. Umlaufvermögen         | 12.500 EUR | A. Eigenkapital | 12.500 EUR |
-| Summe Aktiva              | 12.500 EUR | Summe Passiva   | 12.500 EUR |
+| __Eröffnungsbilanz GmbH__ |             |                 |             |
+| :-----                    | -----:      | :-----          | -----:      |
+| __Aktiva__                |             | __Passiva__     |             |
+| B. Umlaufvermögen         | 12.500 Euro | A. Eigenkapital | 12.500 Euro |
+| Summe Aktiva              | 12.500 Euro | Summe Passiva   | 12.500 Euro |
 
 Zum Übertragen der Öffnungsbilanz siehe auch Seite 150 [myebilanz-Handbuch](https://www.myebilanz.de/myebilanz.pdf#page=150).
 
@@ -576,6 +576,7 @@ Beispielbuchungen:
    - aktiver Kauf einer Fremdwährung: 181x an 1810
    - aktive Veräußerung einer Fremdwährung: 1810 an 181x
    - Währungsgewinn: 1810 an 4840
+      - <https://www.gkkpartners.de/mandanteninformationen/ertrag-waehrungskursicherungsgeschaefte-bestandteil-steuerfreier-veraeu%C3%9Ferungsgewinn.html>
    - Währungsverlust und Gebühren Währungsumwandlung: 6880 an 1810
 - Optionen
    - gekaufte Optionen werden wie Aktien gebucht:

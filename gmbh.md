@@ -31,7 +31,8 @@ Informationen zur GmbH
    dass das bloße Erwerben, Halten und Veräußern von gesellschaftsrechtlichen Beteiligungen keine unternehmerische Tätigkeit im Sinne des Umsatzsteuergesetzes ist.
    Für deine Spardosen GmbH brauchst du daher keine Umsatzsteuervoranmeldungen oder Umsatzsteuererklärungen abzugeben, kannst aber auch im Umkehrschluss keine Vorsteuer abziehen.
    - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2019-12-31-umsatzsteuer-anwendungserlass-konsolidierte-fassung-31-12-2019.pdf?__blob=publicationFile&v=4>
-- Gehalt des Geschäftsführers ist eine Betriebsausgabe
+- Gehalt des Geschäftsführers ist eine Betriebsausgabe (und kommt daher aus dem unversteuerten Gewinn und
+  ist daher nach dem Zurückzahlen von Darlehen oft die beste Methode für eine Auszahlung aus der GmbH heraus)
    - dieser zahlt darauf Einkommensteuer, aber keine Sozialversicherungsbeiträge (als Selbständiger, gilt
      auf jeden Fall bei mehr als 50 % Anteil vom Geschäftsführer an der GmbH)
       - <https://www.gmbh-guide.de/sozialversicherungspflicht-geschaeftsfuehrer.html>
@@ -47,7 +48,7 @@ Informationen zur GmbH
    - <https://www.wista-ag.de/verbilligte-ueberlassung-von-gmbh-anteilen-als-arbeitslohn-2/>
    - <http://mit-rueckenwind.info/anstellungsvertrag-geschaeftsfuehrer-spardosen-gmbh/>
 - Veränderungen wie bspw. eine [Kapitalerhöhung](https://de.wikipedia.org/wiki/Kapitalerh%C3%B6hung),
-  die Veränderung des Geschäftszwecks oder Änderungen der Gesellschafter sind dem Handelsregister mitzuteilen.
+  die Veränderung des Geschäftszwecks oder Änderungen der Gesellschafter sind dem Handelsregister (über einen Notar) mitzuteilen.
 - Wird mehr als 25.000 € Stammkapital eingezahlt, wird dies als Kapitalrücklage gebucht. Besser ist eine Einbringung als Darlehen.
    - Darlehen kann jederzeit zurückgezahlt werden. Braucht keinen Gesellschafterbeschluss. Darlehen muss übliche Verzinsung aufweisen.
    - Gesellschafter Rahmen-Darlehen
@@ -436,4 +437,4 @@ München
 Spezielle Links für alle, die in München eine GmbH gründen wollen:
 
 - IHK Beitrag für aus atypisch stiller Beteiligung resultierender Personengesellschaft:
-  laut <https://www.ihk-muenchen.de/beitrag/> wohl nur sofern Erträge (Zinsen, Ausschüttungen, ...) von mehr als 5.200 EUR anfallen.
+  laut <https://www.ihk-muenchen.de/beitrag/> wohl nur sofern Erträge (Zinsen, Ausschüttungen, ...) von mehr als 5.200 Euro anfallen.
