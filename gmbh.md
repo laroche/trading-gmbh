@@ -59,6 +59,7 @@ Informationen zur GmbH
    - <https://de.wikipedia.org/wiki/Legal_Entity_Identifier>
       - <https://lei-codes.de/providers>
       - <https://lei.bloomberg.com/> ($65 und dann $50/Jahr)
+      - <https://www.wm-leiportal.org/>
       - <https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/legal-entity-identifier-lei/> (65 € excl. VAT, dann 40 € excl. VAT)
       - <https://www.lei.direct/> (89 €, dann 59 €/Jahr)
       - <https://www.leireg.de/>
@@ -306,6 +307,7 @@ Das Eröffnen eines Firmenaccounts bei Interactive Brokers ist recht aufwendig. 
 W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 
 - [Interactive Brokers:Non-US Steuerinformationen](https://www.interactivebrokers.eu/de/index.php?f=16583&p=nonus)
+- <https://ibkr.info/article/2629>
 - <https://www.irs.gov/pub/irs-pdf/iw8.pdf>
 - [IHK Stuttgart: W-8BEN-E](https://www.stuttgart.ihk24.de/fuer-unternehmen/recht-und-steuern/steuerrecht/internationales-steuerrecht/neues-w-8ben-e-formulare-fuer-unternehmen-684858)
 - [IHK Nürnberg: W-8BEN-E](https://www.ihk-nuernberg.de/de/media/PDF/International/formular-w-8ben-e-.pdf)
@@ -315,6 +317,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - Bei einer reinen Holding ohne operatives Geschäft: passive NFFE = passive non financial foreign entity,
   wenn die GmbH auch Consulting oder anderes anbietet ist active NFFE richtig.
 - Doppelbesteuerungsabkommen: company that meets the derivative benefit test
+- Beim Kontoeröffnungsantrag muss beim Geschäftszweck "Vermoegensverwaltung" eingetragen werden.
 - Von einem "Friends und Family Gruppen Konto" bei Interactive Brokers kann man bis zu 15 Konten betreuen.
   Wenn man dieses als Privatperson eröffnet und eine Einladung zur Verwaltung an das GmbH-Konto verschickt,
   kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben. (Funktioniert

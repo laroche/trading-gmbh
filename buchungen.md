@@ -368,6 +368,7 @@ die Rechnung für den Notar bezahlt und ein Darlehensvertrag geschlossen:
         die Gesellschafter geschrieben.
 - Gesellschafterdarlehen: Darlehensvertrag: Laufzeit von mindestens 10 Jahren, endfällige Tilgung und
   einem Zinssatz von 0,5 % pro Jahr. Jährliche Zinszahlung zum 31.12. des Jahres.
+   - Zinssatz von EONIA +1 %, also aktuell 0,5 %.
    - Konto 2020 Gesellschafter-Darlehen
 
 

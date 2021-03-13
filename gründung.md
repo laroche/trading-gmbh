@@ -21,6 +21,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
    - <https://www.transparenzregister.de/>
 - ähnliche Internetseiten zu einer Trading-GmbH
+   - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
    - <https://www.ride.capital/trader-gmbh>
       - [YouTube: RIDE Capital](https://www.youtube.com/channel/UC-GJBvk0hkIGRBPnBj2--9g)
    - <https://www.atypischstill.com/>
