@@ -112,7 +112,8 @@ Infosammlung:
    - [Musterbriefbögen der IHK Stuttgart](https://www.stuttgart.ihk24.de/blueprint/servlet/resource/blob/665704/fa13a8b908ac48e3805c68e6bbaf54d1/musterbriefboegen-data.pdf)
 - Für den Internetauftritt nach einem Impressum schauen
    - <https://www.gruenderlexikon.de/checkliste/informieren/ihr-recht/impressum-vorlage/>
-   - inklusive Handelsregisternummer
+   - <https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/impressum-erstellen/>
+   - inklusive Handelsregisternummer, USt-ID
 - Anstellungsvertrag/Dienstvertrag des Geschäftsführers GF muss geklärt sein:
    - Der GF kann ohne gesonderte Vergütung tätig sein.
    - Die unentgeltliche Geschäftsführung kann bei Gründung durch Gesellschafterbeschluss dokumentiert werden.
