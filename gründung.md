@@ -92,8 +92,10 @@ Infosammlung:
    - Handelsregisterauszug nochmal der Bank abgeben (GmbH fertig gegründet, Zusatz "in Gründung"/"i.G." fällt weg)
    - Erst nachdem die Eintragung in das Handelsregister erfolgt ist, entfaltet die GmbH ihren Haftungsschutz.
    - Gründungskosten übernimmt die GmbH, alles Weitere auf nach der Gründung verschieben.
-- Das Finanzamt vergibt eine Steuernummer (für Rechnungen) und eine Umsatzsteuer-ID und fordert den Geschäftsführer auf,
-  die GmbH steuerlich erfassen zu lassen und eine Eröffnungsbilanz abzugeben. (Dies sollte einem Steuerberater übertragen werden.)
+- Das Finanzamt vergibt eine Steuernummer (für Rechnungen) und eine
+  [Umsatzsteuer-ID](https://de.wikipedia.org/wiki/Umsatzsteuer-Identifikationsnummer)
+  und fordert den Geschäftsführer auf, die GmbH steuerlich erfassen zu lassen und eine Eröffnungsbilanz abzugeben.
+  (Dies sollte einem Steuerberater übertragen werden.)
    - <https://www.formulare-bfinv.de/ffw/> "Steuerformulare" "020 - Fragebogen zur steuerlichen Erfassung/Gründung einer Kapitalgesellschaft"
    - [YouTube Fragebogen zur steuerlichen Erfassung](https://www.youtube.com/watch?v=OWrnnEwOASM)
    - [YouTube Fragebogen zur steuerlichen Erfassung](https://www.youtube.com/watch?v=x1zFNRBH3jk)
