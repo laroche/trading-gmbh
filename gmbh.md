@@ -314,7 +314,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - [IHK Nürnberg: W-8BEN-E](https://www.ihk-nuernberg.de/de/media/PDF/International/formular-w-8ben-e-.pdf)
 - [IHK Koblenz: W-8BEN-E](https://www.ihk-koblenz.de/international/usa-kompetenzzentrum/steuerrecht-3450714)
 - [Investopedia: W-8](https://www.investopedia.com/terms/w/w8form.asp)
-- TIN ist die normale Steuernummer der GmbH
+- TIN (Tax Ident Number) ist die normale Steuernummer der GmbH
 - Bei einer reinen Holding ohne operatives Geschäft: passive NFFE = passive non financial foreign entity,
   wenn die GmbH auch Consulting oder anderes anbietet ist active NFFE richtig.
 - Doppelbesteuerungsabkommen: company that meets the derivative benefit test
