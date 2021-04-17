@@ -88,7 +88,7 @@ Infosammlung:
      die Eintragung ins Handelsregister veranlassen.
    - Geschäftskonto läuft auf den Firmennamen
 - Briefkasten richtig auszeichnen.
-- Eintragung ins [Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) (150 €) über das Amtsgericht (wird vom Notar gemacht) und Erhalt der HBR-Nummer
+- Eintragung ins [Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) (150 €) über das Amtsgericht (wird vom Notar gemacht) und Erhalt der HRB-Nummer
    - Handelsregisterauszug nochmal der Bank abgeben (GmbH fertig gegründet, Zusatz "in Gründung"/"i.G." fällt weg)
    - Erst nachdem die Eintragung in das Handelsregister erfolgt ist, entfaltet die GmbH ihren Haftungsschutz.
    - Gründungskosten übernimmt die GmbH, alles Weitere auf nach der Gründung verschieben.
