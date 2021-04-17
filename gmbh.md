@@ -221,7 +221,8 @@ Herausnahme von Kapital aus der GmbH
    - Für den GF sozialabgabenfrei.
 - Gewinnausschüttung ([YouTube Christoph Juhn: Gewinnausschüttung einer GmbH](https://www.youtube.com/watch?v=hnjQMGZ88mY)):
    - Standardverfahren: Kapitalertragsteuer(KapESt)/Abgeltungsteuer(25 %) + SolZ = 26,375 %
-   - Teileinkünfteverfahren mit 40 % steuerfrei und 60 % mit persönlichem Steuersatz (Einkommensteuer)
+   - [Teileinkünfteverfahren](https://de.wikipedia.org/wiki/Teileink%C3%BCnfteverfahren)
+     mit 40 % steuerfrei und 60 % mit persönlichem Steuersatz (Einkommensteuer)
       - Teileinkünfteverfahren lohnt sich immer dann, wenn der persönliche Steuersatz unter 42 % liegt,
         ansonsten sind die Steuerbeträge fast gleich.
       - Teileinkünfteverfahren muss bei Abgabe der Steuererklärung beantragt werden.
@@ -322,6 +323,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
   Wenn man dieses als Privatperson eröffnet und eine Einladung zur Verwaltung an das GmbH-Konto verschickt,
   kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben. (Funktioniert
   eventuell bei neuen Konten nicht mehr.)
+- <https://wissen.ride.capital/knowledge/kontoer%C3%B6ffnung-bei-ib>
 
 
 Stille Gesellschaft
@@ -398,6 +400,12 @@ Beteiligung an einer GmbH:
      ein entsprechender Erstattungsanspruch geltend gemacht werden.
    - <https://www.youtube.com/watch?v=jkcLOYR4Xpg>
    - <https://www.juhn.com/content/uploads/2021/01/Antrag-auf-Nichtveranlagungs-Bescheinigung.pdf>
+
+
+Immobilien
+----------
+
+- <https://www.youtube.com/watch?v=J81Saj6-OeM>
 
 
 Wegzugsbesteuerung
