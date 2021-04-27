@@ -231,6 +231,7 @@ Bilanzstichtag (per CSV) exportieren und mit folgenden Programmen an das Finanza
 
 Weitere Links:
 
+- <https://www.kontolino.de/e-bilanz-abgeben-leicht-gemacht/>
 - [Wikipedia: Elektronische Bilanz bzw. E-Bilanz](https://de.wikipedia.org/wiki/Elektronische_Bilanz)
    - [lexoffice: e-bilanz](https://www.lexoffice.de/lexikon/e-bilanz/)
 - [Wikipedia: ELSTER](https://de.wikipedia.org/wiki/Elster_(Software)#Situation_f%C3%BCr_Softwarehersteller)

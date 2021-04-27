@@ -30,6 +30,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.fuer-gruender.de/>
    - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/steuervorteil-vermoegensverwaltende-gmbh-aktien-und-immobilien-handel/>
    - <https://de.allianzgi.com/de-de/service/steuern>
+   - <https://www.deutsche-bank.de/pk/lp/rechtliche-hinweise.html>
    - <https://www.finanzgefluester.de/vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/vorteile-der-vermoegensverwaltenden-gmbh/>
       - <https://www.finanzgefluester.de/nachteile-der-vermoegensverwaltenden-gmbh/>

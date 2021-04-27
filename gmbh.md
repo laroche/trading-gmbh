@@ -178,6 +178,8 @@ Informationen zur GmbH
    - <https://www.yourxpert.de/>
    - <https://www.maw-united.com/de/die-gebuehren-des-steuerberaters.html#Zwei>
 - [Wikipedia: Steuernummer](https://de.wikipedia.org/wiki/Steuernummer#Aufbau_der_Steuernummer)
+- Betriebsprüfungen:
+   - <https://www.kontolino.de/die-betriebspruefung/>
 
 
 Betriebsausgaben
@@ -308,6 +310,7 @@ Das Eröffnen eines Firmenaccounts bei Interactive Brokers ist recht aufwendig. 
 W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 
 - [Interactive Brokers:Non-US Steuerinformationen](https://www.interactivebrokers.eu/de/index.php?f=16583&p=nonus)
+- Keine Umlaute oder ß bei IB eingeben, anstelle von ö oe verwenden. Ansonsten werden die Eingaben abgelehnt.
 - <https://ibkr.info/article/2629>
 - <https://www.irs.gov/pub/irs-pdf/iw8.pdf>
 - [IHK Stuttgart: W-8BEN-E](https://www.stuttgart.ihk24.de/fuer-unternehmen/recht-und-steuern/steuerrecht/internationales-steuerrecht/neues-w-8ben-e-formulare-fuer-unternehmen-684858)
@@ -323,6 +326,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
   Wenn man dieses als Privatperson eröffnet und eine Einladung zur Verwaltung an das GmbH-Konto verschickt,
   kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben. (Funktioniert
   eventuell bei neuen Konten nicht mehr.)
+- Verbinden von mehreren Konten auf einen Login: <https://www.interactivebrokers.co.uk/de/?f=22685>
 - <https://wissen.ride.capital/knowledge/kontoer%C3%B6ffnung-bei-ib>
 
 
