@@ -667,3 +667,4 @@ Beispiel 4 SKR04 Lohnzahlung
 - Im Folgejahr müssen Sie dann für jeden Arbeitnehmer separat eine Lohnsteuerbescheinigung des vergangenen
   Jahres elektronisch ans Finanzamt übermitteln.
 
+

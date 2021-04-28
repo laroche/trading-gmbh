@@ -36,3 +36,4 @@ einem Steuerberater geklärt werden. Hier nur eine grobe Sammlung von Links:
    - <https://www.rechtslupe.de/steuerrecht/einkommensteuer/einkommensteuer-betrieb/die-doppelgarage-betriebsvermoegen-3128897>
    - <http://www.schneider-team.de/beitrag/?tx_news_pi1%5Bnews%5D=17&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=8a0983a78d4f13616217d2414ba080f7>
 
+

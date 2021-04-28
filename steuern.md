@@ -58,3 +58,4 @@ Bereits versteuertes Einkommen nicht doppelt besteuern.
 1.2 % des Einheitswertes der Grundstücke des Unternehmens.
 Dividenden einer Kapitalgesellschaft (mindestens 15 % Anteile).
 
+

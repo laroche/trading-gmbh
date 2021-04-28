@@ -453,3 +453,5 @@ Spezielle Links für alle, die in München eine GmbH gründen wollen:
 
 - IHK Beitrag für aus atypisch stiller Beteiligung resultierender Personengesellschaft:
   laut <https://www.ihk-muenchen.de/beitrag/> wohl nur sofern Erträge (Zinsen, Ausschüttungen, ...) von mehr als 5.200 Euro anfallen.
+
+

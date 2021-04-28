@@ -170,3 +170,4 @@ Kosten einer GmbH
       - Es wird kein Rundfunkbeitrag erhoben für ein Büro in einer beitragspflichtigen privaten Wohnung,
         wenn diese bereits beim Beitragsservice angemeldet ist.
 
+
