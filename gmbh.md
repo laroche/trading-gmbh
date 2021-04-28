@@ -52,6 +52,7 @@ Informationen zur GmbH
 - Wird mehr als 25.000 € Stammkapital eingezahlt, wird dies als Kapitalrücklage gebucht. Besser ist eine Einbringung als Darlehen.
    - Darlehen kann jederzeit zurückgezahlt werden. Braucht keinen Gesellschafterbeschluss. Darlehen muss übliche Verzinsung aufweisen.
    - Gesellschafter Rahmen-Darlehen
+      - [YouTube RIDE: Rahmendarlehensvertrag](https://www.youtube.com/watch?v=Kfx8MFl8Jh0)
    - Darlehen als "nachranig" vereinbaren: <https://mit-rueckenwind.info/vermoegensverwaltende-gmbh-finanzierung/#comment-495>
 - Gesellschafterversammlung einmal im Jahr
 - LEI-Nummer muss jährlich bezahlt werden (130 € am Anfang, dann 70 € pro Jahr)
