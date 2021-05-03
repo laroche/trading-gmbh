@@ -106,6 +106,9 @@ Infosammlung:
    - <https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/fragebogen-zur-steuerlichen-erfassung/>
 - Anmeldung beim Gewerbeamt (kostet ca. 60 €): Gewerbeschein ausfüllen
    - Ist für operative GmbHs notwendig oder wenn man sonst einen Gewerbeschein braucht.
+   - Das Verwalten eigenen Vermögens stellt keine anzeigepflichtige Tätigkeit nach der Gewerbeordnung dar, daher ist eine
+     Anmeldung nicht vorgeschrieben. Gewerbesteuer muß natürlich trotzdem bezahlt werden, dazu wird beim Bezahlen der
+     Gewerbesteuer einfach ein entsprechendes Konto beim Gewerbeamt erstellt.
 - Anmeldung bei der IHK
    - IHK Mindestbeitrag sind ca. 200 €
 - Anmeldung beim Transparenzregister: <https://www.transparenzregister.de/>
