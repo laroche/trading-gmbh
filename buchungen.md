@@ -226,6 +226,8 @@ Buchhaltungssoftware unterstützt wird, kann man den Stand aller Konten zu einem
 Bilanzstichtag (per CSV) exportieren und mit folgenden Programmen an das Finanzamt
 übertragen und gleichzeitig für eine Veröffentlichung im Bundesanzeiger vorbereiten:
 
+- <https://www.kontolino.de/handbuch/daten-importieren-und-exportieren-2/e-bilanz-exportieren/>
+- <https://ebilanzplus.de/>
 - <https://www.ebilanzonline.de/>
 - <https://www.myebilanz.de/>
 
