@@ -77,6 +77,7 @@ Informationen zur GmbH
 - Welche Gebühren werden von Brokern für GmbHs erhoben?
    - Nicht alle Broker erlauben eine GmbH als Kunden.
    - Für Broker in Deutschland: Erlaubt der Broker sich von der Kapitalertragssteuer befreien zu lassen?
+      - Werden die Teilfreistellungen nach dem Investmentsteuergesetz mit dem richtigen Prozentsatz berechnet und nicht dem für Privatanleger?
    - Gebühren für Professionals bei IB: <https://www.interactivebrokers.eu/de/index.php?f=15537>
 - Geschäftskonto:
    - [Fyrst](https://www.fyrst.de/konten/), [Fidor Bank](https://fidor.de/), [PENTA](https://getpenta.com/de/firmenkonto/), [Holvi](https://www.holvi.com/),
