@@ -127,7 +127,7 @@ Informationen zur GmbH
    - Reviews Buchhaltungssoftware:
       - <https://www.rechnungswesen-portal.de/Marktplatz/Software/Finanzbuchhaltung/>
       - <https://www.buchhaltungssoftware.com/>
-      - <https://www.fuer-gruender.de/fileadmin/mediapool/Unsere_Studien/PDF-Vergleich-Buchhaltungssoftware-2020.pdf>
+      - <https://www.fuer-gruender.de/fileadmin/mediapool/Unsere_Studien/PDF-Vergleich-Buchhaltungssoftware-2021_update.pdf>
    - Sammlung weiterer Buchhaltungssoftware:
       - [Taxpool-Buchhalter Bilanz](https://www.taxpool.net/bestellen/taxpool-buchhalter-bilanz.html)
       - [Sage Buchhaltung Start für 8 € pro Monat](https://www.sage.com/de-de/sage-business-cloud/buchhaltung/)
