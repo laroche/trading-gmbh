@@ -24,6 +24,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
    - <https://www.ride.capital/trader-gmbh>
       - [YouTube: RIDE Capital](https://www.youtube.com/channel/UC-GJBvk0hkIGRBPnBj2--9g)
+   - <https://fintegra.de/>
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
    - <http://mit-rueckenwind.info/>
@@ -36,6 +37,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - <https://www.finanzgefluester.de/nachteile-der-vermoegensverwaltenden-gmbh/>
       - <https://www.finanzgefluester.de/lohnt-sich-die-vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/steuerfallen-bei-der-vermoegensverwaltenden-gmbh/>
+   - <https://www.wallstreet-online.de/forum/85-1-50/recht-steuern>
 
 
 Gründung einer GmbH oder UG

@@ -330,6 +330,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
   eventuell bei neuen Konten nicht mehr.)
 - Verbinden von mehreren Konten auf einen Login: <https://www.interactivebrokers.co.uk/de/?f=22685>
 - <https://wissen.ride.capital/knowledge/kontoer%C3%B6ffnung-bei-ib>
+- <https://wissen.ride.capital/knowledge/wie-f%C3%BClle-ich-den-fx-flat-antrag-aus>
 - <https://www.facebook.com/groups/479506939632634/permalink/590960791820581/>
 
 
