@@ -38,6 +38,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - <https://www.finanzgefluester.de/lohnt-sich-die-vermoegensverwaltende-gmbh/>
       - <https://www.finanzgefluester.de/steuerfallen-bei-der-vermoegensverwaltenden-gmbh/>
    - <https://www.wallstreet-online.de/forum/85-1-50/recht-steuern>
+   - <https://www.wertpapier-forum.de/forum/101-steuern-recht-und-unternehmensgr%C3%BCndung/>
 
 
 Gründung einer GmbH oder UG
