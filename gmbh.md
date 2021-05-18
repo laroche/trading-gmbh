@@ -313,6 +313,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 
 - [Interactive Brokers:Non-US Steuerinformationen](https://www.interactivebrokers.eu/de/index.php?f=16583&p=nonus)
 - Keine Umlaute oder ß bei IB eingeben, anstelle von ö oe verwenden. Ansonsten werden die Eingaben abgelehnt.
+   - Beim Kontoeröffnungsantrag muss beim Geschäftszweck "Vermoegensverwaltung" eingetragen werden.
 - <https://ibkr.info/article/2629>
 - <https://www.irs.gov/pub/irs-pdf/iw8.pdf>
 - [IHK Stuttgart: W-8BEN-E](https://www.stuttgart.ihk24.de/fuer-unternehmen/recht-und-steuern/steuerrecht/internationales-steuerrecht/neues-w-8ben-e-formulare-fuer-unternehmen-684858)
@@ -322,8 +323,9 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - TIN (Tax Ident Number) ist die normale Steuernummer der GmbH
 - Bei einer reinen Holding ohne operatives Geschäft: passive NFFE = passive non financial foreign entity,
   wenn die GmbH auch Consulting oder anderes anbietet ist active NFFE richtig.
-- Doppelbesteuerungsabkommen: company that meets the derivative benefit test
-- Beim Kontoeröffnungsantrag muss beim Geschäftszweck "Vermoegensverwaltung" eingetragen werden.
+- "Gesellschaft die die Kriterien des Ownership and Base Erosion Test erfüllt" bzw. "Company that meets the ownership and base erosion test":  
+   ![Beispiel W-8BEN Formular](img/w8ben.jpg)
+- (alter Eintrag, muss wohl doch nicht verwendet werden: Doppelbesteuerungsabkommen: company that meets the derivative benefit test)
 - Von einem "Friends und Family Gruppen Konto" bei Interactive Brokers kann man bis zu 15 Konten betreuen.
   Wenn man dieses als Privatperson eröffnet und eine Einladung zur Verwaltung an das GmbH-Konto verschickt,
   kann man von dort mit dem privaten Daten-Abo die Orders für das GmbH-Konto aufgeben. (Funktioniert
@@ -332,6 +334,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - <https://wissen.ride.capital/knowledge/kontoer%C3%B6ffnung-bei-ib>
 - <https://wissen.ride.capital/knowledge/wie-f%C3%BClle-ich-den-fx-flat-antrag-aus>
 - <https://www.facebook.com/groups/479506939632634/permalink/590960791820581/>
+- <https://www.interactivebrokers.com/lib/cstools/faq/#/articles/28222558>
 
 
 Stille Gesellschaft
@@ -387,6 +390,8 @@ Stiftungen
 - einfache Einkommenüberschussrechnung statt Bilanz
 - Steuerfreibetrag von 5.000 € im Jahr
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
+- Alle 30 Jahre wird Erbersatzsteuer auf das Vermögen erhoben mit einem Freibetrag von 800.000 Euro.
+   (Kann auf 30 Jahresraten aufgeteilt werden.)
 
 
 Holding
