@@ -114,6 +114,7 @@ Infosammlung:
      Gewerbesteuer einfach ein entsprechendes Konto beim Gewerbeamt erstellt.
 - Anmeldung bei der IHK
    - IHK Mindestbeitrag sind ca. 200 €
+   - IHK-Mitgliedschaft solange eine Gewerbesteuererklärung abgegeben wird: <https://thomsenundpartner.de/pflichtmitgliedschaft-in-der-ihk/>
 - Anmeldung beim Transparenzregister: <https://www.transparenzregister.de/>
 - Geschäftspapiere erstellen mit: Name, Rechtsform, Sitz, Registergericht, Handelsregisternummer, alle Geschäftsführer mit Titel, Vor- und Zunamen
    - [Musterbriefbögen der IHK Stuttgart](https://www.stuttgart.ihk24.de/blueprint/servlet/resource/blob/665704/fa13a8b908ac48e3805c68e6bbaf54d1/musterbriefboegen-data.pdf)
@@ -144,6 +145,16 @@ Unternehmergesellschaft UG
 - Gesetzliche Rücklageverpflichtung von 25 % vom Gewinn. Diese endet erst, wenn eine Kapitalerhöhung auf 25.000 € beschlossen und im Handelsregister eingetragen wird.
 - Freibeträge (bei der Gewerbesteuer?)
 - keine Sacheinlagen möglich
+
+
+Personengesellschaften wie Kapitalgesellschaft besteuern
+--------------------------------------------------------
+
+Personenhandelsgesellschaften können wählen, sich wie eine Kapitalgesellschaft besteuern zu lassen.
+Das würde bedeuten man könnte z.B. eine GbR gründen, ist wesentlich einfacher und dann die Besteuerung nach KStG wählen.
+
+- <https://www.bundestag.de/dokumente/textarchiv/2021/kw20-de-antisteuervermeidungsrichtlinie-840268>
+- <https://dip21.bundestag.de/dip21/btd/19/286/1928656.pdf>
 
 
 Kosten einer GmbH
