@@ -186,7 +186,7 @@ oder [sevdesk: Niederstwertprinzip](https://sevdesk.de/lexikon/niederstwertprinz
   sind, auch wenn die Kursminderung am Abschlussstichtag nur vorübergehend ist.
 - Für Wertpapiere des Anlagevermögens (Finanzanlagen) gilt dagegen das gemilderte (erweiterte) Niederstwertprinzip.
   Das bedeutet, dass sie bei nur vorübergehender Kursminderung mit dem niedrigeren Wert angesetzt werden können
-  (Wahlmöglichkeit). Gem. §253 Abs. 2 wird aus "Kann-" eine "Mussbestimmung", wenn die Kurse dieser Anlagepapiere
+  (Wahlmöglichkeit). Gem. § 253 Abs. 2 wird aus "Kann-" eine "Mussbestimmung", wenn die Kurse dieser Anlagepapiere
   am Abschlussstichtag nachhaltig gesunken sind und von einer voraussichtlich dauernden Kursminderung auszugehen
   ist (strenges Niederstwertprinzip).
 

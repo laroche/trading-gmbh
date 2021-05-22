@@ -444,13 +444,13 @@ Spezielle Links für alle, die in Stuttgart eine GmbH gründen wollen:
 
 - [IHK Stuttgart: Firmenname-Recherche](https://www.stuttgart.ihk24.de/fuer-unternehmen/weitere-services/firmen/firmennamen-666050)
 - [IHK Stuttgart Mitgliedsbeitrag](https://www.stuttgart.ihk24.de/ueber-uns/beitraege/asbeitrag-664170)
-   - Für eine GmbH ist für das Jahr 2020 ein Grundbeitrag von 168 Euro und eine Umlage von 0,21 % des Gewerbeertrags zu zahlen.
+   - Für eine GmbH ist für das Jahr 2021 ein Grundbeitrag von 168 Euro und eine Umlage von 0,21 % des Gewerbeertrags zu zahlen.
      (Das sind bei 50.000 € Gewerbeertrag dann 105 € Umlage.)
 - <https://www.gewerbe-anmelden.info/gewerbeamt/stuttgart.html>
-   - <https://www.stuttgart.de/item/show/484353/1>
+   - [Gewerbeanmeldung in Stuttgart](https://www.stuttgart.de/vv/leistungen/gewerbe-anmelden.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C104840)
       - Ausgenommen davon sind: die ausschließliche Verwaltung eigenen Vermögens
-   - <https://www.stuttgart.de/img/mdb/item/320509/80032.pdf>
-   - Gewerbeanmeldung kostet 57,50 € (Stand 2020/07)
+   - <https://www.stuttgart.de/medien/ibs/gewerbeanmeldung.pdf>
+   - Gewerbeanmeldung kostet 60 € (Stand 2021/05)
 - Abfallgebühren: Abfallwirtschaftssatzung der Landeshauptstadt Stuttgart (AfS) zuletzt geändert am 5.12.2019 (Amtsblatt der Landeshauptstadt Stuttgart Nr. 50 vom 12.12.2019)
    - Abfallgebühren noch nicht nachgeschaut, online scheinen die nicht zu sein.
 
