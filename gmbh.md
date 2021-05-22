@@ -210,7 +210,7 @@ Betriebsausgaben
 - Lagerbestand, Software kaufen, Computer/Hardware/Infrastruktur
 - bis 150 Euro als Betriebsausgabe buchbar, unter 410 Euro Netto Geringwertiges Wirtschaftsgut (beweglich, abnutzbar, selbständig nutzbar) im Jahr komplett buchbar
    - sonst AFA auf mehrere Jahre
-   - Die geringwertigen Wirtschaftsgüter mit Anschaffungskosten bis 800 € wurden gem. § 6 Abs. 2 EStG im Jahr der Anschaffung voll abgeschrieben.
+   - Die geringwertigen Wirtschaftsgüter mit Anschaffungskosten bis 800 € werden gem. § 6 Abs. 2 EStG im Jahr der Anschaffung voll abgeschrieben.
 
 
 Herausnahme von Kapital aus der GmbH
@@ -446,9 +446,8 @@ Spezielle Links für alle, die in Stuttgart eine GmbH gründen wollen:
 - [IHK Stuttgart Mitgliedsbeitrag](https://www.stuttgart.ihk24.de/ueber-uns/beitraege/asbeitrag-664170)
    - Für eine GmbH ist für das Jahr 2021 ein Grundbeitrag von 168 Euro und eine Umlage von 0,21 % des Gewerbeertrags zu zahlen.
      (Das sind bei 50.000 € Gewerbeertrag dann 105 € Umlage.)
-- <https://www.gewerbe-anmelden.info/gewerbeamt/stuttgart.html>
-   - [Gewerbeanmeldung in Stuttgart](https://www.stuttgart.de/vv/leistungen/gewerbe-anmelden.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C104840)
-      - Ausgenommen davon sind: die ausschließliche Verwaltung eigenen Vermögens
+- [Gewerbeanmeldung in Stuttgart](https://www.stuttgart.de/vv/leistungen/gewerbe-anmelden.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C104840)
+   - Ausgenommen davon sind: die ausschließliche Verwaltung eigenen Vermögens
    - <https://www.stuttgart.de/medien/ibs/gewerbeanmeldung.pdf>
    - Gewerbeanmeldung kostet 60 € (Stand 2021/05)
 - Abfallgebühren: Abfallwirtschaftssatzung der Landeshauptstadt Stuttgart (AfS) zuletzt geändert am 5.12.2019 (Amtsblatt der Landeshauptstadt Stuttgart Nr. 50 vom 12.12.2019)
