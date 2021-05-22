@@ -113,7 +113,7 @@ nach der Bilanz sowie der Gewinn- und Verlustrechnung (GuV).
 
 Die Standard-Kontenrahmen (SKR) der DATEV können hier heruntergeladen werden:
 [DATEV Standard-Kontenrahmen SKR](https://www.datev.de/web/de/m/ueber-datev/datev-im-web/datev-von-a-z/skr-standard-kontenrahmen/)
-bzw. [DATEV Kontenrahmen 2020](https://apps.datev.de/dnlexka/document/0907811).
+bzw. [DATEV Kontenrahmen 2021](https://apps.datev.de/dnlexka/document/0907812).
 Siehe auch [SKR 04 E-Bilanz für Kapitalgesellschaft](https://www.datev.de/web/de/datev-shop/material/skr-04-e-bilanz-fuer-kapitalgesellschaft/).
 
 Den verwendeten Kontenrahmen kann man frei wählen, sollte dies aber mit dem Steuerberater

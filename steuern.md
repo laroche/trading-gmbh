@@ -26,7 +26,8 @@ Die Körperschaftssteuer beträgt aktuell 15 % des steuerpflichtigen Gewinns. Zu
 mit dem Solidaritätszuschlag (5,5 % auf die 15 %) beträgt die KSt somit 15,825 %.
 
 Ab 400 € pro Jahr Körperschaftsteuer werden jährliche Vorauszahlungen festgesetzt
-([§ 31 KStG](https://www.gesetze-im-internet.de/kstg_1977/__31.html)).
+([§ 31 KStG](https://www.gesetze-im-internet.de/kstg_1977/__31.html) bzw.
+[§ 37 Satz 5 EStG](https://www.gesetze-im-internet.de/estg/__37.html)).
 
 Eine gewerblich tätige GmbH ist zusätzlich verpflichtet Gewerbesteuern zu bezahlen. Die
 Gewerbesteuer beträgt 3,5 % x Hebesatz der Gemeinde vom Gewerbeertrag berechnet (Bsp.
