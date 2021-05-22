@@ -74,6 +74,10 @@ Informationen zur GmbH
      keinen anderen Einkunftsarten. Sie werden bei der Einkommensteuererklärung nicht berücksichtigt.
 - aktuell bestehende Arbeitsverträge prüfen, ob dort Klauseln bestehen, die einer Gründung entgegen stehen (sollte selten der Fall sein)
    - eventuell bestehende Arbeitgeber über Neugründung informieren
+   - Auf Anfrage bei einem AG im öffentlichen Dienst (Vorgaben nach dem Bundesbeamtengesetz) habe ich folgende Rückmeldung erhalten:
+     Die Verwaltung des eigenen Vermögens fällt unter genehmigungsfreie Nebentätigkeiten. Dadurch wird dem Gesichtspunkt Rechnung getragen,
+     dass eine nicht gegen anderweitige Pflichten verstoßende Verwaltung des eigenen Vermögens zum grundrechtlich geschützten Gebrauch des
+     Eigentums (Art. 14 Abs. 1 GG) gehört. Es gibt keine Regelung zu der Form der Vermögensverwaltung. Die Tätigkeit ist auch nicht anzeigepflichtig.
 - Welche Gebühren werden von Brokern für GmbHs erhoben?
    - Nicht alle Broker erlauben eine GmbH als Kunden.
    - Für Broker in Deutschland: Erlaubt der Broker sich von der Kapitalertragssteuer befreien zu lassen?
@@ -367,6 +371,12 @@ Stille Gesellschaft
    - Handelsbilanz GmbH/UG & atypisch still
    - Steuerbilanz GmbH/UG & atypisch still
    - Steuerbilanz GmbH/UG -> für die Körperschaftssteuererklärung
+- Die Errichtung einer atypisch stillen Beteiligung führt dazu, dass du eine gesonderte und einheitliche
+  Feststellung machen musst, in der der Gesamtgewinn aufgeteilt wird zwischen der GmbH und dem Stillen.
+  Der Gewinn aus dieser Feststellung unterliegt der Gewerbesteuer. Da die atypisch stille Beteiligung zu
+  einer Personengesellschaft führt erhält man den Freibetrag auf die Gewerbesteuer. Der Stille sollte der
+  Einfachheit halber keinerlei Vergütung erhalten außer eben seinen Anteil am Gewinn, da es sonst zu
+  Sonderbilanzen und Aufwand führt.
 - Sowohl die atypisch stille Gesellschaft als auch das Unternehmen, an dem die Beteiligung besteht, sind getrennt IHK-Mitglied und beitragspflichtig.
 
 Vorsicht bei der Wahl des atypisch stillen Gesellschafters. Bloß nicht sich selber wählen, außer man weiß

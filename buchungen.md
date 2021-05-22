@@ -34,6 +34,14 @@ siehe auch [Wikipedia:Kapitalgesellschaft#Größenklassen](https://de.wikipedia.
 Beim Start einer neuen GmbH wird man voraussichtlich als Kleinstkapitalgesellschaft
 eingestuft.
 
+Eine Trading-GmbH macht keine Umsatzerlöse. Die sind definiert in § 277 Abs. 1 HGB als Erlöse aus
+dem Verkauf und der Vermietung oder Verpachtung von Produkten sowie aus der Erbringung von Dienstleistungen.
+Solange man also nicht mehr als 10 Mitarbeiter hat, bleibt man als Trading GmbH eine
+Kleinstkapitalgesellschaft.
+
+Geprüft werden müssen Kapitalgesellschaften die nicht kleine Kapitalgesellschaften sind nach § 316 HGB.
+(Dies trifft für eine Trading GmbH eben nicht zu. Damit ist es möglich, alle Abschlüsse selber zu erstellen.)
+
 Größenabhängige Erleichterungen im HGB:
 
 - Bilanz: [§ 266 HGB](https://dejure.org/gesetze/HGB/266.html) und [§ 274a HGB](https://dejure.org/gesetze/HGB/274a.html)
