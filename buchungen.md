@@ -529,6 +529,8 @@ Beispiel 2 SKR04 Buchungen
 --------------------------
 
 Beispiel von SKR04 Buchungen zusammengefasst aus dem Pdf-Dokument <http://pmpod.de/TradingBuchhaltungWIP.pdf>.
+Weitere Informationen von <https://wissen.ride.capital/knowledge/wie-werden-stillhaltergesch%C3%A4fte-in-der-gmbh-behandelt>
+und <https://www.haufe.de/finance/haufe-finance-office-premium/wertpapiere-nach-hgb-estg-und-ifrs-533-bilanzierung-nach-ausuebung-der-option_idesk_PI20354_HI1100662.html>.
 
 beteiligte SKR04 Konten:
 
