@@ -42,6 +42,7 @@ Informationen zur GmbH
    - Lohnsteuer an den GGF fällt nur an, wenn mehr als 950 € Brutto-Gehalt ausgezahlt wird. In der Einkommensteuererklärung
      wird dies als Einkünfte aus selbständiger Arbeit eingetragen.
       - <https://www.lohn-info.de/lohnsteuersteuertabellen_2019.html>
+      - <https://www.bmf-steuerrechner.de/>
    - Beim Gehalt muss darauf geachtet werden, dass es einem Fremdvergleich standhält, nicht, dass das
      Finanzamt eine verdeckte Gewinnausschüttung (VGA) daraus macht.
    - Unentgeltliche Geschäftsführung wird durch einen Gesellschafterbeschluss dokumentiert.
