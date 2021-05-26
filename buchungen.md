@@ -237,6 +237,8 @@ Bilanzstichtag (per CSV) exportieren und mit folgenden Programmen an das Finanza
 - <https://www.kontolino.de/handbuch/daten-importieren-und-exportieren-2/e-bilanz-exportieren/>
 - <https://ebilanzplus.de/>
 - <https://www.ebilanzonline.de/>
+   - Wenn die Buchhaltungssoftware einen xbrl Export unterstützt, dann muss man die Datei in
+     ebilanzonline.de nur noch importieren und auf übertragen klicken.
 - <https://www.myebilanz.de/>
 
 Weitere Links:
