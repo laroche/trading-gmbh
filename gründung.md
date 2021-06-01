@@ -147,11 +147,11 @@ Unternehmergesellschaft UG
 - keine Sacheinlagen möglich
 
 
-Personengesellschaften wie Kapitalgesellschaft besteuern
---------------------------------------------------------
+Personenhandelsgesellschaften wie Kapitalgesellschaft besteuern
+---------------------------------------------------------------
 
-Personenhandelsgesellschaften können wählen, sich wie eine Kapitalgesellschaft besteuern zu lassen.
-Das würde bedeuten man könnte z.B. eine GbR gründen, ist wesentlich einfacher und dann die Besteuerung nach KStG wählen.
+Personenhandelsgesellschaften (OHG, KG) können wählen, sich wie eine Kapitalgesellschaft besteuern zu lassen.
+Gilt leider nicht für GbR.
 
 - <https://www.bundestag.de/dokumente/textarchiv/2021/kw20-de-antisteuervermeidungsrichtlinie-840268>
 - <https://dip21.bundestag.de/dip21/btd/19/286/1928656.pdf>
