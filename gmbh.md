@@ -262,6 +262,7 @@ Herausnahme von Kapital aus der GmbH
    - Eine bAV (betriebliche Altersvorsorge) ist nur nach Probezeit5 (5 Jahre GmbH und 3 Jahre GGF) möglich.
      Pensionszusagen ohne Aktiv Bezüge sind nicht möglich. Mit Bezügen muss die Angemessenheit (max 75%) jederzeit gewährleistet sein.
      Auch die Erdienbarkeit und das Höchsteintrittsalter sind zu beachten.
+   - Pensionszusagen gelten als zu starr und es gibt zu viele Vorschriften dazu, daher sollten sie eher vermieden werden.
 - Rückstellungen für:
    - [Wikipedia: Rückstellung](https://de.wikipedia.org/wiki/R%C3%BCckstellung)
    - Investitionsabzugsbeträge (Anschaffungen in den nächsten 3 Jahren)
