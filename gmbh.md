@@ -165,6 +165,7 @@ Informationen zur GmbH
       - [freeFiBU](https://www.freefibu.de/)
 - Verfahrensdokumentation nach GoDB
    - Die Mindestanforderungen an eine Buchführung sind im § 239 HGB geregelt.
+   - [BMF-Schreiben zur GoBD](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2019-11-28-GoBD.pdf?__blob=publicationFile&v=13)
    - <https://www.haufe.de/steuern/kanzlei-co/muster-verfahrensdokumentation-zur-belegablage_170_325034.html>
    - <https://www.bstbk.de/downloads/bstbk/steuerrecht-und-rechnungslegung/fachinfos/BStBK_GoBD_Ein-Praxisleitfaden-fuer-Unternehmen_Version-1.1_2018.pdf.pdf>
    - <https://www.haufe.de/steuern/steuer-office-basic/muster-verfahrensdokumentation-zum-ersetzenden-scannen_idesk_PI27_HI13546001.html>
