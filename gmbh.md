@@ -307,6 +307,7 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
 
 Links:
 
+- [Allianz Global Investors: Steuern für Privat- und Firmenanleger](https://de.allianzgi.com/de-de/service/steuern)
 - <https://de.wikipedia.org/wiki/Schachtelprivileg>
 - <https://www.haufe.de/finance/finance-office-professional/beteiligung-an-anderen-koerperschaften_idesk_PI11525_HI1542614.html>
 - <https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-kstg/#D063101600035>
