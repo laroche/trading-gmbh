@@ -349,6 +349,7 @@ Stille Gesellschaft
 -------------------
 
 - <https://de.wikipedia.org/wiki/Stille_Gesellschaft>
+- <https://www.smartsteuer.de/online/lexikon/a/atypische-stille-gesellschaft/>
 - <https://www.firma.de/firmengruendung/gmbh-still-motive-und-vorteile-stiller-gesellschafter-einer-gmbh/>
 - <https://www.haufe.de/finance/finance-office-professional/stille-gesellschaft-3-gewerbesteuer_idesk_PI11525_HI6696685.html>
 - <https://www.juhn.com/fachwissen/unternehmensbesteuerung/stille-gesellschaft/>
