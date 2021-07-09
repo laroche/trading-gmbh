@@ -129,6 +129,7 @@ Informationen zur GmbH
          - <https://www.kontolino.de/arbeitshilfen/>
          - <https://www.kontolino.de/muster-verfahrensdokumentationen-fuer-kontolino-nutzer/>
          - <https://www.kontolino.de/handbuch/jahresabschluss/handelsbilanz-erstellen/>
+      - [Agenda Rechnungswesen](https://www.agenda-software.de/unternehmen/rechnungswesen-software.php)
    - Reviews Buchhaltungssoftware:
       - <https://www.rechnungswesen-portal.de/Marktplatz/Software/Finanzbuchhaltung/>
       - <https://www.buchhaltungssoftware.com/>
@@ -145,7 +146,7 @@ Informationen zur GmbH
       - [DATEV Faktura](https://www.datev.de/web/de/datev-shop/komplettloesungen/datev-mittelstand-faktura-pro/)
       - [lexoffice](https://www.lexoffice.de/)
       - Lexware buchhaltung: Financial Office Premium
-         - https://www.lexware-financial-office.de/
+         - <https://www.lexware-financial-office.de/>
       - [Reviso](https://www.reviso.com/)
       - WISO Buchhaltung 365
       - [WISO Mein Geld](https://update2.buhl-data.com/documents/Leistungsuebersicht_Mein_Geld_2020.pdf)
