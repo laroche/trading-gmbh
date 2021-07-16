@@ -13,21 +13,22 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsgesetzbuch](https://de.wikipedia.org/wiki/Handelsgesetzbuch)
       - [Wikipedia: Bilanzrichtlinie-Umsetzungsgesetz](https://de.wikipedia.org/wiki/Bilanzrichtlinie-Umsetzungsgesetz) (BilRUG)
    - [GmbH-Gesetz](https://dejure.org/gesetze/GmbHG) (GmbHG)
-   - [YouTube: GmbH-Recht von Michael Beurskens](https://www.youtube.com/watch?v=YKYmnVC-JTE&list=PLo0fFF7gLND0BRhKU7Drpzar9Df8HvYDw)
 - Datenabruf zu bestehenden Unternehmen
    - <https://www.bundesanzeiger.de/>
    - <https://www.northdata.de/>
    - <https://www.handelsregister.de/> und <https://www.unternehmensregister.de/>
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
    - <https://www.transparenzregister.de/>
+      - [Wikipedia: Transparenzregister](https://de.wikipedia.org/wiki/Transparenzregister)
 - ähnliche Internetseiten zu einer Trading-GmbH
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
    - <https://www.ride.capital/trader-gmbh>
-      - [YouTube: RIDE Capital](https://www.youtube.com/channel/UC-GJBvk0hkIGRBPnBj2--9g)
+      - [YouTube: RIDE Capital](https://www.youtube.com/c/RIDECapital/videos)
+   - <http://mit-rueckenwind.info/>
+      - [Buchhaltung Automatisieren mit VICTAR](https://mit-rueckenwind.info/buchhaltung-automatisieren-trading-gmbh/)
    - <https://fintegra.de/>
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
-   - <http://mit-rueckenwind.info/>
    - <https://www.fuer-gruender.de/>
    - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/steuervorteil-vermoegensverwaltende-gmbh-aktien-und-immobilien-handel/>
    - <https://de.allianzgi.com/de-de/service/steuern>
@@ -81,7 +82,7 @@ Infosammlung:
          - mind. 25.000 € für eine GmbH, die Hälfte muss eingezahlt werden
          - Für eine UG langt 1 €, sollte mindestens alle laufenden Kosten tragen. Also ca. 1.000 € im ersten Jahr.
          - Sachgründung: Schätzung der Gegenstände (kostet auch Geld), sonst Bareinlage (sehr zu empfehlen)
-      - Gesellschafter, Verteilung der Kapitalanteile
+      - Gesellschafter, Verteilung der Kapitalanteile ([Wikipedia: Gesellschafterliste](https://de.wikipedia.org/wiki/Gesellschafterliste))
       - Geschäftsführer(GF) muss benannt werden
    - Gesellschaftsvertrag wird vom Notar verlesen und dann von allen Gesellschaftern unterschrieben. Personalausweise mitbringen!
    - Unterlagen für das Handelsregister sollte man beim Notar gleich mit vorbereiten.
