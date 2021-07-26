@@ -8,6 +8,7 @@ Informationen zur GmbH
 
 - Werden Versicherungen benötigt?
    - [YouTube Unternehmerkanal: die 7 wichtigsten Versicherungen für Unternehmer und Selbständige](https://www.youtube.com/watch?v=RSUSuwplqu4)
+   - Betriebshaftpflichtversicherung, Rechtsschutzversicherung, Cyberversicherung
 - Ausscheiden/Insolvenz/Tod eines Gesellschafters
 - 4 Gesellschafter, Satzung: Jede Beschlussfassung bedarf einer Mehrheit von mehr als 75 % der Stimmen. So hat jeder von Ihnen ein Vetorecht.
    - <https://www.wista-ag.de/sozialversicherungsrechtlicher-status-von-minderheitsgesellschafter-geschaeftsfuehrern-in-familiengesellschaften/>
@@ -26,6 +27,7 @@ Informationen zur GmbH
    - <https://www.iprecht.de/Anwalt/Muster/Mustervertraege/mu_gmbh/mu_gmbh.htm>
 - Ist die UG Umsatzsteuerlicher Unternehmer i.S.v. § 2 UStG? Nachhaltige Tätigkeiten außerhalb der Aktienanlage mit Einnahmeerzielungsabsicht.
   -> Umsatzsteuerliche Einstufung als Kleinunternehmer oder nicht.
+   - [Wikipedia: Kleinunternehmerregelung](https://de.m.wikipedia.org/wiki/Kleinunternehmerregelung_(Deutschland))
    - <https://www.gruenderlexikon.de/checkliste/informieren/ihr-recht/kleinunternehmerregelung/>
 - Mein Finanzamt hat mir mit Verweis auf Umsatzsteueranwendungserlass (UStAE) Abschnitt 2.3 Abs. 1a erklärt,
    dass das bloße Erwerben, Halten und Veräußern von gesellschaftsrechtlichen Beteiligungen keine unternehmerische Tätigkeit im Sinne des Umsatzsteuergesetzes ist.
@@ -70,7 +72,8 @@ Informationen zur GmbH
    - Für Privatkunden ist ab dem 03.01.2018 für den Wertpapierhandel statt einer LEI eine CONCAT erforderlich.
      Diese wird wohl auf Basis der steuerlichen Id-Nr. vergeben und vom Broker automatisch beantragt.
       - <https://de.wikipedia.org/wiki/CONCAT>
-- Gründungszuschuss von der Arbeitsagentur prüfen
+- Gründungszuschuss von der Arbeitsagentur prüfen (nennt sich "Einstiegsgeld")
+   - ermessenslenkenden Weisungen für den Zuschuss nach §16b SGB II und das Einstiegsgeld
    - Gründerzuschüsse sind steuerfrei nach § 3 Nr. 2 EStG und sie unterliegen nicht dem Progressionsvorbehalt und auch
      keinen anderen Einkunftsarten. Sie werden bei der Einkommensteuererklärung nicht berücksichtigt.
 - aktuell bestehende Arbeitsverträge prüfen, ob dort Klauseln bestehen, die einer Gründung entgegen stehen (sollte selten der Fall sein)
