@@ -77,6 +77,11 @@ Infosammlung:
       - Geschäftstätigkeitsfeld, Unternehmensgegenstand
          - "Verwaltung eigenen Vermögens", "Erwerb und Halten von Beteiligungen an Unternehmen", "Handel mit Wertpapieren"
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
+         - "Die erlaubnisfreie Beratung von Unternehmen, das Eingehen von Stillhaltergeschäften zur Erzielung von Einnahmen und die
+            Anlage des Gesellschaftsvermögens in Termingeschäften, Vermögensanlagen und Finanzinstrumenten aller Art sowie der Erwerb,
+            die Verwaltung und die Verwertung von Beteiligungen an anderen Unternehmen im eigenen Namen, auf eigene Rechnung, nicht
+            für Dritte und unter Ausschluss von Tätigkeiten, die einer Erlaubnis, insbesondere nach dem Kreditwesengesetz (KWG) oder
+            dem Kapitalanlagegesetzbuch (KAGB), bedürfen."
          - Firmenname und Unternehmensgegenstand sollte mit der IHK besprochen werden. Stellungnahme der IHK kann beim Notar mitgebracht werden.
       - Stammeinlage/Startkapital
          - mind. 25.000 € für eine GmbH, die Hälfte muss eingezahlt werden
