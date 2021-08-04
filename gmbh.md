@@ -98,11 +98,13 @@ Informationen zur GmbH
       - In Deutschland sind vor allem die Santander 1plus VISA-Card, die Barclaycard Visa und die DKB Cash Visa sehr beliebt.
       - <https://www.gebuhrenfrei.com/>
       - <https://www.n-tv.de/ratgeber/Nur-eine-Karte-ist-ohne-Tuecken-kostenlos-article21849133.html>
+      - <https://finanz-szene.de/payments/die-acht-pricing-strategien-im-kartengeschaeft-deutscher-banken/>
    - <https://www.kontofinder.de/girokonto/business>
    - <https://verbraucher.eu/geschaeftskonto/>
    - <https://unternehmerkanal.de/geschaeftskonto-vergleich/>
       - [YouTube Unternehmerkanal: Firmenkonto](https://www.youtube.com/watch?v=e4n52UgNn1o)
    - Für einen Faktencheck zu Online-Banken ganz gut: <https://finanz-szene.de/>
+      - Oder Kreditkarten: <https://finanz-szene.de/payments/die-acht-pricing-strategien-im-kartengeschaeft-deutscher-banken/>
 - Buchhaltung:
    - Anforderungen an die Buchhaltung:
       - doppelte Buchführung, SKR04
