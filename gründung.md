@@ -135,6 +135,7 @@ Infosammlung:
 - Bei mehr als einem Gesellschafter ist die Sozialversicherungspflicht über einen Statusfeststellungsverfahren zu klären:
    - Geschäftsführer mit 50 % oder mehr der Anteile ist nicht sozialversicherungspflichtig, weil er dann selbständig unternehmerisch tätig ist
      bzw. bei 50 % keine Entscheidungen gegen Ihn durchgesetzt werden können.
+- [Steuerberatergebührenverordnung](https://www.gesetze-im-internet.de/stbgebv/)
 
 
 Unternehmergesellschaft UG
