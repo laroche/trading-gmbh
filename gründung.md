@@ -74,6 +74,8 @@ Infosammlung:
             - handelsregisterfähige Adresse für den Briefkasten
          - Ist eine Betriebsaufspaltung bei eigens vermieteten Räumen ein mögliches Problem?
             - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/betriebsaufspaltung-gmbh/>
+            - <https://www.finanztip.de/private-veraeusserungsgeschaefte/>
+            - <https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202110136/>
       - Geschäftstätigkeitsfeld, Unternehmensgegenstand
          - "Verwaltung eigenen Vermögens", "Erwerb und Halten von Beteiligungen an Unternehmen", "Handel mit Wertpapieren"
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
