@@ -70,7 +70,8 @@ Infosammlung:
    - Für den Gesellschaftsvertrag (Satzung) wird mindestens Folgendes benötigt:
       - Firmenname und Firmensitz
          - Bei Mietwohnung: Erlaubt der Vermieter eine Firma?
-         - Soll der Firmensitz gemietet werden wie z.B. bei [Clevver](https://www.clevver.io/), [Regus](https://www.regus.de/) oder [ebuero](https://www.ebuero.de/)?
+         - Soll der Firmensitz gemietet werden wie z.B. bei [Clevver](https://www.clevver.io/), [Regus](https://www.regus.de/),
+           <https://virtuelles-office.eu/> oder [ebuero](https://www.ebuero.de/)?
             - handelsregisterfähige Adresse für den Briefkasten
          - Ist eine Betriebsaufspaltung bei eigens vermieteten Räumen ein mögliches Problem?
             - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/betriebsaufspaltung-gmbh/>
