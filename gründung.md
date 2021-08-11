@@ -79,6 +79,10 @@ Infosammlung:
       - Geschäftstätigkeitsfeld, Unternehmensgegenstand
          - "Verwaltung eigenen Vermögens", "Erwerb und Halten von Beteiligungen an Unternehmen", "Handel mit Wertpapieren"
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
+         - "Die Verwaltung eigenen Vermögens und Wertpapierhandel im eigenen Namen und auf eigene Rechnung, nicht als Dienstleistung für Dritte,
+            ausgenommen sind ferner alle Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen."
+         - "Der Erwerb, das Halten, Verwalten und Verwerten von eigenen Beteiligungen und Vermögensanlagen
+            in eigenem Namen und auf eigene Rechnung, ausdrücklich nicht als Dienstleistung für Dritte."
          - "Die erlaubnisfreie Beratung von Unternehmen, das Eingehen von Stillhaltergeschäften zur Erzielung von Einnahmen und die
             Anlage des Gesellschaftsvermögens in Termingeschäften, Vermögensanlagen und Finanzinstrumenten aller Art sowie der Erwerb,
             die Verwaltung und die Verwertung von Beteiligungen an anderen Unternehmen im eigenen Namen, auf eigene Rechnung, nicht
