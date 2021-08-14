@@ -80,10 +80,14 @@ Infosammlung:
       - Geschäftstätigkeitsfeld, Unternehmensgegenstand
          - "Verwaltung eigenen Vermögens", "Erwerb und Halten von Beteiligungen an Unternehmen", "Handel mit Wertpapieren"
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
-         - "Die Verwaltung eigenen Vermögens und Wertpapierhandel im eigenen Namen und auf eigene Rechnung, nicht als Dienstleistung für Dritte,
-            ausgenommen sind ferner alle Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen."
-         - "Der Erwerb, das Halten, Verwalten und Verwerten von eigenen Beteiligungen und Vermögensanlagen
-            in eigenem Namen und auf eigene Rechnung, ausdrücklich nicht als Dienstleistung für Dritte."
+         - Der Erwerb, das Halten, Verwalten und Verwerten von eigenen Beteiligungen und Vermögensanlagen
+            in eigenem Namen und auf eigene Rechnung, ausdrücklich nicht als Dienstleistung für Dritte.
+         - Die Verwaltung eigenen Vermögens und Wertpapierhandel im eigenen Namen und auf eigene Rechnung, nicht als Dienstleistung für Dritte,
+            ausgenommen sind ferner alle Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen.
+            Zur Förderung des Gesellschaftszwecks wird das Unternehmen insbesondere (aber nicht ausschließlich) folgende Handlungen
+            vornehmen: Beteiligung an anderen Unternehmen; Bankeinlagen und Darlehensaufnahmen; börsliche und außerbörsliche Geschäfte
+            aller Art, wie z.B. den Handel mit Aktien, festverzinslichen Papieren, ETF's, Futures, CFD's, Termingeschäfte,
+            Stillhaltergeschäfte zur Einnahmenerzielung.
          - "Die erlaubnisfreie Beratung von Unternehmen, das Eingehen von Stillhaltergeschäften zur Erzielung von Einnahmen und die
             Anlage des Gesellschaftsvermögens in Termingeschäften, Vermögensanlagen und Finanzinstrumenten aller Art sowie der Erwerb,
             die Verwaltung und die Verwertung von Beteiligungen an anderen Unternehmen im eigenen Namen, auf eigene Rechnung, nicht
@@ -101,9 +105,9 @@ Infosammlung:
    - Der Notar ist verpflichtet jede Gründung an das für den Sitz der Gesellschaft zuständige Gewerbeamt und Körperschaftsteuerfinanzamt weiterzugeben.
    - Gründungsurkunde wird vom Notar ausgestellt.
 - Bei der Bank ein neues Geschäftskonto (GmbH in Gründung (i.G.)) eröffnen (durch Vorlage der Gründungsurkunde) und Stammkapital einzahlen.
-   - Bei der Einzahlung des Stammkapitals den Verwendungszweck „Stammkapitaleinlage“ angeben. Beleg dazu gut aufheben.
-   - Nachweis der Bank über die Einzahlung dem Notar geben. Erst damit wird der Notar beim Amtsgericht
-     die Eintragung ins Handelsregister veranlassen.
+   - Bei der Einzahlung des Stammkapitals den Verwendungszweck „Stammkapitaleinlage Vorname Nachname“ angeben. Beleg dazu gut aufheben.
+   - Nachweis der Bank über die Einzahlung dem Notar geben (aktuelles Guthaben auf der Bank muss sichtbar sein).
+     Erst damit wird der Notar beim Amtsgericht die Eintragung ins Handelsregister veranlassen.
    - Geschäftskonto läuft auf den Firmennamen
 - Briefkasten richtig auszeichnen.
 - Eintragung ins [Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) (150 €) über das Amtsgericht (wird vom Notar gemacht) und Erhalt der HRB-Nummer
