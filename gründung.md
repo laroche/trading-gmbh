@@ -82,17 +82,23 @@ Infosammlung:
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
          - Der Erwerb, das Halten, Verwalten und Verwerten von eigenen Beteiligungen und Vermögensanlagen
             in eigenem Namen und auf eigene Rechnung, ausdrücklich nicht als Dienstleistung für Dritte.
+         - (Vom YouTube Kanal von RIDE Capital kann man bei Ihren Kunden folgende Unternehmensgegenstände auslesen:)
+            "Die erlaubnisfreie Beratung von Unternehmen, das Eingehen von Stillhaltergeschäften zur Erzielung von Einnahmen und die
+            Anlage des Gesellschaftsvermögens in Termingeschäften, Vermögensanlagen und Finanzinstrumenten aller Art sowie der Erwerb,
+            die Verwaltung und die Verwertung von Beteiligungen an anderen Unternehmen im eigenen Namen, auf eigene Rechnung, nicht
+            für Dritte und unter Ausschluss von Tätigkeiten, die einer Erlaubnis, insbesondere nach dem Kreditwesengesetz (KWG) oder
+            dem Kapitalanlagegesetzbuch (KAGB), bedürfen."
          - Die Verwaltung eigenen Vermögens und Wertpapierhandel im eigenen Namen und auf eigene Rechnung, nicht als Dienstleistung für Dritte,
             ausgenommen sind ferner alle Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen.
             Zur Förderung des Gesellschaftszwecks wird das Unternehmen insbesondere (aber nicht ausschließlich) folgende Handlungen
             vornehmen: Beteiligung an anderen Unternehmen; Bankeinlagen und Darlehensaufnahmen; börsliche und außerbörsliche Geschäfte
             aller Art, wie z.B. den Handel mit Aktien, festverzinslichen Papieren, ETF's, Futures, CFD's, Termingeschäfte,
             Stillhaltergeschäfte zur Einnahmenerzielung.
-         - "Die erlaubnisfreie Beratung von Unternehmen, das Eingehen von Stillhaltergeschäften zur Erzielung von Einnahmen und die
-            Anlage des Gesellschaftsvermögens in Termingeschäften, Vermögensanlagen und Finanzinstrumenten aller Art sowie der Erwerb,
-            die Verwaltung und die Verwertung von Beteiligungen an anderen Unternehmen im eigenen Namen, auf eigene Rechnung, nicht
-            für Dritte und unter Ausschluss von Tätigkeiten, die einer Erlaubnis, insbesondere nach dem Kreditwesengesetz (KWG) oder
-            dem Kapitalanlagegesetzbuch (KAGB), bedürfen."
+         - Der Erwerb, das Halten, Verwalten und Verwerten eigenen Vermögens, insbesondere von Beteiligungen an anderen Unternehmen,
+            sowie alle damit im Zusammenhang stehenden Geschäfte im eigenen Namen auf eigene Rechnung, nicht für Dritte und unter Ausschluss
+            erlaubnispflichtiger Tätigkeiten insbesondere nach dem Kreditwesengesetz (KWG) oder dem Kapitalanlagegesetzbuch (KAGB).
+            Die Gesellschaft darf alle Rechtsgeschäfte tätigen, die der Unterstützung des Unternehmensgegenstands dienen; sie darf auch im
+            In- und Ausland Tochtergesellschaften gründen und/oder Zweigniederlassungen errichten.
          - Firmenname und Unternehmensgegenstand sollte mit der IHK besprochen werden. Stellungnahme der IHK kann beim Notar mitgebracht werden.
       - Stammeinlage/Startkapital
          - mind. 25.000 € für eine GmbH, die Hälfte muss eingezahlt werden
