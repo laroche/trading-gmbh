@@ -226,6 +226,15 @@ Betriebsausgaben
 - bis 150 Euro als Betriebsausgabe buchbar, unter 410 Euro Netto Geringwertiges Wirtschaftsgut (beweglich, abnutzbar, selbständig nutzbar) im Jahr komplett buchbar
    - sonst AFA auf mehrere Jahre
    - Die geringwertigen Wirtschaftsgüter mit Anschaffungskosten bis 800 € werden gem. § 6 Abs. 2 EStG im Jahr der Anschaffung voll abgeschrieben.
+- Steuerfreie Zuwendungen an Arbeitnehmer
+   - <https://www.finanztip.de/steuerfreie-sachzuwendungen/>
+   - 44 € Sachbezüge pro Monat (ab 2022: 50€/Monat)
+      - Umsetzbar ist dies bspw. über den [SODEXO Benefits Pass](https://www.sodexo.de/produkte/benefits-pass/), mit dem man
+        sogar seine normalen Einkäufe bezahlen kann (bspw. Aldi, Kaufland, Thalia, ...).
+   - 60 € Sachbezug für besondere persönliche (!) Anlässe (bspw. Geburtstag; gilt nicht bei Weihnachten oder Ostern)
+   - Maximal 2x jährlich eine Betriebsveranstaltung für 110 EUR pro Teilnehmer
+      - <https://www.haufe.de/personal/haufe-personal-office-platin/betriebsveranstaltung-55-kosten-fuer-begleitpersonen_idesk_PI42323_HI2330506.html>
+      - Pro betrieblichen Teilnehmer stehen 110 EUR zur Verfügung und es darf jeder betriebliche Teilnehmer in Begleitung erscheinen.
 
 
 Herausnahme von Kapital aus der GmbH
