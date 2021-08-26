@@ -20,6 +20,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
    - <https://www.transparenzregister.de/>
       - [Wikipedia: Transparenzregister](https://de.wikipedia.org/wiki/Transparenzregister)
+      - [IHK Hannover zur Meldepflicht beim Transparenzregister](https://www.hannover.ihk.de/rechtsteuern/recht8/themengebiete-recht/recht1/1x1desgewerberechts/meldepflicht-fuer-das-transparenzregister.html)
 - ähnliche Internetseiten zu einer Trading-GmbH
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
    - <https://www.ride.capital/trader-gmbh>
