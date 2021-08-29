@@ -15,6 +15,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - [GmbH-Gesetz](https://dejure.org/gesetze/GmbHG) (GmbHG)
 - Datenabruf zu bestehenden Unternehmen
    - <https://www.bundesanzeiger.de/>
+      - <https://veranstaltungen.bundesanzeiger-verlag.de/>
    - <https://www.northdata.de/>
    - <https://www.handelsregister.de/> und <https://www.unternehmensregister.de/>
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
@@ -83,6 +84,9 @@ Infosammlung:
          - "Erwerb und Halten von Beteiligungen an anderen Unternehmen und Verwaltung eigenen Vermögens; ausgenommen sind Tätigkeiten, die einer staatlichen Erlaubnis und/oder Genehmigung bedürfen"
          - Der Erwerb, das Halten, Verwalten und Verwerten von eigenen Beteiligungen und Vermögensanlagen
             in eigenem Namen und auf eigene Rechnung, ausdrücklich nicht als Dienstleistung für Dritte.
+         - Die Eingehung, der Erwerb, das Halten, das Verwalten und die Veräußerung von Unternehmensbeteiligungen sowie Immoblien und Grundstücken
+            im In- und Ausland für eigene Rechnung, die Verwaltung des eigenen Vermögens sowie die Erbringung von Beratungsleistungen.
+            Erlaubnispflichtige Tätigkeiten werden nicht erbracht.
          - (Vom YouTube Kanal von RIDE Capital kann man bei Ihren Kunden folgende Unternehmensgegenstände auslesen:)
             "Die erlaubnisfreie Beratung von Unternehmen, das Eingehen von Stillhaltergeschäften zur Erzielung von Einnahmen und die
             Anlage des Gesellschaftsvermögens in Termingeschäften, Vermögensanlagen und Finanzinstrumenten aller Art sowie der Erwerb,

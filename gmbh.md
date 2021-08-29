@@ -463,6 +463,7 @@ Die Besteuerung beim Gesellschafter erfolgt unter Anwendung des Teileinkünfteve
 40 % steuerfrei sind und 60 % nach dem persönlichen Steuersatz besteuert werden.
 
 - <https://www.staatenlos.ch/>
+- [Facebook: Staatenlos Mastermind](https://www.facebook.com/groups/906274769393425/)
 
 
 Firma im Ausland gründen
