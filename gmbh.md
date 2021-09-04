@@ -89,10 +89,11 @@ Informationen zur GmbH
    - Gebühren für Professionals bei IB: <https://www.interactivebrokers.eu/de/index.php?f=15537>
 - Geschäftskonto:
    - [Fyrst](https://www.fyrst.de/konten/), [Fidor Bank](https://fidor.de/), [PENTA](https://getpenta.com/de/firmenkonto/), [Holvi](https://www.holvi.com/),
-     N26 (?), [Deutsche Bank](https://www.deutsche-bank.de/gk/zahlungsverkehr/zahlungsverkehr-im-ueberblick/geschaeftskonto.html),
+     N26 (keine Geschäftskonten?), [Deutsche Bank](https://www.deutsche-bank.de/gk/zahlungsverkehr/zahlungsverkehr-im-ueberblick/geschaeftskonto.html),
      [Kontist](https://kontist.com/), [Skatbank](https://www.skatbank.de/geschaeftskunden/geschaeftskonto/kontomodelle/trumpfkonto_business.html),
      [Grenke](https://www.grenke.de/produkte/konten/business),
      [Revolut](https://business.revolut.com/), [FINOM](https://finom.de/),
+     [qonto](https://qonto.com/),
      [VWFS](https://www.vwfs.de/geschaeftskunden/geldanlage.html)
    - Kreditkarte für das Geschäftskonto? Mastercard bei Interactive Brokers?
       - In Deutschland sind vor allem die Santander 1plus VISA-Card, die Barclaycard Visa und die DKB Cash Visa sehr beliebt.
@@ -426,6 +427,7 @@ Stiftungen
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
 - Alle 30 Jahre wird Erbersatzsteuer auf das Vermögen erhoben mit einem Freibetrag von 800.000 Euro.
    (Kann auf 30 Jahresraten aufgeteilt werden.)
+- Häufig wird eine Familienstiftung als Holding kombiniert mit einer VVGmbH für kurzfristigem Trading.
 
 
 Holding
