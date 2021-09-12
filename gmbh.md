@@ -203,17 +203,22 @@ Informationen zur GmbH
 Betriebsausgaben
 ----------------
 
+- <https://www.lexware.de/wissen/buchhaltung-finanzen/betriebsausgaben/>
 - Firmenwagen
    - mehr als 50 % komplett absetzbar, >10 % teilweise absetzbar, unter 10 % gar nicht
    - <https://www.nettolohn.de/rechner/firmenwagenrechner.html>
+   - [Steuer-Webinar: Firmenwagen](https://www.youtube.com/watch?v=ukM59B8bu-o)
 - Fahrtkosten tatsächlich oder pauschal absetzen
    - <https://www.adac.de/infotestrat/autodatenbank/autokosten/autokosten-rechner/default.aspx>
    - <https://www.adac.de/_mmm/pdf/autokostenuebersicht_47085.pdf>
 - Bewirtungskosten
+   - [Steuer-Webinar: Geschäftsessen](https://www.youtube.com/watch?v=k3_5uAL41F0)
 - Verpflegungsmehraufwand
 - Arbeitsmittel: müssen zu 90 % betrieblich genutzt werden
    - Computer und Software
 - Telefon- und Internetkosten (als Betriebskosten)
+- Arbeitszimmer
+   - [Steuer-Webinar: häusliches Arbeitszimmer](https://www.youtube.com/watch?v=LWaXqerHnCc)
 - Kosten für eine Webseite
 - Werbungskosten
 - Literatur- und Fortbildungskosten
@@ -236,6 +241,7 @@ Betriebsausgaben
    - Maximal 2x jährlich eine Betriebsveranstaltung für 110 EUR pro Teilnehmer
       - <https://www.haufe.de/personal/haufe-personal-office-platin/betriebsveranstaltung-55-kosten-fuer-begleitpersonen_idesk_PI42323_HI2330506.html>
       - Pro betrieblichen Teilnehmer stehen 110 EUR zur Verfügung und es darf jeder betriebliche Teilnehmer in Begleitung erscheinen.
+   - [Lohnsteuer: Gehaltsumwandlungen ab 2020](https://www.youtube.com/watch?v=LW_IEspo8cU)
 
 
 Herausnahme von Kapital aus der GmbH
