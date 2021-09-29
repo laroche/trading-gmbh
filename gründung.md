@@ -32,6 +32,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
    - <https://www.fuer-gruender.de/>
+   - [Steuern steuern von Johann C. Köber](https://www.amazon.de/Steuern-steuern-richtigen-Steuerstrategie-Wohlstand/dp/3959723555/)
    - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/steuervorteil-vermoegensverwaltende-gmbh-aktien-und-immobilien-handel/>
    - <https://de.allianzgi.com/de-de/service/steuern>
    - <https://www.deutsche-bank.de/pk/lp/rechtliche-hinweise.html>
@@ -146,6 +147,7 @@ Infosammlung:
 - Anmeldung bei der IHK
    - IHK Mindestbeitrag sind ca. 200 €
    - IHK-Mitgliedschaft solange eine Gewerbesteuererklärung abgegeben wird: <https://thomsenundpartner.de/pflichtmitgliedschaft-in-der-ihk/>
+- Es wird häufiger ein aktueller Auszug aus dem Handelsregister benötigt. Am besten dort einen Account erstellen, um dort schnellen Zugriff zu haben.
 - Anmeldung beim Transparenzregister: <https://www.transparenzregister.de/>
 - Geschäftspapiere erstellen mit: Name, Rechtsform, Sitz, Registergericht, Handelsregisternummer, alle Geschäftsführer mit Titel, Vor- und Zunamen
    - [Musterbriefbögen der IHK Stuttgart](https://www.stuttgart.ihk24.de/blueprint/servlet/resource/blob/665704/fa13a8b908ac48e3805c68e6bbaf54d1/musterbriefboegen-data.pdf)
