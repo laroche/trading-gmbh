@@ -432,6 +432,7 @@ Musterverträge zu einem Darehensvertrag:
 - <https://media.seitenbox.de/p/480/files/MV_Darlehensvertrag.pdf>
 - <https://www.lindenheim.de/media/darlehensv.pdf>
 - <https://www.rechtsanwalt-brueggemann.de/downloads/darlehensvertrag_muster.pdf>
+- <https://www.weka.de/unternehmensfuehrung/download-muster-gesellschafter-darlehens-vertrag-dl/>
 
 - SKR04 Konten:
    - 3340 Verbindlichkeiten aus Lieferungen und Leistungen gegenüber Gesellschaftern
