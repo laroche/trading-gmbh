@@ -344,6 +344,7 @@ Firmenkonto bei Interactive Brokers
 Das Eröffnen eines Firmenaccounts bei Interactive Brokers ist recht aufwendig. Zudem muss anstelle von dem
 W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 
+- <https://dev.dp.fxflat.com/fileadmin/media/content/Anleitungen_TWS/Anleitung_TWS_Firmenkonto.pdf>
 - <https://wissen.ride.capital/knowledge/wie-f%C3%BClle-ich-ein-w-8ben-e-formular-aus>
 - [Interactive Brokers:Non-US Steuerinformationen](https://www.interactivebrokers.eu/de/index.php?f=16583&p=nonus)
 - Keine Umlaute oder ß bei IB eingeben, anstelle von ö oe verwenden. Ansonsten werden die Eingaben abgelehnt.
