@@ -182,6 +182,17 @@ Weitere Grundsätze für die Buchführung
    - Eine monatliche Bearbeitung ergibt sich spätestens mit monatlichen Vorauszahlungen der Umsatzsteuer.
 
 
+Buchungsstapel Exportieren und Importieren
+------------------------------------------
+
+Die meisten Programme können Buchungen über eine DATEV-Schnittstelle exportieren und importieren.
+Diese ist unter <https://developer.datev.de/portal/de/dtvf/> dokumentiert (strukturierte CSV-Datei).
+(github-Projekte zur DATEV-Schnitstelle: <https://github.com/topics/datev>.)
+
+Alle Trade-Aktivitäten beim Broker sollten für eine Vermögensverwaltende GmbH dann eigentlich
+direkt in einen solchen DATEV Buchungsstapel überführt werden.
+
+
 Niederstwertprinzip für die Buchführung, Buchung von Wertpapieren
 -----------------------------------------------------------------
 
