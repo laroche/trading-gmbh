@@ -371,6 +371,7 @@ W-8BEN-Formular für Privatpersonen das W-8BEN-E-Formular ausgefüllt werden:
 - <https://wissen.ride.capital/knowledge/wie-f%C3%BClle-ich-den-fx-flat-antrag-aus>
 - <https://www.facebook.com/groups/479506939632634/permalink/590960791820581/>
 - <https://www.interactivebrokers.com/lib/cstools/faq/#/articles/28222558>
+- <https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Derivate/EMIR/emir_node.html>
 
 
 Stille Gesellschaft
