@@ -201,7 +201,7 @@ Kosten einer GmbH
       - <https://www.starting-up.de/gruenden/rechtsformen/ug-haftungsbeschraenkt/ug-gruendung-kosten.html>
       - <http://www.notar-lohr.de/pdf/skripte/gmbh_skrip_notarkammer_2014.pdf>
    - Handelsregister (Amtsgericht) 150 €
-   - Gewerbeamt 60 €
+   - Gewerbeamt 60 € (nicht für rein vermögensverwaltende Gesellschaften notwendig)
    - Eröffnungsbilanz vom Steuerberater 300 €
 - jährliche Kosten (ab ca. 4.000 € pro Jahr)
    - 150 € Firmenkonto
