@@ -20,8 +20,8 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.handelsregister.de/> und <https://www.unternehmensregister.de/>
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
    - <https://www.transparenzregister.de/>
+      - <https://www.bva.bund.de/DE/Das-BVA/Aufgaben/T/Transparenzregister/transparenz_node.html>
       - [Wikipedia: Transparenzregister](https://de.wikipedia.org/wiki/Transparenzregister)
-      - [IHK Hannover zur Meldepflicht beim Transparenzregister](https://www.hannover.ihk.de/rechtsteuern/recht8/themengebiete-recht/recht1/1x1desgewerberechts/meldepflicht-fuer-das-transparenzregister.html)
 - ähnliche Internetseiten zu einer Trading-GmbH
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
    - <https://www.ride.capital/trader-gmbh>
@@ -148,7 +148,7 @@ Infosammlung:
    - IHK Mindestbeitrag sind ca. 200 €
    - IHK-Mitgliedschaft solange eine Gewerbesteuererklärung abgegeben wird: <https://thomsenundpartner.de/pflichtmitgliedschaft-in-der-ihk/>
 - Es wird häufiger ein aktueller Auszug aus dem Handelsregister benötigt. Am besten dort einen Account erstellen, um dort schnellen Zugriff zu haben.
-- Anmeldung beim Transparenzregister: <https://www.transparenzregister.de/>
+- Anmeldung beim Transparenzregister ist verpflichtend: <https://www.transparenzregister.de/>
 - Geschäftspapiere erstellen mit: Name, Rechtsform, Sitz, Registergericht, Handelsregisternummer, alle Geschäftsführer mit Titel, Vor- und Zunamen
    - [Musterbriefbögen der IHK Stuttgart](https://www.stuttgart.ihk24.de/blueprint/servlet/resource/blob/665704/fa13a8b908ac48e3805c68e6bbaf54d1/musterbriefboegen-data.pdf)
 - Für den Internetauftritt nach einem Impressum schauen
@@ -206,6 +206,7 @@ Kosten einer GmbH
 - jährliche Kosten (ab ca. 4.000 € pro Jahr)
    - 150 € Firmenkonto
    - 200 € IHK
+   - 4,80 € zuzüglich Mehrwertsteuer: Transparenzregister
    - 70 € LEI
    - 40 € Bundesanzeiger
    - Briefkastenmiete
