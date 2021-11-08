@@ -34,6 +34,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.fuer-gruender.de/>
    - [Steuern steuern von Johann C. Köber](https://www.amazon.de/Steuern-steuern-richtigen-Steuerstrategie-Wohlstand/dp/3959723555/)
    - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/steuervorteil-vermoegensverwaltende-gmbh-aktien-und-immobilien-handel/>
+   - <https://www.youtube.com/c/SteuerberaterStefanM%C3%BCcke/videos>
    - <https://de.allianzgi.com/de-de/service/steuern>
    - <https://www.deutsche-bank.de/pk/lp/rechtliche-hinweise.html>
    - <https://www.finanzgefluester.de/vermoegensverwaltende-gmbh/>

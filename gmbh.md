@@ -39,6 +39,7 @@ Informationen zur GmbH
      auf jeden Fall bei mehr als 50 % Anteil vom Geschäftsführer an der GmbH)
       - <https://www.gmbh-guide.de/sozialversicherungspflicht-geschaeftsfuehrer.html>
       - <https://www.gmbh-guide.de/sperrminoritaet-gmbh.html>
+      - <https://www.youtube.com/watch?v=kuA1Pf1k4z8>
    - Lohnsteuer, <https://www.ilohngehalt.de/> <https://www.gruenderlexikon.de/checkliste/fuehren/lohnabrechnung/>
    - Gesellschafter-Geschäftsführer GGF
    - Lohnsteuer an den GGF fällt nur an, wenn mehr als 950 € Brutto-Gehalt ausgezahlt wird. In der Einkommensteuererklärung
