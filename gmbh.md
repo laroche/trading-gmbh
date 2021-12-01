@@ -426,6 +426,9 @@ würden sie ggf. zu Sonderbetriebsvermögen werden beim Erben.
 Stiftungen
 ----------
 
+- <https://de.wikipedia.org/wiki/Stiftung_(Deutschland)>
+- <https://nachfolgewiki.de/index.php/Familienstiftung>
+- <https://www.stiftungen.org/>
 - <https://mein-geldspeicher.de/>
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
 - [Familien- und gemeinnützige Stiftungen](https://www.youtube.com/watch?v=q4O4j2a_YAk)
@@ -433,11 +436,24 @@ Stiftungen
 - keine gewerbesteuerliche Infektion
 - Immobilien können nach 10 Jahren steuerfrei veräußert werden (ähnlich zum Immobilienbesitz im Privatvermögen)
 - einfache Einkommenüberschussrechnung statt Bilanz
+- keine Publizitätspflicht
 - Steuerfreibetrag von 5.000 € im Jahr
+- Werbungskosten nicht abziehbar, aber Sparer-Pauschbetrag von 801 € wie bei Privatpersonen
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
 - Alle 30 Jahre wird Erbersatzsteuer auf das Vermögen erhoben mit einem Freibetrag von 800.000 Euro.
    (Kann auf 30 Jahresraten aufgeteilt werden.)
+- Keine Wegzugsbesteuerung
+- Probleme mit der Verlustbegrenzung auf 20.000 € bei Termingeschäften wie bei Privatpersonen bleibt bestehen.
 - Häufig wird eine Familienstiftung als Holding kombiniert mit einer VVGmbH für kurzfristigem Trading.
+- Wie komme ich privat an Geld:
+   - Gehalt
+   - Darlehen
+   - Ausschüttungen (25 % oder Teileinkünfteverfahren (60 % mit Einkommensteuer, 40 % steuerfrei))
+      - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei".
+   - Verkauf/Vermietung von Vermögensgegenständen
+- Einbringung von 100.000 € pro Person ohne Steuern(?)
+   - Aktien können ohne vorherigen Verkauf eingebracht werden.(?)
+- Stiftung zählt nicht mehr zur privaten Erbmasse
 
 
 Holding
