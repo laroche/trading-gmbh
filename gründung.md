@@ -28,6 +28,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [YouTube: RIDE Capital](https://www.youtube.com/c/RIDECapital/videos)
    - <http://mit-rueckenwind.info/>
       - [Buchhaltung Automatisieren mit VICTAR](https://mit-rueckenwind.info/buchhaltung-automatisieren-trading-gmbh/)
+         - <https://mit-rueckenwind.info/informationen-fuer-steuerberater/>
    - <https://flatex.nicoo.org/>
       - Automatische Verbuchung von flatex Wertpapierabrechnungen in ProSaldo MonKey Office.
         Dieser kostenlose Cloud Service erstellt CSV Dateien aus flatex Wertpapierabrechnungen,
