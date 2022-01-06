@@ -21,6 +21,8 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsregister](https://de.wikipedia.org/wiki/Handelsregister_\(Deutschland\)) und [Wikipedia: Unternehmensregister](https://de.wikipedia.org/wiki/Unternehmensregister)
    - <https://www.transparenzregister.de/>
       - <https://www.bva.bund.de/DE/Das-BVA/Aufgaben/T/Transparenzregister/transparenz_node.html>
+      - [Transparenzregister Gebührenverordnung TrGebV](https://www.gesetze-im-internet.de/trgebv_2020/anlage.html)
+      - <https://www.gesetze-im-internet.de/trgebv_2020/anlage.html>
       - [Wikipedia: Transparenzregister](https://de.wikipedia.org/wiki/Transparenzregister)
 - ähnliche Internetseiten zu einer Trading-GmbH
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
@@ -215,7 +217,7 @@ Kosten einer GmbH
 - jährliche Kosten (ab ca. 4.000 € pro Jahr)
    - 150 € Firmenkonto
    - 200 € IHK
-   - 4,80 € zuzüglich Mehrwertsteuer: Transparenzregister
+   - 20,80 € ab 2022 zuzüglich Mehrwertsteuer: [Transparenzregister Gebührenverordnung TrGebV](https://www.gesetze-im-internet.de/trgebv_2020/anlage.html)
    - 70 € LEI
    - 40 € Bundesanzeiger
    - Briefkastenmiete
