@@ -490,6 +490,8 @@ Laut Wegzugsbesteuerung nach § 6 AStG § 17 EStG werden alle Gewinne fiktiv an 
 Die Besteuerung beim Gesellschafter erfolgt unter Anwendung des Teileinkünfteverfahrens, wobei
 40 % steuerfrei sind und 60 % nach dem persönlichen Steuersatz besteuert werden.
 
+Aktueller Gewinn der Kapitalgesellschaft * 7 Jahre ist der fiktive Gewinn, der sofort zur Versteuerung fällig wird.
+
 - <https://www.staatenlos.ch/>
 - [Facebook: Staatenlos Mastermind](https://www.facebook.com/groups/906274769393425/)
 
