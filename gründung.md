@@ -228,6 +228,7 @@ Kosten einer GmbH
       - <https://www.finanzkueche.de/blog/rentenversicherungspflicht-fuer-selbstaendige>
    - höhere Kosten beim Broker für einen GmbH-Kunden
       - Börsenhandel der GmbH: "professional" [Marktdatenabo bei Interactive Brokers](https://www.interactivebrokers.eu/de/index.php?f=15537): ab $125/Monat
+      - IB Markdatenabo für < 43 € / Monat: [Eichhorn Coaching: Teure Marktdaten in GmbH-Depots bei Interactive Brokers. So geht es günstiger!](https://www.youtube.com/watch?v=9sSDdjeXBPI)
    - Abfallgebühren für Gewerbetreibende (siehe auch Abfallwirtschaftsatzung) in den verschiedenen Städten
    - GEZ-Gebühr: <https://www.rundfunkbeitrag.de/unternehmen_und_institutionen/informationen/betriebsstaette/>
       - Es wird kein Rundfunkbeitrag erhoben für ein Büro in einer beitragspflichtigen privaten Wohnung,
