@@ -62,7 +62,7 @@ Informationen zur GmbH
 - LEI-Nummer muss jährlich bezahlt werden (130 € am Anfang, dann 70 € pro Jahr)
    - <https://lei.info/portal/faqs/>
    - <https://de.wikipedia.org/wiki/Legal_Entity_Identifier>
-      - <https://lei-codes.de/providers>
+      - <https://lei-codes.de/#/providers/DE>
       - <https://lei.bloomberg.com/> ($65 und dann $50/Jahr)
       - <https://www.wm-leiportal.org/>
       - <https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/legal-entity-identifier-lei/> (65 € excl. VAT, dann 40 € excl. VAT)
