@@ -436,7 +436,7 @@ Sammlung von Informationen zu einem Darlehensvertrag, um Geld in die GmbH einzub
   auch steuerrechtlich bestand haben.
 - 1 Prozent über [euribor](https://de.wikipedia.org/wiki/Euro_Interbank_Offered_Rate). Das sind ca. 0.55 Prozent.
 
-Musterverträge zu einem Darehensvertrag:
+Musterverträge zu einem Darlehensvertrag:
 
 - <https://www.wonder.legal/de/modele/gesellschafterdarlehensvertrag>
 - <https://d23wdxoo51zvyp.cloudfront.net/wp-content/uploads/20180410121218/firmade_Muster-Darlehensvertrag.pdf>
@@ -472,6 +472,7 @@ Beispiel von SKR04 Buchungen zusammengefasst von den folgenden Internet-Seiten:
 
 - <http://mit-rueckenwind.info/die-9-wichtigsten-buchungskonten-fuer-deine-spardosen-gmbh/>
 - <http://mit-rueckenwind.info/die-wichtigsten-buchungssaetze-fuer-deine-spardosen-gmbh/>
+- <https://mit-rueckenwind.info/wp-content/uploads/2021/11/ES-VICTAR-Kontenrahmen-VICTAR-Kontenrahmen.pdf>
 
 beteiligte SKR04 Konten:
 
@@ -542,7 +543,7 @@ Beispielbuchungen:
 Beispiel 2 SKR04 Buchungen
 --------------------------
 
-Beispiel von SKR04 Buchungen zusammengefasst aus dem Pdf-Dokument <http://pmpod.de/TradingBuchhaltungWIP.pdf>.
+Beispiel von SKR04 Buchungen zusammengefasst aus dem Pdf-Dokument <http://pmpod.de/TradingBuchhaltungWIP.pdf> (Dokument ist leider nicht mehr verfügbar.).
 Weitere Informationen von <https://wissen.ride.capital/knowledge/wie-werden-stillhaltergesch%C3%A4fte-in-der-gmbh-behandelt>
 und <https://www.haufe.de/finance/haufe-finance-office-premium/wertpapiere-nach-hgb-estg-und-ifrs-533-bilanzierung-nach-ausuebung-der-option_idesk_PI20354_HI1100662.html>.
 
@@ -638,6 +639,9 @@ Beispielbuchungen:
       - 1371 an 1510: Anschaffungskosten
       - 181x an 1371: Erlös
       - 1371 an 4906: Realisierter Gewinn
+   - Sollen folgende Konten für Aktien verwendet werden?
+      - 4901 Erträge aus der Veräußerung von Anteilen an Kapitalgesellschaften
+      - 6903 Verluste aus der Veräußerung von Anteilen an Kapitalgesellschaften
 
 
 Beispiel 3 SKR04 Buchungen
