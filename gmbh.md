@@ -64,6 +64,7 @@ Informationen zur GmbH
    - <https://de.wikipedia.org/wiki/Legal_Entity_Identifier>
       - <https://lei-codes.de/#/providers/DE>
       - <https://lei.bloomberg.com/> ($65 und dann $50/Jahr)
+      - <https://leiservice.com/germany> (39 €/Jahr, 175 € für 5 Jahre)
       - <https://www.wm-leiportal.org/>
       - <https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/legal-entity-identifier-lei/> (65 € excl. VAT, dann 40 € excl. VAT)
       - <https://www.lei.direct/> (89 €, dann 59 €/Jahr)
@@ -271,7 +272,7 @@ Herausnahme von Kapital aus der GmbH
   Teileinkünfteverfahren optieren, bei dem nur 60 % der Einkünfte zu versteuern sind.
   9.000 € pro Jahr / 60 % = 15.000 € pro Jahr = 1.250 € pro Monat pro Person.
   Wenn man als Ehepaar und die Kinder eingetragen ist, kann hier die Ausschüttungsquote erhöht werden.
-  2019 ist der Freibetrag 9.168 €, 2020 9.408 €, 2021 9.744 € und 2022 9.984 €.
+  2019 ist der Freibetrag 9.168 €, 2020 9.408 €, 2021 9.744 € und 2022 9.984/10.347 €.
 - Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € zu, sondern
   auch der Grundfreibetrag von 8.130 € sowie der Sonderausgabenpauschbetrag von 36 €. Damit kann jedes Kind
   mindestens 8.967 € Zinsen steuerfrei kassieren.
