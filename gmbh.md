@@ -53,11 +53,23 @@ Informationen zur GmbH
    - <http://mit-rueckenwind.info/anstellungsvertrag-geschaeftsfuehrer-spardosen-gmbh/>
 - Veränderungen wie bspw. eine [Kapitalerhöhung](https://de.wikipedia.org/wiki/Kapitalerh%C3%B6hung),
   die Veränderung des Geschäftszwecks oder Änderungen der Gesellschafter sind dem Handelsregister (über einen Notar) mitzuteilen.
-- Wird mehr als 25.000 € Stammkapital eingezahlt, wird dies als Kapitalrücklage gebucht. Besser ist eine Einbringung als Darlehen.
+- Wird mehr als 25.000 € Stammkapital eingezahlt, wird dies als Kapitalrücklage gebucht. Besser ist eine Einbringung als Darlehen über eine Rahmenkreditvereinbarung.
    - Darlehen kann jederzeit zurückgezahlt werden. Braucht keinen Gesellschafterbeschluss. Darlehen muss übliche Verzinsung aufweisen.
+   - <https://www.juraforum.de/muster-vorlagen/rahmenkreditvereinbarung>
    - Gesellschafter Rahmen-Darlehen
       - [YouTube RIDE: Rahmendarlehensvertrag](https://www.youtube.com/watch?v=Kfx8MFl8Jh0)
    - Darlehen als "nachranig" vereinbaren: <https://mit-rueckenwind.info/vermoegensverwaltende-gmbh-finanzierung/#comment-495>
+      - <https://www.juraforum.de/muster-vorlagen/rangruecktrittsvereinbarung>
+      - Damit trittst du an den letzten Rang und der Kredit hat EK Charakter. Bedeutet, dass du in einem Szenario nicht insolvent bist.
+   - Der ausbezahlte Darlehensbetrag wird verzinst. Die Höhe des Zinssatzes wird jeweils zu Beginn der Laufzeit festgelegt
+     und erfolgt auf Basis des 3-Monats-Euribor, der am letzten Tag vor Beginn des jeweiligen Kalenderquartals veröffentlicht ist,
+     zuzüglich einer Risikomarge von 0,75 %, jedoch nicht weniger als 0,5 %.
+     Die Zinsen werden am jeweiligen Kalenderquartalsende abgerechnet. Die Abrechnung erfolgt taggenau auf Basis von 360 Tagen pro Jahr (30 Tage pro Monat).
+   - EURIBOR plus 1 % (hab auch schon 0,5 % gesehen) als Zinsen, variabler Zinssatz
+   - Rahmenvertrag habe ich bei mir in Absprache ähnlich einem normalen Darlehensvertrag gemacht.
+     Darlehen per Abruf ist innerhalb 3 Tagen zu überweisen und auf der anderen Seite eine Beidseitige Kündigung von 30 Tagen.
+     Fristen sollten variabel im Vertrag durch Dich wählbar sein.
+   - Rahmenkreditvertrag: Ab 500.000 Euro muss eine Sicherheit gegeben werden, dies kann das Aktiendepot sein.
 - Gesellschafterversammlung einmal im Jahr
 - LEI-Nummer muss jährlich bezahlt werden (130 € am Anfang, dann 70 € pro Jahr)
    - <https://lei.info/portal/faqs/>
@@ -297,6 +309,7 @@ Herausnahme von Kapital aus der GmbH
    - Investitionsabzugsbeträge (Anschaffungen in den nächsten 3 Jahren)
       - 40 % bereits ein Jahr vorher buchen
    - nicht genommener Urlaub, Gehälter, Jahresabschluss, IHK-Beitrag, Aufbewahrung von Geschäftsunterlagen, Energiekosten
+- <https://de.wikipedia.org/wiki/Thesaurierungsbeg%C3%BCnstigung>
 
 Links:
 
