@@ -218,6 +218,7 @@ Kosten einer GmbH
    - 150 € Firmenkonto
    - 200 € IHK
    - 20,80 € ab 2022 zuzüglich Mehrwertsteuer: [Transparenzregister Gebührenverordnung TrGebV](https://www.gesetze-im-internet.de/trgebv_2020/anlage.html)
+      - 2019: 2,50 €, 2020: 4,80 €, 2021: 11,47 €, ab 2022: 20,80 €
    - 70 € LEI
    - 40 € Bundesanzeiger
    - Briefkastenmiete
