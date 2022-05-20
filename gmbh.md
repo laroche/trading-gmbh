@@ -213,6 +213,8 @@ Informationen zur GmbH
 - [Wikipedia: Steuernummer](https://de.wikipedia.org/wiki/Steuernummer#Aufbau_der_Steuernummer)
 - Betriebsprüfungen:
    - <https://www.kontolino.de/die-betriebspruefung/>
+   - [YouTube TaxPro GmbH: Wie kontrolliert das Finanzamt die Buchhaltung?](https://www.youtube.com/watch?v=WZY54cq4SNM)
+   - [YouTube TaxPro GmbH: Datenzugriff Finanzamt bei der Steuerprüfung](https://www.youtube.com/watch?v=pP58xSlaaTs)
 
 
 Betriebsausgaben
@@ -245,7 +247,7 @@ Betriebsausgaben
 - Leasingraten können steuermindernd berücksichtigt werden (inklusive Sonderzahlungen)
 - Lagerbestand, Software kaufen, Computer/Hardware/Infrastruktur
 - bis 150 Euro als Betriebsausgabe buchbar, unter 410 Euro Netto Geringwertiges Wirtschaftsgut (beweglich, abnutzbar, selbständig nutzbar) im Jahr komplett buchbar
-   - sonst AFA auf mehrere Jahre
+   - sonst [AFA](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Betriebspruefung/AfA-Tabellen/Ergaenzende-AfA-Tabellen/AfA-Tabelle_AV.pdf?__blob=publicationFile&v=3) auf mehrere Jahre
    - Die geringwertigen Wirtschaftsgüter mit Anschaffungskosten bis 800 € werden gem. § 6 Abs. 2 EStG im Jahr der Anschaffung voll abgeschrieben.
 - Steuerfreie Zuwendungen an Arbeitnehmer
    - <https://www.finanztip.de/steuerfreie-sachzuwendungen/>
