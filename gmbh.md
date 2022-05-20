@@ -249,6 +249,7 @@ Betriebsausgaben
    - Die geringwertigen Wirtschaftsgüter mit Anschaffungskosten bis 800 € werden gem. § 6 Abs. 2 EStG im Jahr der Anschaffung voll abgeschrieben.
 - Steuerfreie Zuwendungen an Arbeitnehmer
    - <https://www.finanztip.de/steuerfreie-sachzuwendungen/>
+   - [BMF-Schreiben zu Geldleistung und Sachbezug](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2022-03-15-abgrenzung-zwischen-geldleistung-und-sachbezug.pdf?__blob=publicationFile&v=2)
    - 44 € Sachbezüge pro Monat (ab 2022: 50€/Monat)
       - Umsetzbar ist dies bspw. über den [SODEXO Benefits Pass](https://www.sodexo.de/produkte/benefits-pass/), mit dem man
         sogar seine normalen Einkäufe bezahlen kann (bspw. Aldi, Kaufland, Thalia, ...).
