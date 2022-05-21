@@ -120,7 +120,9 @@ Infosammlung:
             erlaubnispflichtiger Tätigkeiten insbesondere nach dem Kreditwesengesetz (KWG) oder dem Kapitalanlagegesetzbuch (KAGB).
             Die Gesellschaft darf alle Rechtsgeschäfte tätigen, die der Unterstützung des Unternehmensgegenstands dienen; sie darf auch im
             In- und Ausland Tochtergesellschaften gründen und/oder Zweigniederlassungen errichten.
-         - Firmenname und Unternehmensgegenstand sollte mit der IHK besprochen werden. Stellungnahme der IHK kann beim Notar mitgebracht werden.
+         - Firmenname und Unternehmensgegenstand sollte mit der IHK besprochen werden. (Viele IHKs erlauben dazu eine Voranfrage per Webformular.)
+            Stellungnahme der IHK kann beim Notar mitgebracht werden.
+         - Firmenname eventuell auch beim Deutschen Patent- und Markenamt checken: <https://register.dpma.de/DPMAregister/marke/basis>
       - Stammeinlage/Startkapital
          - mind. 25.000 € für eine GmbH, die Hälfte muss eingezahlt werden
          - Für eine UG langt 1 €, sollte mindestens alle laufenden Kosten tragen. Also ca. 1.000 € im ersten Jahr.
