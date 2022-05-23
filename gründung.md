@@ -36,6 +36,8 @@ Folgende Informationen aus dem Internet sind dazu interessant:
         Dieser kostenlose Cloud Service erstellt CSV Dateien aus flatex Wertpapierabrechnungen,
         welche sich problemlos in ProSaldo MonKey Office importieren lassen.
       - <https://xn--vermgensverwaltende-gmbh-ooc.de/>
+   - <https://www.qplix.com/>
+      - Partner von Ride, Automatisierung und Zusammenführung von Wertvermögen
    - <https://fintegra.de/>
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
