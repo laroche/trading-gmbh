@@ -22,7 +22,7 @@ Informationen zur GmbH
    - der Ausschließung von Gesellschaftern, der Einziehung von Geschäftsanteilen sowie die Abfindung von Gesellschaftern
    - zur Rechtsnachfolge in Geschäftsanteile auch im Wege der Gesamtrechtsnachfolge, z.B. Erbfolge
 - Musterverträge
-   - [IHK Köln Mustersatzung](https://ihk-koeln.de/upload/Broschuere_GmbH_Mustersatzung_2012_23302.pdf)
+   - [IHK Köln Mustersatzung]([https://ihk-koeln.de/upload/Broschuere_GmbH_Mustersatzung_2012_23302.pdf](https://ihk-koeln.de/blueprint/servlet/resource/blob/5207496/d70c2a0813be0745d8ab5b22aefaa9d1/broschuere-mustervertrag-gmbh-data.pdf))
    - [Musterverträge der IHK München](https://www.ihk-muenchen.de/de/Service/Recht-und-Steuern/Vertragsrecht/mustervertraege/)
    - <https://www.iprecht.de/Anwalt/Muster/Mustervertraege/mu_gmbh/mu_gmbh.htm>
 - Ist die UG Umsatzsteuerlicher Unternehmer i.S.v. § 2 UStG? Nachhaltige Tätigkeiten außerhalb der Aktienanlage mit Einnahmeerzielungsabsicht.
