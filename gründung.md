@@ -26,6 +26,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Transparenzregister](https://de.wikipedia.org/wiki/Transparenzregister)
 - ähnliche Internetseiten zu einer Trading-GmbH
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
+   - Buchhaltung für Interactive Brokers mit SKR04: <https://github.com/Daywalker7754/Generosity>
    - <https://www.ride.capital/trader-gmbh>
       - [YouTube: RIDE Capital](https://www.youtube.com/c/RIDECapital/videos)
    - <http://mit-rueckenwind.info/>
