@@ -343,11 +343,11 @@ Wie werden Aktien-, Dividenden- und Termingeschäfte einer GmbH steuerlich behan
    - Steuerfrei sind bei Aktienfonds 80 % der Erträge. Bei der Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes
      sind die Freistellungen nur zur Hälfte zu berücksichtigen.
       - Beispiel: 20 % * 15,825 % = 3,165 % Körperschaftssteuer und ca. 60 % * 15 % = 9 % Gewerbesteuer. Zusammen macht das ca. 12,165 % Ertragssteuern.
-      - Teilfreistellungen für KSt und GewSt für:
-         - Aktienfonds (> 51% Aktien): 80%, 40%
-         - Mischfonds (25-50% Aktien): 40%, 20%
-         - Renenfonds: 0%, 0%
-         - Immobilienfonds: 60%, 30%
+      - Teilfreistellungen für KSt und GewSt (und damit effektiver Steuersatz) für:
+         - Aktienfonds (> 51% Aktien): 80%, 40% (12,165 %)
+         - Mischfonds (25-50% Aktien): 40%, 20% (21,50 %)
+         - Rentenfonds: 0%, 0% (30,825 %)
+         - Immobilienfonds: 60%, 30% (16,625 %)
 
 Links:
 
