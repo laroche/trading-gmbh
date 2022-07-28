@@ -13,6 +13,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
       - [Wikipedia: Handelsgesetzbuch](https://de.wikipedia.org/wiki/Handelsgesetzbuch)
       - [Wikipedia: Bilanzrichtlinie-Umsetzungsgesetz](https://de.wikipedia.org/wiki/Bilanzrichtlinie-Umsetzungsgesetz) (BilRUG)
    - [GmbH-Gesetz](https://dejure.org/gesetze/GmbHG) (GmbHG)
+   - Viele Infos zu Recht und Steuern: <https://www.haufe.de/steuern/>
 - Datenabruf zu bestehenden Unternehmen
    - <https://www.bundesanzeiger.de/>
       - <https://veranstaltungen.bundesanzeiger-verlag.de/>
@@ -22,7 +23,6 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.transparenzregister.de/>
       - <https://www.bva.bund.de/DE/Das-BVA/Aufgaben/T/Transparenzregister/transparenz_node.html>
       - [Transparenzregister Gebührenverordnung TrGebV](https://www.gesetze-im-internet.de/trgebv_2020/anlage.html)
-      - <https://www.gesetze-im-internet.de/trgebv_2020/anlage.html>
       - [Wikipedia: Transparenzregister](https://de.wikipedia.org/wiki/Transparenzregister)
 - ähnliche Internetseiten zu einer Trading-GmbH
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
@@ -43,7 +43,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
    - <https://www.fuer-gruender.de/>
-   - <https://www.koeber.de/>
+   - <https://koeber-partner.com/>
       - [Steuern steuern von Johann C. Köber](https://www.amazon.de/Steuern-steuern-richtigen-Steuerstrategie-Wohlstand/dp/3959723555/)
       - [YouTube Steuern steuern!](https://www.youtube.com/c/Steuernsteuern)
    - <https://www.juhn.com/fachwissen/gmbh-steuerrecht/steuervorteil-vermoegensverwaltende-gmbh-aktien-und-immobilien-handel/>
@@ -223,13 +223,13 @@ Kosten einer GmbH
    - Eröffnungsbilanz vom Steuerberater 300 €
 - jährliche Kosten (ab ca. 4.000 € pro Jahr)
    - 150 € Firmenkonto
-   - 200 € IHK
+   - 300 € IHK
    - 20,80 € ab 2022 zuzüglich Mehrwertsteuer: [Transparenzregister Gebührenverordnung TrGebV](https://www.gesetze-im-internet.de/trgebv_2020/anlage.html)
-      - 2019: 2,50 €, 2020: 4,80 €, 2021: 11,47 €, ab 2022: 20,80 €
    - 70 € LEI
    - 40 € Bundesanzeiger
    - Briefkastenmiete
    - Miete für den Sitz/Geschäftsräume
+   - 156 € Steuersoftware Kontolino
    - 2700 € Erstellung des Jahresabschlusses (Bilanz, GuV) und Buchhaltung vom Steuerberater
    - 700 € Lohnbuchhaltung vom Steuerberater
    - In Zukunft kann eine Rentenversicherungspflicht für den Geschäftsführer kommen. (Bisher nicht in Sicht.)

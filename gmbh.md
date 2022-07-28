@@ -446,11 +446,11 @@ Stiftungen
 - <https://de.wikipedia.org/wiki/Stiftung_(Deutschland)>
 - <https://nachfolgewiki.de/index.php/Familienstiftung>
 - <https://www.stiftungen.org/>
-- <https://mein-geldspeicher.de/>
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
 - [Familien- und gemeinnützige Stiftungen](https://www.youtube.com/watch?v=q4O4j2a_YAk)
 - keine Gewerbesteuer, nur Körperschaftsteuer
 - keine gewerbesteuerliche Infektion
+- Aktiengewinne wie in der GmbH zu 95 % steuerfrei.
 - Immobilien können nach 10 Jahren steuerfrei veräußert werden (ähnlich zum Immobilienbesitz im Privatvermögen)
 - einfache Einkommenüberschussrechnung statt Bilanz
 - keine Publizitätspflicht
@@ -472,8 +472,9 @@ Stiftungen
         als Sonstige Einkünfte mit dem Teileinkünfteverfahren versteuern.
       - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei".
    - Verkauf/Vermietung von Vermögensgegenständen
-- Einbringung von 100.000 € pro Person ohne Steuern(?)
+- Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre)
    - Aktien können ohne vorherigen Verkauf eingebracht werden.(?)
+- Oft wird ein Mindestvermögen von 100.000 € erwartet, damit das Vermögen langfristig erhalten bleiben kann.
 - Stiftung zählt nicht mehr zur privaten Erbmasse
 
 
@@ -530,7 +531,7 @@ Spezielle Links für alle, die in Stuttgart eine GmbH gründen wollen:
 
 - [IHK Stuttgart: Firmenname-Recherche](https://www.stuttgart.ihk24.de/fuer-unternehmen/weitere-services/firmen/firmennamen-666050)
 - [IHK Stuttgart Mitgliedsbeitrag](https://www.stuttgart.ihk24.de/ueber-uns/beitraege/asbeitrag-664170)
-   - Für eine GmbH ist für das Jahr 2021 ein Grundbeitrag von 168 Euro und eine Umlage von 0,21 % des Gewerbeertrags zu zahlen.
+   - Für eine GmbH ist für das Jahr 2022 ein Grundbeitrag von 290 Euro und eine Umlage von 0,21 % des Gewerbeertrags zu zahlen.
      (Das sind bei 50.000 € Gewerbeertrag dann 105 € Umlage.)
 - [Gewerbeanmeldung in Stuttgart](https://www.stuttgart.de/vv/leistungen/gewerbe-anmelden.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C104840)
    - Ausgenommen davon sind: die ausschließliche Verwaltung eigenen Vermögens
