@@ -149,6 +149,7 @@ Informationen zur GmbH
          - <https://www.kontolino.de/arbeitshilfen/>
          - <https://www.kontolino.de/muster-verfahrensdokumentationen-fuer-kontolino-nutzer/>
          - <https://www.kontolino.de/handbuch/jahresabschluss/handelsbilanz-erstellen/>
+      - Wenn man nur zum Steuerberater übertragen will: DATEV Unternehmen Online (10,50 € pro Monat) und DATEV Cloud Service (3,50 € pro Monat)
       - [Agenda Rechnungswesen](https://www.agenda-software.de/unternehmen/rechnungswesen-software.php)
    - Reviews Buchhaltungssoftware:
       - <https://www.rechnungswesen-portal.de/Marktplatz/Software/Finanzbuchhaltung/>
@@ -168,7 +169,7 @@ Informationen zur GmbH
       - Lexware buchhaltung: Financial Office Premium
          - <https://www.lexware-financial-office.de/>
       - [Reviso](https://www.reviso.com/)
-      - WISO Buchhaltung 365
+      - WISO Buchhaltung 365, Unternehmer Buchhaltung365
       - [WISO Mein Geld](https://update2.buhl-data.com/documents/Leistungsuebersicht_Mein_Geld_2020.pdf)
          - <http://update1.buhl-data.com/Presse/Factsheets/Leistungs%C3%BCbersicht_Bankingsoftware.pdf>
          - <http://update2.buhl-data.com/Presse/Factsheets/tax_2020_business.pdf>
@@ -196,7 +197,7 @@ Informationen zur GmbH
    - <https://teamdrive.com/gobd/>
    - [ecoDMS](https://www.ecodms.de/index.php/de/)
    - [CompuDMS](https://www.compukoeln.de/produkte/compudms.html)
-   - Datev Unternehmen Online
+   - DATEV Unternehmen Online
    - [YouTube: Verfahrensdokumentation nach GoBD: Udo Heimann](https://www.youtube.com/watch?v=IWNh8mr4gOk)
 - Online Links zur Buchhaltung
    - <https://www.weclapp.com/de/blog/doppelte-buchfuehrung-einfuehrung/>
@@ -473,7 +474,7 @@ Stiftungen
       - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei".
    - Verkauf/Vermietung von Vermögensgegenständen
 - Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre)
-   - Aktien können ohne vorherigen Verkauf eingebracht werden.(?)
+   - Aktien können ohne vorherigen Verkauf eingebracht werden. (Nur wenn der Broker das auch mitmacht.)
 - Oft wird ein Mindestvermögen von 100.000 € erwartet, damit das Vermögen langfristig erhalten bleiben kann.
 - Stiftung zählt nicht mehr zur privaten Erbmasse
 

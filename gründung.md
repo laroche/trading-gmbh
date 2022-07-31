@@ -213,7 +213,7 @@ Kosten einer GmbH
 -----------------
 
 - Gründungskosten (ab ca. 1.000 €)
-   - Notar ab 190 € netto
+   - Notar ab 190 € netto, oft ab 315 € netto
       - Details zu den Kosten: <http://www.schwerd.info/gmbh/gruendungskosten-bei-gmbh-ug/2331/>
       - <https://www.foerderland.de/gruendung/rechtsformen/gmbh/was-kostet-eine-gmbh-gruendung/>
       - <https://www.starting-up.de/gruenden/rechtsformen/ug-haftungsbeschraenkt/ug-gruendung-kosten.html>
