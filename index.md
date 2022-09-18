@@ -85,6 +85,7 @@ contra
   über mehrere Generationen wird durch eine GmbH nicht umbedingt einfacher.
   Geldanlage bleibt eine sehr individuelle Entscheidung, angepasst an die eigene Lebenssituation und die
   eigenen Bedürfnisse.
+- <https://www.taxgate.com/trading-gmbh-spardosen-gmbh-etc-macht-das-sinn/>
 
 
 \pagebreak
