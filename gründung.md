@@ -30,6 +30,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.ride.capital/trader-gmbh>
       - [YouTube: RIDE Capital](https://www.youtube.com/c/RIDECapital/videos)
    - <http://mit-rueckenwind.info/>
+      - [Wertpapiere verbuchen mit VICTAR](https://elegant-systems.de/)
       - [Buchhaltung Automatisieren mit VICTAR](https://mit-rueckenwind.info/buchhaltung-automatisieren-trading-gmbh/)
          - <https://mit-rueckenwind.info/informationen-fuer-steuerberater/>
    - <https://flatex.nicoo.org/>
