@@ -24,6 +24,7 @@ sed -i -e 's/ %/\\ %/g' -e 's/ €/\\ €/g' -e 's/§ /§\\ /g' Trading-GmbH.md
 
 #sed -i -e 's/≤/<=/g' buchungen.md
 
+# Download eisvogel from https://github.com/Wandmalfarbe/pandoc-latex-template:
 pandoc -o Trading-GmbH.pdf -f markdown -t latex --template eisvogel \
     --top-level-division=chapter --pdf-engine=xelatex Trading-GmbH.md
 
