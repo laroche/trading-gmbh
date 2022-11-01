@@ -77,6 +77,7 @@ Informationen zur GmbH
       - <https://lei-codes.de/#/providers/DE>
       - <https://lei.bloomberg.com/> ($65 und dann $50/Jahr)
       - <https://leiservice.com/germany> (39 €/Jahr, 175 € für 5 Jahre)
+      - <https://www.leinummer.de/> (59 €/Jahr, 150 € für 3 Jahre)
       - <https://www.wm-leiportal.org/>
       - <https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/legal-entity-identifier-lei/> (65 € excl. VAT, dann 40 € excl. VAT)
       - <https://www.lei.direct/> (89 €, dann 59 €/Jahr)
