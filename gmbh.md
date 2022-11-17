@@ -291,7 +291,7 @@ Herausnahme von Kapital aus der GmbH
   Wenn man als Ehepaar und die Kinder eingetragen ist, kann hier die Ausschüttungsquote erhöht werden.
   2019 ist der Freibetrag 9.168 €, 2020 9.408 €, 2021 9.744 € und 2022 9.984/10.347 €.
    - <https://www.gesetze-im-internet.de/estg/__32a.html>
-- Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € (ab 2022 1.200 €) zu, sondern
+- Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € (ab 2023 1.000 €) zu, sondern
   auch der Grundfreibetrag von 8.130 € sowie der Sonderausgabenpauschbetrag von 36 €. Damit kann jedes Kind
   mindestens 8.967 € Zinsen steuerfrei kassieren.
    - Sind die Kinder nicht in einer PKV (Privaten Krankenversicherung) sondern in der gesetzlichen
@@ -458,7 +458,7 @@ Stiftungen
 - einfache Einkommenüberschussrechnung statt Bilanz
 - keine Publizitätspflicht
 - Steuerfreibetrag von 5.000 € im Jahr
-- Werbungskosten nicht abziehbar, aber Sparer-Pauschbetrag von 801 € (ab 2022 1.200 €) wie bei Privatpersonen
+- Werbungskosten nicht abziehbar, aber Sparer-Pauschbetrag von 801 € (ab 2023 1.000 €) wie bei Privatpersonen
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
 - Alle 30 Jahre wird Erbersatzsteuer auf das Vermögen erhoben mit einem Freibetrag von 800.000 Euro.
    (Kann auf 30 Jahresraten aufgeteilt werden.)
