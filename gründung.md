@@ -29,6 +29,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - automatisierte Buchhaltung für Interactive Brokers mit SKR04: <https://github.com/Daywalker7754/Generosity>
    - <https://www.ride.capital/trader-gmbh>
       - [YouTube: RIDE Capital](https://www.youtube.com/c/RIDECapital/videos)
+   - <https://visualtradingjournal.com/trading-gmbh-buchhaltung>
    - <http://mit-rueckenwind.info/>
       - [Wertpapiere verbuchen mit VICTAR](https://elegant-systems.de/)
       - [Buchhaltung Automatisieren mit VICTAR](https://mit-rueckenwind.info/buchhaltung-automatisieren-trading-gmbh/)
