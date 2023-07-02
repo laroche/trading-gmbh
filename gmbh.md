@@ -180,6 +180,7 @@ Informationen zur GmbH
       - [Buchomat](https://ms-buchhalter.de/buchomat/)
       - [GetMyInvoices](https://getmyinvoices.com/) für Belege im Geschäft
       - <https://www.buchhaltungsbutler.de/>
+      - <https://www.stotax.de/>
       - <https://www.billomat.com/>
       - <https://www.weclapp.com/de/buchhaltungssoftware/>
       - <https://www.invoiz.de/>
