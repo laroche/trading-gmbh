@@ -5,7 +5,7 @@ subtitle: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 #abstract: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 keywords: [GmbH, Trading, vermögensverwaltende GmbH, Steuern, Buchhaltung, Bilanz]
 author: Florian La Roche
-date: 2023-07-02
+date: 2023-09-17
 titlepage: true
 toc: true
 toc-own-page: true
@@ -55,7 +55,9 @@ Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuer
 Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
 
 
+<div style="page-break-after: always; visibility: hidden">
 \pagebreak
+</div>
 Grobe Schnellübersicht zur Geldanlage in einer GmbH
 ---------------------------------------------------
 
@@ -88,7 +90,9 @@ contra
 - <https://www.taxgate.com/trading-gmbh-spardosen-gmbh-etc-macht-das-sinn/>
 
 
+<div style="page-break-after: always; visibility: hidden">
 \pagebreak
+</div>
 Übersicht
 ---------
 
