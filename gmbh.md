@@ -452,6 +452,7 @@ Stiftungen
 - <https://www.stiftungen.org/>
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
 - [Familien- und gemeinnützige Stiftungen](https://www.youtube.com/watch?v=q4O4j2a_YAk)
+- Stiftungen können verschiedene Einkunftsarten haben
 - keine Gewerbesteuer, nur Körperschaftsteuer
 - keine gewerbesteuerliche Infektion
 - Aktiengewinne wie in der GmbH zu 95 % steuerfrei.
