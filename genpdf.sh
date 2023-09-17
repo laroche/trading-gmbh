@@ -9,6 +9,8 @@ cp todo.md todo2.md
 
 # Keine Links auf die einzelnen Kapitel notwendig:
 sed -i -e '/^Übersicht$/,$d' index2.md
+# pagebreak nur fuer pdf:
+sed -i -e 's,<!--- newpage -->,\\newpage,g' index2.md
 
 # Der letzte "title" zählt:
 sed -i -e "s/^title: .*/title: Trading-GmbH/g" todo2.md

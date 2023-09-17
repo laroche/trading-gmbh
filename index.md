@@ -55,7 +55,7 @@ Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuer
 Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
 
 
-<div style="page-break-after: always; visibility: hidden"> \newpage </div>
+<!--- newpage -->
 
 Grobe Schnellübersicht zur Geldanlage in einer GmbH
 ---------------------------------------------------
@@ -89,7 +89,7 @@ contra
 - <https://www.taxgate.com/trading-gmbh-spardosen-gmbh-etc-macht-das-sinn/>
 
 
-<div style="page-break-after: always; visibility: hidden"> \newpage </div>
+<!--- newpage -->
 
 Übersicht
 ---------
