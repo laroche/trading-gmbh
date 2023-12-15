@@ -448,6 +448,8 @@ Stiftungen
 ----------
 
 - <https://de.wikipedia.org/wiki/Stiftung_(Deutschland)>
+   - Siehe [§80 ff BGB](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000803360)
+   - Für Baden-Württemberg siehe [StiftG](https://dejure.org/gesetze/StiftG).
 - <https://nachfolgewiki.de/index.php/Familienstiftung>
 - <https://www.stiftungen.org/>
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
@@ -462,8 +464,9 @@ Stiftungen
 - Steuerfreibetrag von 5.000 € im Jahr
 - Werbungskosten nicht abziehbar, aber Sparer-Pauschbetrag von 801 € (ab 2023 1.000 €) wie bei Privatpersonen
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
-- Alle 30 Jahre wird Erbersatzsteuer auf das Vermögen erhoben mit einem Freibetrag von 800.000 Euro.
+- Alle 30 Jahre wird Erbersatzsteuer auf das Vermögen erhoben mit einem Freibetrag von 800.000 Euro (Freibetrag wie mit 2 Kindern).
    (Kann auf 30 Jahresraten aufgeteilt werden.)
+   - Siehe [§ 1 Abs. 1.4 ErbStG](https://www.gesetze-im-internet.de/erbstg_1974/__1.html).
 - Keine Wegzugsbesteuerung
 - Probleme mit der Verlustbegrenzung auf 20.000 € bei Termingeschäften wie bei Privatpersonen bleibt bestehen.
 - Häufig wird eine Familienstiftung als Holding kombiniert mit einer VVGmbH für kurzfristigem Trading.
@@ -477,10 +480,12 @@ Stiftungen
         als Sonstige Einkünfte mit dem Teileinkünfteverfahren versteuern.
       - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei".
    - Verkauf/Vermietung von Vermögensgegenständen
-- Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre)
+- Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre, gilt für Familienstiftungen)
+   - Die Besteuerung richtet sich gemäß [§ 15 Abs. 2 Satz 1 ErbStG](https://www.gesetze-im-internet.de/erbstg_1974/__15.html)
+     nach dem Verhältnis von Stifter und dem entferntest Berechtigten.
    - Aktien können ohne vorherigen Verkauf eingebracht werden. (Nur wenn der Broker das auch mitmacht.)
 - Oft wird ein Mindestvermögen von 100.000 € erwartet, damit das Vermögen langfristig erhalten bleiben kann.
-- Stiftung zählt nicht mehr zur privaten Erbmasse
+- Stiftung zählt nicht mehr zur privaten Erbmasse.
 
 
 Holding
