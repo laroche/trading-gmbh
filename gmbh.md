@@ -474,11 +474,15 @@ Stiftungen
    - Gehalt
    - Darlehen
    - Ausschüttungen (25 % oder Teileinkünfteverfahren (60 % mit Einkommensteuer, 40 % steuerfrei))
+      - Optional sollten alle Ausschüttungen über einen Beschluss dokumentiert werden.
       - Für Ausschüttungen an den Stiftungsvorstand muss die Stiftung die Kapitalerstragsteuer an das Finanzamt
-        abführen, der Vorstand muss dann nichts mehr versteuern.
-      - Für sonstige Ausschütungen an die Destinäre müssen diese in Ihrer Steuererklärung die Einnahmen
-        als Sonstige Einkünfte mit dem Teileinkünfteverfahren versteuern.
-      - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei".
+        abführen (über eine Kapitalertragsteueranmeldung), der Vorstand muss dann nichts mehr versteuern
+        und bekommt die Nettodividende.
+      - Für Ausschüttungen an Destinäre, die das Ausschüttungsverhalten nicht beeinflüssen können, müssen diese in Ihrer
+        Steuererklärung die Einnahmen als Sonstige Einkünfte (nach § 22 EStG) mit dem Teileinkünfteverfahren versteuern.
+      - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei",
+        wenn sonst keine Einkünfte vorhanden sind.
+      - Die Ausschüttung an die Destinäre ist von der Steuer bei der Stiftung genau gleich wie bei der GmbH.
    - Verkauf/Vermietung von Vermögensgegenständen
 - Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre, gilt für Familienstiftungen)
    - Die Besteuerung richtet sich gemäß [§ 15 Abs. 2 Satz 1 ErbStG](https://www.gesetze-im-internet.de/erbstg_1974/__15.html)
