@@ -460,7 +460,7 @@ Stiftungen
 - Aktiengewinne wie in der GmbH zu 95 % steuerfrei.
 - Immobilien können nach 10 Jahren steuerfrei veräußert werden (ähnlich zum Immobilienbesitz im Privatvermögen)
 - einfache Einkommenüberschussrechnung statt Bilanz
-- keine Publizitätspflicht
+- keine Publizitätspflicht wie in der GmbH
 - Steuerfreibetrag von 5.000 € im Jahr
 - Werbungskosten nicht abziehbar, aber Sparer-Pauschbetrag von 801 € (ab 2023 1.000 €) wie bei Privatpersonen
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
@@ -485,11 +485,13 @@ Stiftungen
       - Die Ausschüttung an die Destinäre ist von der Steuer bei der Stiftung genau gleich wie bei der GmbH.
    - Verkauf/Vermietung von Vermögensgegenständen
 - Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre, gilt für Familienstiftungen)
+   - Einbringung von 400.000 € pro Person sollte ohne Erbschaftsteuer möglich sein.
    - Die Besteuerung richtet sich gemäß [§ 15 Abs. 2 Satz 1 ErbStG](https://www.gesetze-im-internet.de/erbstg_1974/__15.html)
      nach dem Verhältnis von Stifter und dem entferntest Berechtigten.
    - Aktien können ohne vorherigen Verkauf eingebracht werden. (Nur wenn der Broker das auch mitmacht.)
 - Oft wird ein Mindestvermögen von 100.000 € erwartet, damit das Vermögen langfristig erhalten bleiben kann.
 - Stiftung zählt nicht mehr zur privaten Erbmasse.
+  Wie bei einer GmbH wird hier eine eigentständige juristische Person geschaffen.
 
 
 Holding
