@@ -5,7 +5,7 @@ subtitle: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 #abstract: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 keywords: [GmbH, Trading, vermögensverwaltende GmbH, Steuern, Buchhaltung, Bilanz]
 author: Florian La Roche
-date: 2023-12-27
+date: 2024-01-13
 titlepage: true
 toc: true
 toc-own-page: true
@@ -34,13 +34,13 @@ Dieses Dokument soll als Community-Projekt weiter ausgebaut und verwaltet werden
 Motivation
 ----------
 
-Sammlung von Informationen, um in einer vermögensverwaltenden GmbH oder UG seine Börsengeschäfte
+Sammlung von Informationen, um in einer vermögensverwaltenden GmbH (vvGmbH) oder UG seine Börsengeschäfte
 in Deutschland zu verwalten. Was gehört zur Gründung und was fällt an Verwaltung für den laufenden
 Betrieb an, welche steuerlichen Vorschriften gibt es und was ist für einen Firmenaccount an der
 Börse zu beachten.
 
 - Möglichst gute Trennung von den allgemeinen Regelungen für alle GmbHs und den speziellen Besonderheiten
-  für eine Trading GmbH.
+  für eine Trading GmbH (vvGmbH).
 - Direkter Verweis auf Gesetzestexte, damit die Regelungen dort im Detail nachgelesen werden können.
 
 Neben den vielen allgemeinen Regelungen zur GmbH sollte man schauen, dass alle
@@ -81,6 +81,8 @@ contra
   können die Steuerlast in die Höhe treiben.
 - Solange man nicht ganz viele Kosten in die GmbH einbringen kann, bleiben die zu zahlenden
   Steuern recht hoch.
+- Ein Umzug ins Ausland (auch andere europäische Staaten) führt zu einer Wegzugsbesteuerung der GmbH.
+  Eventuell kann eine Stiftung als Holding über der GmbH die Situation verbessern.
 - Ein guter Übergang zur nächsten Generation (über eine Beteiligung an der GmbH) wird auch oft beworben,
   dieser ist aber auch mit Steuerberater, Notar etc verbunden. Auch eine Fortführung bei der Geldanlage
   über mehrere Generationen wird durch eine GmbH nicht umbedingt einfacher.
