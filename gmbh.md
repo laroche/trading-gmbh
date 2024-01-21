@@ -532,6 +532,7 @@ Aktueller Gewinn der Kapitalgesellschaft * 7 Jahre ist der fiktive Gewinn, der s
 
 - <https://www.staatenlos.ch/>
 - [Facebook: Staatenlos Mastermind](https://www.facebook.com/groups/906274769393425/)
+- [RA Dr. Tim Greenawalt: BMF verschärft Steuern für Auswanderer!](https://www.youtube.com/watch?v=46bAenF21TE)
 
 
 Firma im Ausland gründen
