@@ -42,6 +42,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - <https://www.qplix.com/>
       - Partner von Ride, Automatisierung und Zusammenführung von Wertvermögen
    - <https://fintegra.de/>
+      - Auch via CapTrader angeboten: <https://www.captrader.com/betriebliches-steuerreporting/>
    - <https://www.atypischstill.com/>
       - <https://www.facebook.com/groups/2388434054531622/>
    - <https://www.fuer-gruender.de/>
