@@ -73,12 +73,13 @@ Informationen zur GmbH
 - Gesellschafterversammlung einmal im Jahr
 - LEI-Nummer muss jährlich bezahlt werden (130 € am Anfang, dann 70 € pro Jahr)
    - <https://lei.info/portal/faqs/>
+   - <https://www.gleif.org/en/about-lei/get-an-lei-find-lei-issuing-organizations>
    - <https://de.wikipedia.org/wiki/Legal_Entity_Identifier>
-      - <https://lei-codes.de/#/providers/DE>
-      - <https://lei.bloomberg.com/> ($65 und dann $50/Jahr)
-      - <https://leiservice.com/germany> (39 €/Jahr, 175 € für 5 Jahre)
-      - <https://www.leinummer.de/> (59 €/Jahr, 150 € für 3 Jahre)
-      - <https://www.wm-leiportal.org/>
+      - <https://lei-codes.de/#providers/DE>
+      - <https://leiservice.com/germany> (ab 35 €/Jahr für 5 Jahre Laufzeit)
+      - <https://www.leinummer.de/> (30 €/Jahr, 120 € für 5 Jahre, Verlängerung mind. 49 €/Jahr)
+      - <https://lei.bloomberg.com/> ($60 und dann $40/Jahr)
+      - <https://www.wm-leiportal.org/> (250 € für 5 Jahre)
       - <https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/legal-entity-identifier-lei/> (65 € excl. VAT, dann 40 € excl. VAT)
       - <https://www.lei.direct/> (89 €, dann 59 €/Jahr)
       - <https://www.leireg.de/>
