@@ -456,9 +456,11 @@ Stiftungen
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
 - [Familien- und gemeinnützige Stiftungen](https://www.youtube.com/watch?v=q4O4j2a_YAk)
 - Stiftungen können verschiedene Einkunftsarten haben
-- keine Gewerbesteuer, nur Körperschaftsteuer
+- keine Gewerbesteuer, nur Körperschaftsteuer (+Soli) von 15,825 %.
 - keine gewerbesteuerliche Infektion
-- Aktiengewinne wie in der GmbH zu 95 % steuerfrei.
+- (Einzel-)Aktiengewinne wie in der GmbH zu 95 % steuerfrei. (Damit werden 0,791 % Steuern gezahlt. 5 % * 15,825 %.)
+- Dividenden und viele andere Börsengewinne wie Optionen werden zu 15,825 % besteuert.
+- Laut Investmentsteuergesetz werden Aktien-ETFs und Ihre Dividenden zu 20 % besteuert (20 % * 15,825 % = 3,165 %).
 - Immobilien können nach 10 Jahren steuerfrei veräußert werden (ähnlich zum Immobilienbesitz im Privatvermögen)
 - einfache Einkommenüberschussrechnung statt Bilanz
 - keine Publizitätspflicht wie in der GmbH
@@ -481,6 +483,7 @@ Stiftungen
         und bekommt die Nettodividende.
       - Für Ausschüttungen an Destinäre, die das Ausschüttungsverhalten nicht beeinflüssen können, müssen diese in Ihrer
         Steuererklärung die Einnahmen als Sonstige Einkünfte (nach § 22 EStG) mit dem Teileinkünfteverfahren versteuern.
+        Werbungskosten sind dann auch zu 60 % abzugsfähig.
       - Mit dem Teileinkünfteverfahren sind Ausschüttungen bis zu ca. 16.000 € pro Jahr "steuerfrei",
         wenn sonst keine Einkünfte vorhanden sind.
       - Die Ausschüttung an die Destinäre ist von der Steuer bei der Stiftung genau gleich wie bei der GmbH.
