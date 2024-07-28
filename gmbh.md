@@ -523,6 +523,8 @@ Immobilien
 ----------
 
 - <https://www.youtube.com/watch?v=J81Saj6-OeM>
+- Energieausweise erstellen: <https://effizienzhaus.zukunft-haus.info/aussteller/suche-experten/>
+- Energieausweis Online: <https://portal.energieausweis48.de/>
 
 
 Wegzugsbesteuerung
