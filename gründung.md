@@ -193,13 +193,15 @@ Unternehmergesellschaft UG
    - <https://www.gesetze-im-internet.de/gmbhg/__5a.html>
    - <https://gmbhg.kommentar.de/Abschnitt-1/Unternehmergesellschaft>
 - Bis auf das Stammkapital haben die UG und die GmbH weitgehend gleiche Vorschriften.
-- Wenn möglich sollte immer direkt eine GmbH gegründet werden.
+- Wenn möglich sollte immer direkt eine GmbH gegründet werden. Dies kostet ca. 390€ mittels Musterprotokoll, gegenüber rund 1000€ für UG-Gründung (~200€) und spätere Umwandlung in GmbH (~800€), was zusätzlich erheblichen Aufwand bedeuten kann (Ummeldungen bei IHK, Finanzamt, Gewerbeamt, Banken, Brokern, LEI-Nummer, Website, Briefpapier etc. etc.) 
 - Stammkapital/Gründungskapital ist mindestens 1 € und sollte alle laufenden Kosten decken. Für das erste Jahr ist mit 1.000 € zu rechnen.
 - Ab 25.000 € wird die UG zur GmbH. Das ist aber keine Pflicht.
    - Wirtschaftsprüfer und Notar wieder nötig oder man gründet dann eine neue unabhängige GmbH, um Kosten zu sparen.
-- Gesetzliche Rücklageverpflichtung von 25 % vom Gewinn. Diese endet erst, wenn eine Kapitalerhöhung auf 25.000 € beschlossen und im Handelsregister eingetragen wird.
-- Freibeträge (bei der Gewerbesteuer?)
-- keine Sacheinlagen möglich
+   - https://steuba.de/gmbh/unternehmergesellschaft-erhoehung-stammkapital-umwandlung/
+   - https://www.businessinsider.de/gruenderszene/allgemein/ug-gmbh-umwandlung-notarkosten/
+- Gesetzliche Rücklageverpflichtung von 25 % vom Gewinn. Diese endet erst, wenn eine Kapitalerhöhung auf 25.000 € beschlossen und im Handelsregister eingetragen wird. Erhöht bis dahin den Buchhaltungsaufwand gegenüber einer GmbH!
+- keine Freibeträge für Gewerbesteuer o.ä.
+- keine Sachgründung möglich
 
 
 Personenhandelsgesellschaften wie Kapitalgesellschaft besteuern
@@ -222,19 +224,19 @@ Kosten einer GmbH
       - <https://www.starting-up.de/gruenden/rechtsformen/ug-haftungsbeschraenkt/ug-gruendung-kosten.html>
       - <http://www.notar-lohr.de/pdf/skripte/gmbh_skrip_notarkammer_2014.pdf>
    - Handelsregister (Amtsgericht) 150 €
-   - Gewerbeamt 60 € (nicht für rein vermögensverwaltende Gesellschaften notwendig)
-   - Eröffnungsbilanz vom Steuerberater 300 €
+   - Gewerbeamt 30-60 € je nach Gemeinde (nicht für rein vermögensverwaltende Gesellschaften notwendig)
+   - Eröffnungsbilanz vom Steuerberater 300 € (oder für 0€ selbst erstellen)
 - jährliche Kosten (ab ca. 4.000 € pro Jahr)
-   - 150 € Firmenkonto
-   - 300 € IHK
+   - 150 € Firmenkonto (z.B. Sparkasse 11€/Monat)
+   - 200 € IHK Mindestbeitrag, bei hohen Umsätzen auch mehr
    - 20,80 € ab 2022 zuzüglich Mehrwertsteuer: [Transparenzregister Gebührenverordnung TrGebV](https://www.gesetze-im-internet.de/trgebv_2020/anlage.html)
-   - 70 € LEI
-   - 40 € Bundesanzeiger
+   - 70 € LEI beim Bundesanzeiger direkt (39€ bei https://leiservice.com)
+   - (40 € Bundesanzeiger) Für kleine GmbHs reicht die kostenlose Hinterlegung im Transparenzregister
    - Briefkastenmiete
    - Miete für den Sitz/Geschäftsräume
-   - 156 € Steuersoftware Kontolino
-   - 2700 € Erstellung des Jahresabschlusses (Bilanz, GuV) und Buchhaltung vom Steuerberater
-   - 700 € Lohnbuchhaltung vom Steuerberater
+   - 156 € Steuersoftware Kontolino (Oder z.B. Taxpool für 110€: https://www.taxpool.net/downloads/taxpool-buchhalter/bilanz.html)
+   - 2700 € Erstellung des Jahresabschlusses (Bilanz, GuV) und Buchhaltung vom Steuerberater (oder kostenlos selbst erstellen)
+   - 700 € Lohnbuchhaltung vom Steuerberater (oder 12€/Monat bei z.B. [lexoffice.de](https://www.lexoffice.de/lohnprogramm-lohnsoftware/)
    - In Zukunft kann eine Rentenversicherungspflicht für den Geschäftsführer kommen. (Bisher nicht in Sicht.)
       - <https://www.finanzkueche.de/blog/rentenversicherungspflicht-fuer-selbstaendige>
    - höhere Kosten beim Broker für einen GmbH-Kunden
