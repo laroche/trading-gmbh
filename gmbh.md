@@ -76,8 +76,8 @@ Informationen zur GmbH
    - <https://www.gleif.org/en/about-lei/get-an-lei-find-lei-issuing-organizations>
    - <https://de.wikipedia.org/wiki/Legal_Entity_Identifier>
       - <https://lei-codes.de/#providers/DE>
-      - <https://leiservice.com/germany> (ab 35 €/Jahr für 5 Jahre Laufzeit)
-      - <https://www.leinummer.de/> (30 €/Jahr, 120 € für 5 Jahre, Verlängerung mind. 49 €/Jahr)
+      - <https://leiservice.com/germany> (ab 31 €/Jahr für 5 Jahre Laufzeit)
+      - <https://www.leinummer.de/> (59 €/Jahr, 225 € für 5 Jahre, Verlängerung mind. 49 €/Jahr)
       - <https://lei.bloomberg.com/> ($60 und dann $40/Jahr)
       - <https://www.wm-leiportal.org/> (250 € für 5 Jahre)
       - <https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/legal-entity-identifier-lei/> (65 € excl. VAT, dann 40 € excl. VAT)
@@ -85,7 +85,7 @@ Informationen zur GmbH
       - <https://www.leireg.de/>
       - <https://www-en.kdd.si/> <https://storitve.kdd.si/lei/en/index>
       - <https://www.gleif.org/de/lei/search>
-   - Für Privatkunden ist ab dem 03.01.2018 für den Wertpapierhandel statt einer LEI eine CONCAT erforderlich.
+   - Für Privatkunden ist ab 2018 für den Wertpapierhandel statt einer LEI eine CONCAT erforderlich.
      Diese wird wohl auf Basis der steuerlichen Id-Nr. vergeben und vom Broker automatisch beantragt.
       - <https://de.wikipedia.org/wiki/CONCAT>
 - Gründungszuschuss von der Arbeitsagentur prüfen (nennt sich "Einstiegsgeld")
@@ -104,14 +104,15 @@ Informationen zur GmbH
       - Werden die Teilfreistellungen nach dem Investmentsteuergesetz mit dem richtigen Prozentsatz berechnet und nicht dem für Privatanleger?
    - Gebühren für Professionals bei IB: <https://www.interactivebrokers.eu/de/index.php?f=15537>
 - Geschäftskonto:
-   - [Fyrst](https://www.fyrst.de/konten/), [Fidor Bank](https://fidor.de/), [PENTA](https://getpenta.com/de/firmenkonto/), [Holvi](https://www.holvi.com/),
-     N26 (keine Geschäftskonten?), [Deutsche Bank](https://www.deutsche-bank.de/gk/zahlungsverkehr/zahlungsverkehr-im-ueberblick/geschaeftskonto.html),
-     [Kontist](https://kontist.com/), [Skatbank](https://www.skatbank.de/geschaeftskunden/geschaeftskonto/kontomodelle/trumpfkonto_business.html),
+   - [Fyrst](https://www.fyrst.de/konten.html), [PENTA](https://getpenta.com/de/firmenkonto/), [Holvi](https://www.holvi.com/),
+     [Deutsche Bank](https://www.deutsche-bank.de/gk/zahlungsverkehr/zahlungsverkehr-im-ueberblick/geschaeftskonto.html),
+     [Skatbank](https://www.skatbank.de/geschaeftskunden/geschaeftskonto/kontomodelle/trumpfkonto_business.html),
      [Grenke](https://www.grenke.de/produkte/konten/business),
-     [Revolut](https://business.revolut.com/), [FINOM](https://finom.de/),
+     [FINOM](https://finom.de/),
      [qonto](https://qonto.com/),
      [VWFS](https://www.vwfs.de/geschaeftskunden/geldanlage.html)
-   - Kreditkarte für das Geschäftskonto? Mastercard bei Interactive Brokers?
+   - Kreditkarte für das Geschäftskonto?
+      - Interactive Brokers hat in Europa keine Kreditkarte (Mastercard) im Angebot.
       - In Deutschland sind vor allem die Santander 1plus VISA-Card, die Barclaycard Visa und die DKB Cash Visa sehr beliebt.
       - <https://www.gebuhrenfrei.com/>
       - <https://www.n-tv.de/ratgeber/Nur-eine-Karte-ist-ohne-Tuecken-kostenlos-article21849133.html>
@@ -554,14 +555,13 @@ Spezielle Links für alle, die in Stuttgart eine GmbH gründen wollen:
 
 - [IHK Stuttgart: Firmenname-Recherche](https://www.stuttgart.ihk24.de/fuer-unternehmen/weitere-services/firmen/firmennamen-666050)
 - [IHK Stuttgart Mitgliedsbeitrag](https://www.stuttgart.ihk24.de/ueber-uns/beitraege/asbeitrag-664170)
-   - Für eine GmbH ist für das Jahr 2022 ein Grundbeitrag von 290 Euro und eine Umlage von 0,21 % des Gewerbeertrags zu zahlen.
-     (Das sind bei 50.000 € Gewerbeertrag dann 105 € Umlage.)
-- [Gewerbeanmeldung in Stuttgart](https://www.stuttgart.de/vv/leistungen/gewerbe-anmelden.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C104840)
+   - Für eine GmbH ist für das Jahr 2024 ein Grundbeitrag von 220 Euro und eine Umlage von 0,14 % des Gewerbeertrags zu zahlen.
+     (Das sind bei 50.000 € Gewerbeertrag dann 70 € Umlage.)
+- [Gewerbeanmeldung in Stuttgart](https://www.stuttgart.de/organigramm/leistungen/gewerbe-anmelden.php)
    - Ausgenommen davon sind: die ausschließliche Verwaltung eigenen Vermögens
-   - <https://www.stuttgart.de/medien/ibs/gewerbeanmeldung.pdf>
-   - Gewerbeanmeldung kostet 60 € (Stand 2021/05)
-- Abfallgebühren: Abfallwirtschaftssatzung der Landeshauptstadt Stuttgart (AfS) zuletzt geändert am 5.12.2019 (Amtsblatt der Landeshauptstadt Stuttgart Nr. 50 vom 12.12.2019)
-   - Abfallgebühren noch nicht nachgeschaut, online scheinen die nicht zu sein.
+   - Gewerbeanmeldung kostet 59 € (Stand 2024/08)
+- [Abfallgebühren Stuttgart](https://www.stuttgart.de/rathaus/finanzen/steuern-und-abgaben/abfallgebuehren.php)
+   - [Abfallwirtschaftssatzung der Landeshauptstadt Stuttgart – AfS](https://www.stuttgart.de/medien/ibs/7-10.pdf)
 
 
 München

@@ -5,7 +5,7 @@ subtitle: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 #abstract: Sammlung an Informationen zu einer vermögensverwaltenden Trading-GmbH
 keywords: [GmbH, Trading, vermögensverwaltende GmbH, Steuern, Buchhaltung, Bilanz]
 author: Florian La Roche
-date: 2024-07-28
+date: 2024-08-03
 titlepage: true
 toc: true
 toc-own-page: true
@@ -64,9 +64,9 @@ pro
 
 - Einzelaktien werden nur mit ca. 1.6 % besteuert. Alles andere mit ca. 30 %. Daher wird für eine
   GmbH eine Anlage in Einzelaktien empfohlen.
-- Keine Termingeschäftsverlustbegrenzung von 20.000 Euro pro Jahr und pro Person wie im Privatbereich
-  in Deutschlang aktuell von der Politik entschieden wurde. Die verhindert im Privatbereich u.a. Future-Trading
-  und alle Long-Optionen und daher Risikoreduzierung, Hedging und komplexere Optionsgeschäfte.
+- Keine Termingeschäftsverlustbegrenzung von 20.000 Euro pro Jahr und pro Person wie es im Privatbereich
+  in Deutschland aktuell gilt. Dies verhindert im Privatbereich u.a. Future-Trading und alle Long-Optionen
+  und daher Risikoreduzierung, Hedging und komplexere Optionsgeschäfte.
   Dies ist oft der Hauptgrund für eine Verlagerung des Tradings vom Privatbereich in eine GmbH.
 - Keine Werbekostenpauschale wie im Privatbereich, sondern alle Ausgaben (Computer,
   Internet, Seminare etc) mindern den steuerpflichtigen Gewinn.
@@ -84,7 +84,7 @@ contra
 - Ein Umzug ins Ausland (auch andere europäische Staaten) führt zu einer Wegzugsbesteuerung der GmbH.
   Eventuell kann eine Stiftung als Holding über der GmbH die Situation verbessern.
 - Ein guter Übergang zur nächsten Generation (über eine Beteiligung an der GmbH) wird auch oft beworben,
-  dieser ist aber auch mit Steuerberater, Notar etc verbunden. Auch eine Fortführung bei der Geldanlage
+  dieser ist aber auch mit Steuerberater, Notar etc verbunden. Auch eine Fortführung der Geldanlage
   über mehrere Generationen wird durch eine GmbH nicht umbedingt einfacher.
   Geldanlage bleibt eine sehr individuelle Entscheidung, angepasst an die eigene Lebenssituation und die
   eigenen Bedürfnisse.
