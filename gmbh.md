@@ -145,6 +145,7 @@ Informationen zur GmbH
       - Online-Zugang und per App (iOS und Android)
       - Cloud-Belegablage mit Buchungsverknüpfung statt Papierbelegablage
    - Software
+      - [Software mit Unterstützung für ELSTER](https://www.elster.de/elsterweb/softwareprodukt)
       - [Monkey Office der Firma ProSaldo](https://www.monkey-office.de/products/monkeyoffice/index.html)
       - [Kontolino](https://www.kontolino.de/)
          - <https://twitter.com/kontolino>
