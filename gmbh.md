@@ -279,12 +279,13 @@ Herausnahme von Kapital aus der GmbH
    - Lohnsteuer muss gezahlt werden.
    - Für den GF sozialabgabenfrei.
 - Gewinnausschüttung ([YouTube Christoph Juhn: Gewinnausschüttung einer GmbH](https://www.youtube.com/watch?v=hnjQMGZ88mY)):
+   - [YouTube StbGesierich: Gewinnausschüttung](https://www.youtube.com/watch?v=pern2rcjObI)
    - Standardverfahren: Kapitalertragsteuer(KapESt)/Abgeltungsteuer(25 %) + SolZ = 26,375 %
    - [Teileinkünfteverfahren](https://de.wikipedia.org/wiki/Teileink%C3%BCnfteverfahren)
      mit 40 % steuerfrei und 60 % mit persönlichem Steuersatz (Einkommensteuer)
       - Teileinkünfteverfahren lohnt sich immer dann, wenn der persönliche Steuersatz unter 42 % liegt,
         ansonsten sind die Steuerbeträge fast gleich.
-      - Teileinkünfteverfahren muss bei Abgabe der Steuererklärung beantragt werden.
+      - Teileinkünfteverfahren muss bei Abgabe der Steuererklärung beantragt werden. (Gilt dann für 5 Jahre.)
       - Kann nur bei mindestens 1 % Beteiligung für den GF geschehen oder mindestens 25 % für Gesellschafter.
       - Beim Teileinkünfteverfahren darf man dann auch 60 % der Werbungskosten bei der ESt geltend machen, bei der KapESt gibt es nur den Sparerpauschbetrag.
       - <https://www.wista-ag.de/wahlrecht-zum-ausschluss-des-abgeltungsteuersatzes-auf-gewinnausschuettungen-bei-beteiligung-und-beruflicher-taetigkeit-fuer-die-gmbh/>
