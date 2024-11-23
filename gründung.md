@@ -28,6 +28,7 @@ Folgende Informationen aus dem Internet sind dazu interessant:
    - [Facebook-Gruppe: Vermögensverwaltende GmbH](https://www.facebook.com/groups/479506939632634/)
    - automatisierte Buchhaltung für Interactive Brokers mit SKR04: <https://github.com/Daywalker7754/Generosity>
    - <https://www.steueragenten.de/mandanten/vermoegensverwaltende-gesellschaften/>
+   - <https://wertpapiere-verbuchen.de/>
    - <https://www.ride.capital/trader-gmbh>
       - [YouTube: RIDE Capital](https://www.youtube.com/c/RIDECapital/videos)
    - [Bundesverband selbständiger Buchhalter und Bilanzbuchhalter](https://bbh.de/)
