@@ -327,6 +327,12 @@ Links:
 - [YouTube Juhn: 5 Steuervorteile der GmbH](https://www.youtube.com/watch?v=eu29ZYehds8)
 
 
+Liquidation einer GmbH
+----------------------
+
+- <https://www.youtube.com/watch?v=JmMcl_TWIAQ>
+
+
 Besteuerung von Börsen-Gewinnen und -Verlusten
 ----------------------------------------------
 
