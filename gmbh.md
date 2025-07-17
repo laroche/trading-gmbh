@@ -473,6 +473,8 @@ Stiftungen
 - Immobilien können nach 10 Jahren steuerfrei veräußert werden (ähnlich zum Immobilienbesitz im Privatvermögen)
 - einfache Einkommenüberschussrechnung statt Bilanz
 - keine Publizitätspflicht wie in der GmbH
+- Ab 2026 soll es ein bundeseinheitliches Stiftungsregister geben, in das man sich bis Ende 2026 eintragen muss.
+  Damit lassen sich die offiziellen Vertreter einer Stiftung ablesen.
 - Steuerfreibetrag von 5.000 € im Jahr
 - Werbungskosten nicht abziehbar, aber Sparer-Pauschbetrag von 801 € (ab 2023 1.000 €) wie bei Privatpersonen
 - Privatnützige Familienstiftungen unterliegen u.U. der Schenkungssteuer.
