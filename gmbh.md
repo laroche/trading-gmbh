@@ -256,6 +256,7 @@ Betriebsausgaben
    - sonst [AFA](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Betriebspruefung/AfA-Tabellen/Ergaenzende-AfA-Tabellen/AfA-Tabelle_AV.pdf?__blob=publicationFile&v=3) auf mehrere Jahre
    - Die geringwertigen Wirtschaftsgüter mit Anschaffungskosten bis 800 € werden gem. § 6 Abs. 2 EStG im Jahr der Anschaffung voll abgeschrieben.
 - Steuerfreie Zuwendungen an Arbeitnehmer
+   - [StbGesierich: Diese Extras zum Arbeitslohn kosten Sie als Arbeitgeber keine Steuer](https://www.youtube.com/watch?v=GywMAalbwO0)
    - <https://www.finanztip.de/steuerfreie-sachzuwendungen/>
    - [BMF-Schreiben zu Geldleistung und Sachbezug](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2022-03-15-abgrenzung-zwischen-geldleistung-und-sachbezug.pdf?__blob=publicationFile&v=2)
    - 44 € Sachbezüge pro Monat (ab 2022: 50€/Monat)
