@@ -295,7 +295,7 @@ Herausnahme von Kapital aus der GmbH
   Teileinkünfteverfahren optieren, bei dem nur 60 % der Einkünfte zu versteuern sind.
   9.000 € pro Jahr / 60 % = 15.000 € pro Jahr = 1.250 € pro Monat pro Person.
   Wenn man als Ehepaar und die Kinder eingetragen ist, kann hier die Ausschüttungsquote erhöht werden.
-  2022 ist der Freibetrag 10.347 €, 2023 10.908 € und 2024 11.604 €.
+  2022 ist der Freibetrag 10.347 €, 2023 10.908 €, 2024 11.604 €, 2025 12.096 € und 2026 12.348 €.
    - <https://www.gesetze-im-internet.de/estg/__32a.html>
 - Dem Kind steht für Kapitalerträge nicht nur der Sparerpauschbetrag von 801 € (ab 2023 1.000 €) zu, sondern
   auch der Grundfreibetrag von 8.130 € sowie der Sonderausgabenpauschbetrag von 36 €. Damit kann jedes Kind
