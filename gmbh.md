@@ -501,11 +501,15 @@ Stiftungen
       - Die Ausschüttung an die Destinäre ist von der Steuer bei der Stiftung genau gleich wie bei der GmbH.
    - Verkauf/Vermietung von Vermögensgegenständen
 - Einbringung von 100.000 € pro Person ohne Steuern (in Abhänigkeit der Destinäre, gilt für Familienstiftungen)
-   - Einbringung von 400.000 € pro Person sollte ohne Erbschaftsteuer möglich sein.
+   - Einbringung von 400.000 € pro Person sollte ohne Erbschaftsteuer möglich sein für sich und die Kinder.
+      - 200.000 € pro Person für eine Stiftung für sich selbst, die Kinder und Enkelkinder.
+      - 100.000 € pro Person für eine Stiftung für sich selbst und alle Nachkommen.
    - Die Besteuerung richtet sich gemäß [§ 15 Abs. 2 Satz 1 ErbStG](https://www.gesetze-im-internet.de/erbstg_1974/__15.html)
      nach dem Verhältnis von Stifter und dem entferntest Berechtigten.
    - Aktien können ohne vorherigen Verkauf eingebracht werden. (Nur wenn der Broker das auch mitmacht.)
 - Oft wird ein Mindestvermögen von 100.000 € erwartet, damit das Vermögen langfristig erhalten bleiben kann.
+- Wird die Stiftung später aufgelöst, dann können Kinder 400.000 € steuerfrei ausgezahlt bekommen,
+  Enkelkinder 200.000 €.
 - Stiftung zählt nicht mehr zur privaten Erbmasse.
   Wie bei einer GmbH wird hier eine eigentständige juristische Person geschaffen.
 
