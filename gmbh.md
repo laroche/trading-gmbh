@@ -464,6 +464,7 @@ Stiftungen
 - <https://nachfolgewiki.de/index.php/Familienstiftung>
 - <https://www.stiftungen.org/>
 - <https://immlab.de/deine-eigene-stiftung-gruenden/>
+- [Sascha Drache, Stiftungsexperte: So sichern elitäre Familien ihre Macht](https://www.youtube.com/watch?v=RwVHaOAfEUM)
 - [Familien- und gemeinnützige Stiftungen](https://www.youtube.com/watch?v=q4O4j2a_YAk)
 - Stiftungen können verschiedene Einkunftsarten haben
 - keine Gewerbesteuer, nur Körperschaftsteuer (+Soli) von 15,825 %.
